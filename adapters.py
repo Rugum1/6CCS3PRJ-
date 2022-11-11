@@ -1,59 +1,35 @@
 from chatterbot.logic import LogicAdapter
 from chatterbot.conversation import Statement
-from bs4 import BeautifulSoup
-import wikipedia
-import requests
 import spacy
-import difflib
-from difflib import SequenceMatcher
+from helper_methods_for_adapters import CsTermsAdapterHelpers
+import wikipedia
+from  spell_checker import CSTermsSpellChecker as spell
 
-class MyLogicAdapter(LogicAdapter):
+class CsTermsAdapter(LogicAdapter):
 
     def __init__(self, chatbot, **kwargs):
         super().__init__(chatbot, **kwargs)
 
 
     def can_process(self, statement):
-        # nlp = spacy.load("cs_ner")
-        # doc = nlp(statement.text)
-        # for ent in doc.ents:
-        #     if ent.label_ is "CS_TERM":
-        #         return True
-        return True
-
-
-    def create_serach_id(term):
-        list_of_words = term.split()
-        id = ""
-        for i  in len(list_of_words):
-            if i < len(list_of_words) - 1 :
-                 id+= list_of_words.get(i) + "_"
-
-        return id
-
-
+        statement.text = spell.check_spelling(statement.text)
+        text_input = statement.text
+        nlp = spacy.load("cs_ner")
+        doc = nlp(text_input)
+        for ent in doc.ents:
+            if ent.label_  == "CS_TERM":
+                return True
+        return False
 
     def process(self, input_statement, additional_response_selection_parameters):
+        
         confidence = 1
 
         nlp = spacy.load("cs_ner")
         doc = nlp(input_statement.text)
         ent = doc.ents
 
-        url = "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
-
-        s = requests.get(url)
-        soup = BeautifulSoup(s.text,"lxml")
-
-        query = ent[0].text.replace(" ", "_")
-
-        print(query)
-        sources = soup.find("dt",{"id": query})
-        print(sources)
-
-
-        response = sources.findNext("dd").get_text()
-
+        response = CsTermsAdapterHelpers.get_sources(ent[0].text)
 
         selected_statement = Statement(text = response)
 

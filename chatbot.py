@@ -4,9 +4,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 import spacy
 # import nltk
 
-# Uncomment the following lines to enable verbose logging
-# import logging
-# logging.basicConfig(level=logging.INFO)
+
 
 #Create a new instance of a ChatBot
 
@@ -15,17 +13,12 @@ bot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
         {
-            'import_path': 'adapters.MyLogicAdapter',
+            'import_path': 'adapters.CsTermsAdapter',
         },
-        # 'chatterbot.logic.MathematicalEvaluation',
-        # 'chatterbot.logic.TimeLogicAdapter',
-        # 'chatterbot.logic.BestMatch'
+
     ],
     database_uri='sqlite:///database.sqlite3'
 )
-
-# trainer = ChatterBotCorpusTrainer(bot)
-# trainer.train("chatterbot.corpus.english")
 
 
 print('Type something to begin...')
@@ -34,12 +27,14 @@ print('Type something to begin...')
 while True:
     try:
         user_input = input()
-
         bot_response = bot.get_response(user_input)
 
         print(bot_response)
         print()
 
     # Press ctrl-c or ctrl-d on the keyboard to exit
+    except Exception as e:
+           bot_response = "I do not understand what you mean"
+           print(bot_response)
     except (KeyboardInterrupt, EOFError, SystemExit):
         break

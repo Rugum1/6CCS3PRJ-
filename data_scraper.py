@@ -12,14 +12,17 @@ url = "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
 # print(SequenceMatcher(None))
 # file = "./data/computer_science_abreviations.json"
 #
-s = requests.get(url)
-soup = BeautifulSoup(s.text,"lxml")
-sources = soup.findAll("dt", {"class" : "glossary"})
-list_of_strings = []
+# s = requests.get(url)
+# soup = BeautifulSoup(s.text,"lxml")
+# sources = soup.findAll("dt", {"class" : "glossary"})
+# list_of_strings = []
+#
+# for source in sources:
+#     if SequenceMatcher(None,source.get_text(),"abstract data type").ratio() > 0.7:
+#         print(source.string)
 
-for source in sources:
-    if SequenceMatcher(None,source.get_text(),"abstract data type").ratio() > 0.7:
-        print(source.string)
+
+
 
     # if (SequenceMatcher(None, source.get_text(), "abstract data type").ratio() > 0.6):
     #     list_of_strings.append(source.get_text())
