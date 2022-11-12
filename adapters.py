@@ -2,7 +2,6 @@ from chatterbot.logic import LogicAdapter
 from chatterbot.conversation import Statement
 import spacy
 from helper_methods_for_adapters import CsTermsAdapterHelpers
-import wikipedia
 from  spell_checker import CSTermsSpellChecker as spell
 
 class CsTermsAdapter(LogicAdapter):
@@ -14,7 +13,7 @@ class CsTermsAdapter(LogicAdapter):
     def can_process(self, statement):
         statement.text = spell.check_spelling(statement.text)
         text_input = statement.text
-        nlp = spacy.load("cs_ner")
+        nlp = spacy.load("NER_models/cs_ner")
         doc = nlp(text_input)
         for ent in doc.ents:
             if ent.label_  == "CS_TERM":
@@ -22,10 +21,10 @@ class CsTermsAdapter(LogicAdapter):
         return False
 
     def process(self, input_statement, additional_response_selection_parameters):
-        
+
         confidence = 1
 
-        nlp = spacy.load("cs_ner")
+        nlp = spacy.load("NER_models/cs_ner")
         doc = nlp(input_statement.text)
         ent = doc.ents
 
