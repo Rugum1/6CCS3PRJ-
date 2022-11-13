@@ -27,10 +27,9 @@ class DataScraper:
 
     def write_to_json_file(self,file,data):
         with open(file,'w',encoding = "utf-8") as f:
-            for term in data:
-                input_text = term.findNext("a")
-                f.write(json.dumps(input_text.get_text()) + ",\n")
-                f.write(json.dumps(("(" + input_text.get_text()+ ")" ))+ ",\n")
+            for input_text in data:
+                f.write(json.dumps(input_text) + ",\n")
+
 
     def write_to_csv_file_v2(self,file,sources,header):
          with open(file,'w',encoding ="utf-8", newline ='') as f:
@@ -67,20 +66,22 @@ class DataScraper:
             writer = csv.writer(f)
             writer.writerow(header)
             for source in sources:
-                writer.writerow([source.get_text(),source.findNext("dd").get_text()])
-                if "-" in source.get_text():
-                    writer.writerow([source.get_text().replace("-"," "),source.findNext("dd").get_text()])
-
-
-                if "(" in source.get_text():
-                    writer.writerow([source.get_text().replace("(","").replace(")",""),source.findNext("dd").get_text()])
-
-
+                text  = source.get_text().strip()
+                if  len(text) > 1:
+                    writer.writerow([source.get_text().strip(),source.findNext("p").get_text()])
                     if "-" in source.get_text():
-                        writer.writerow([source.get_text().replace("(","").replace(")","").replace("-"," "), source.findNext("dd").get_text()])
+                        writer.writerow([source.get_text().replace("-"," ").strip(),source.findNext("p").get_text()])
 
-                        data = cleaner.remove_abreviations(source.get_text().replace("(","").replace(")",""))
-                        writer.writerow([data[0].strip(), source.findNext("dd").get_text()])
 
-                    data = cleaner.remove_abreviations(source.get_text().replace("(","").replace(")","").replace("-"," "))
-                    writer.writerow([data[0].strip(), source.findNext("dd").get_text()])
+                    if "(" in source.get_text():
+                        writer.writerow([source.get_text().replace("(","").replace(")","").strip(),source.findNext("p").get_text()])
+
+
+                        if "-" in source.get_text():
+                            writer.writerow([source.get_text().replace("(","").replace(")","").replace("-"," ").strip(), source.findNext("p").get_text()])
+
+                            data = cleaner.remove_abreviations(source.get_text().replace("(","").replace(")",""))
+                            writer.writerow([data[0].strip(), source.findNext("p").get_text()])
+
+                        data = cleaner.remove_abreviations(source.get_text().replace("(","").replace(")","").replace("-"," ").strip())
+                        writer.writerow([data[0].strip(), source.findNext("p").get_text()])

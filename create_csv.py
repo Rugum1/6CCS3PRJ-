@@ -9,52 +9,65 @@ from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
 from database_functions import DbFunctions
 
-# url = "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations"
+# url = "https://www.oracle.com/java/technologies/glossary.html"
 #
-file = "./data/computer_science_abreviations.csv"
+file = "./data/java_glossary.csv"
 # scraper = DataScraper(url)
-# sources = scraper.get_specific_tags("li")
+# sources = scraper.get_specific_tags("strong")
 # #
 
+# for source in sources:
+#     text = source.get_text().strip()
+#     if len(text) == 1 :
+#         print(source.get_text())
 # scraper.write_to_json_file(file,sources)
-# db = DbFunctions()
-#
-#
-#
-# sql ='''CREATE TABLE CS_ABREVIATION(
-#    NAME CHAR(100) NOT NULL,
-#    DESCRIPTION VARCHAR NOT NULL
-# )'''
-# db.create_new_table(sql)
+db = DbFunctions()
+
+
+
+sql ='''CREATE TABLE JAVA_TERM(
+   NAME CHAR(100) NOT NULL,
+   DESCRIPTION VARCHAR NOT NULL
+)'''
+db.create_new_table(sql)
 #
 # #
-# db.insert_elements_in_database("CS_ABREVIATION",file)
+db.insert_elements_in_database("JAVA_TERM",file)
 
 
 
 # header = ["name","description"]
-# scraper.write_to_csv_file_v2(file,sources,header)
+# scraper.write_to_csv_file(file,sources,header)
 
 
 
 # f = "./data/computer_science_.csv"
 # out = "./data/computer_science_glossary_v2.csv"
 #
-with open(file,'r') as file_obj:
+# data = []
+# with open(file,'r') as file_obj:
+#
+#     # Create reader object by passing the file
+#     # object to DictReader method
+#     reader_obj = csv.DictReader(file_obj)
+#
+#
+#     for row in reader_obj:
+#         data.append(row["name"])
 
-    # Create reader object by passing the file
-    # object to DictReader method
-    reader_obj = csv.DictReader(file_obj)
 
-
-    for row in reader_obj:
-        if row["name"] in (None, ""):
-            print(row["description"])
-
-
+# scraper = DataScraper("none")
+#
+# scraper.write_to_json_file("./data/java_glossary.json",data)
 
 # nlp = spacy.load("NER_models/abreviation_ner")
 # doc = nlp("My bike is OOP")
 #
 # if len(doc.ents) >  0 :
 #     print(doc.ents)
+#
+# file_dict = {"./data/computer_science_glossary.json" : "CS_TERM", "./data/computer_science_abreviations.json" : "CS_ABREVIATION","./data/java_glossary.json" : "JAVA_TERM"}
+#
+# ner = NERCreator(file_dict,"cs_ner_2")
+#
+# ner.create_custom_NER_model()

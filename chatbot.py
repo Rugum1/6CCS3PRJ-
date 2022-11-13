@@ -15,9 +15,7 @@ bot = ChatBot(
         {
             'import_path': 'adapters.CSTermsAdapter',
         },
-        {
-            'import_path': 'adapters.CSAbreviationAdapter',
-        }
+        
 
     ],
     database_uri='sqlite:///database.sqlite3'

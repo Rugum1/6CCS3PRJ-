@@ -1,0 +1,3644 @@
+{"label":"CS_TERM","pattern":"abstract data type (ADT)"}
+{"label":"CS_TERM","pattern":"abstract data type ADT"}
+{"label":"CS_TERM","pattern":"abstract data type"}
+{"label":"CS_TERM","pattern":"abstract method"}
+{"label":"CS_TERM","pattern":"abstraction"}
+{"label":"CS_TERM","pattern":"agent architecture"}
+{"label":"CS_TERM","pattern":"agent-based model (ABM)"}
+{"label":"CS_TERM","pattern":"agent based model (ABM)"}
+{"label":"CS_TERM","pattern":"agent-based model ABM"}
+{"label":"CS_TERM","pattern":"agent based model ABM"}
+{"label":"CS_TERM","pattern":"agent-based model"}
+{"label":"CS_TERM","pattern":"agent based model"}
+{"label":"CS_TERM","pattern":"aggregate function"}
+{"label":"CS_TERM","pattern":"agile software development"}
+{"label":"CS_TERM","pattern":"algorithm"}
+{"label":"CS_TERM","pattern":"algorithm design"}
+{"label":"CS_TERM","pattern":"algorithmic efficiency"}
+{"label":"CS_TERM","pattern":"American Standard Code for Information Interchange (ASCII)"}
+{"label":"CS_TERM","pattern":"American Standard Code for Information Interchange ASCII"}
+{"label":"CS_TERM","pattern":"American Standard Code for Information Interchange"}
+{"label":"CS_TERM","pattern":"application programming interface (API)"}
+{"label":"CS_TERM","pattern":"application programming interface API"}
+{"label":"CS_TERM","pattern":"application programming interface"}
+{"label":"CS_TERM","pattern":"application software"}
+{"label":"CS_TERM","pattern":"array data structure"}
+{"label":"CS_TERM","pattern":"artifact"}
+{"label":"CS_TERM","pattern":"artificial intelligence (AI)"}
+{"label":"CS_TERM","pattern":"artificial intelligence AI"}
+{"label":"CS_TERM","pattern":"artificial intelligence"}
+{"label":"CS_TERM","pattern":"ASCII"}
+{"label":"CS_TERM","pattern":"assertion"}
+{"label":"CS_TERM","pattern":"associative array"}
+{"label":"CS_TERM","pattern":"automata theory"}
+{"label":"CS_TERM","pattern":"automated reasoning"}
+{"label":"CS_TERM","pattern":"bandwidth"}
+{"label":"CS_TERM","pattern":"Bayesian programming"}
+{"label":"CS_TERM","pattern":"benchmark"}
+{"label":"CS_TERM","pattern":"best, worst and average case"}
+{"label":"CS_TERM","pattern":"big data"}
+{"label":"CS_TERM","pattern":"big O notation"}
+{"label":"CS_TERM","pattern":"binary number"}
+{"label":"CS_TERM","pattern":"binary search algorithm"}
+{"label":"CS_TERM","pattern":"binary tree"}
+{"label":"CS_TERM","pattern":"bioinformatics"}
+{"label":"CS_TERM","pattern":"bit"}
+{"label":"CS_TERM","pattern":"bit rate (R)"}
+{"label":"CS_TERM","pattern":"bit rate R"}
+{"label":"CS_TERM","pattern":"rate R"}
+{"label":"CS_TERM","pattern":"blacklist"}
+{"label":"CS_TERM","pattern":"BMP file format"}
+{"label":"CS_TERM","pattern":"Boolean data type"}
+{"label":"CS_TERM","pattern":"Boolean expression"}
+{"label":"CS_TERM","pattern":"Boolean algebra"}
+{"label":"CS_TERM","pattern":"byte"}
+{"label":"CS_TERM","pattern":"booting"}
+{"label":"CS_TERM","pattern":"callback"}
+{"label":"CS_TERM","pattern":"central processing unit (CPU)"}
+{"label":"CS_TERM","pattern":"central processing unit CPU"}
+{"label":"CS_TERM","pattern":"central processing unit"}
+{"label":"CS_TERM","pattern":"character"}
+{"label":"CS_TERM","pattern":"cipher"}
+{"label":"CS_TERM","pattern":"class"}
+{"label":"CS_TERM","pattern":"class-based programming"}
+{"label":"CS_TERM","pattern":"class based programming"}
+{"label":"CS_TERM","pattern":"client"}
+{"label":"CS_TERM","pattern":"cleanroom software engineering"}
+{"label":"CS_TERM","pattern":"closure"}
+{"label":"CS_TERM","pattern":"cloud computing"}
+{"label":"CS_TERM","pattern":"code library"}
+{"label":"CS_TERM","pattern":"coding"}
+{"label":"CS_TERM","pattern":"coding theory"}
+{"label":"CS_TERM","pattern":"cognitive science"}
+{"label":"CS_TERM","pattern":"collection"}
+{"label":"CS_TERM","pattern":"comma-separated values (CSV)"}
+{"label":"CS_TERM","pattern":"comma separated values (CSV)"}
+{"label":"CS_TERM","pattern":"comma-separated values CSV"}
+{"label":"CS_TERM","pattern":"comma separated values CSV"}
+{"label":"CS_TERM","pattern":"comma-separated values"}
+{"label":"CS_TERM","pattern":"comma separated values"}
+{"label":"CS_TERM","pattern":"compiler"}
+{"label":"CS_TERM","pattern":"computability theory"}
+{"label":"CS_TERM","pattern":"computation"}
+{"label":"CS_TERM","pattern":"computational biology"}
+{"label":"CS_TERM","pattern":"computational chemistry"}
+{"label":"CS_TERM","pattern":"computational complexity theory"}
+{"label":"CS_TERM","pattern":"computational model"}
+{"label":"CS_TERM","pattern":"computational neuroscience"}
+{"label":"CS_TERM","pattern":"computational physics"}
+{"label":"CS_TERM","pattern":"computational science"}
+{"label":"CS_TERM","pattern":"computational steering"}
+{"label":"CS_TERM","pattern":"computer"}
+{"label":"CS_TERM","pattern":"computer architecture"}
+{"label":"CS_TERM","pattern":"computer data storage"}
+{"label":"CS_TERM","pattern":"computer ethics"}
+{"label":"CS_TERM","pattern":"computer graphics"}
+{"label":"CS_TERM","pattern":"computer network"}
+{"label":"CS_TERM","pattern":"computer program"}
+{"label":"CS_TERM","pattern":"computer programming"}
+{"label":"CS_TERM","pattern":"computer science"}
+{"label":"CS_TERM","pattern":"computer scientist"}
+{"label":"CS_TERM","pattern":"computer security"}
+{"label":"CS_TERM","pattern":"computer vision"}
+{"label":"CS_TERM","pattern":"computing"}
+{"label":"CS_TERM","pattern":"concatenation"}
+{"label":"CS_TERM","pattern":"Concurrency"}
+{"label":"CS_TERM","pattern":"conditional"}
+{"label":"CS_TERM","pattern":"container"}
+{"label":"CS_TERM","pattern":"continuation-passing style (CPS)"}
+{"label":"CS_TERM","pattern":"continuation passing style (CPS)"}
+{"label":"CS_TERM","pattern":"continuation-passing style CPS"}
+{"label":"CS_TERM","pattern":"continuation passing style CPS"}
+{"label":"CS_TERM","pattern":"continuation-passing style"}
+{"label":"CS_TERM","pattern":"continuation passing style"}
+{"label":"CS_TERM","pattern":"control flow"}
+{"label":"CS_TERM","pattern":"Creative Commons (CC)"}
+{"label":"CS_TERM","pattern":"Creative Commons CC"}
+{"label":"CS_TERM","pattern":"Creative Commons"}
+{"label":"CS_TERM","pattern":"cryptography"}
+{"label":"CS_TERM","pattern":"CSV"}
+{"label":"CS_TERM","pattern":"cyberbullying"}
+{"label":"CS_TERM","pattern":"cyberspace"}
+{"label":"CS_TERM","pattern":"daemon"}
+{"label":"CS_TERM","pattern":"data center"}
+{"label":"CS_TERM","pattern":"database"}
+{"label":"CS_TERM","pattern":"data mining"}
+{"label":"CS_TERM","pattern":"data science"}
+{"label":"CS_TERM","pattern":"data structure"}
+{"label":"CS_TERM","pattern":"data type"}
+{"label":"CS_TERM","pattern":"debugging"}
+{"label":"CS_TERM","pattern":"declaration"}
+{"label":"CS_TERM","pattern":"digital data"}
+{"label":"CS_TERM","pattern":"digital signal processing (DSP)"}
+{"label":"CS_TERM","pattern":"digital signal processing DSP"}
+{"label":"CS_TERM","pattern":"digital signal processing"}
+{"label":"CS_TERM","pattern":"discrete event simulation (DES)"}
+{"label":"CS_TERM","pattern":"discrete event simulation DES"}
+{"label":"CS_TERM","pattern":"discrete event simulation"}
+{"label":"CS_TERM","pattern":"disk storage"}
+{"label":"CS_TERM","pattern":"distributed computing"}
+{"label":"CS_TERM","pattern":"divide and conquer algorithm"}
+{"label":"CS_TERM","pattern":"DNS"}
+{"label":"CS_TERM","pattern":"documentation"}
+{"label":"CS_TERM","pattern":"domain"}
+{"label":"CS_TERM","pattern":"Domain Name System (DNS)"}
+{"label":"CS_TERM","pattern":"Domain Name System DNS"}
+{"label":"CS_TERM","pattern":"Domain Name System"}
+{"label":"CS_TERM","pattern":"double-precision floating-point format"}
+{"label":"CS_TERM","pattern":"double precision floating point format"}
+{"label":"CS_TERM","pattern":"download"}
+{"label":"CS_TERM","pattern":"edge device"}
+{"label":"CS_TERM","pattern":"encryption"}
+{"label":"CS_TERM","pattern":"event"}
+{"label":"CS_TERM","pattern":"event-driven programming"}
+{"label":"CS_TERM","pattern":"event driven programming"}
+{"label":"CS_TERM","pattern":"evolutionary computing"}
+{"label":"CS_TERM","pattern":"executable"}
+{"label":"CS_TERM","pattern":"executable module"}
+{"label":"CS_TERM","pattern":"execution"}
+{"label":"CS_TERM","pattern":"exception handling"}
+{"label":"CS_TERM","pattern":"Existence detection"}
+{"label":"CS_TERM","pattern":"expression"}
+{"label":"CS_TERM","pattern":"external library"}
+{"label":"CS_TERM","pattern":"fault-tolerant computer system"}
+{"label":"CS_TERM","pattern":"fault tolerant computer system"}
+{"label":"CS_TERM","pattern":"feasibility study"}
+{"label":"CS_TERM","pattern":"field"}
+{"label":"CS_TERM","pattern":"filename extension"}
+{"label":"CS_TERM","pattern":"filter (software)"}
+{"label":"CS_TERM","pattern":"filter software"}
+{"label":"CS_TERM","pattern":"filter software"}
+{"label":"CS_TERM","pattern":"floating point arithmetic"}
+{"label":"CS_TERM","pattern":"for loop"}
+{"label":"CS_TERM","pattern":"formal methods"}
+{"label":"CS_TERM","pattern":"formal verification"}
+{"label":"CS_TERM","pattern":"functional programming"}
+{"label":"CS_TERM","pattern":"game theory"}
+{"label":"CS_TERM","pattern":"garbage in, garbage out (GIGO)"}
+{"label":"CS_TERM","pattern":"garbage in, garbage out GIGO"}
+{"label":"CS_TERM","pattern":"garbage in, garbage out"}
+{"label":"CS_TERM","pattern":"Graphics Interchange Format"}
+{"label":"CS_TERM","pattern":"gigabyte"}
+{"label":"CS_TERM","pattern":"global variable"}
+{"label":"CS_TERM","pattern":"graph theory"}
+{"label":"CS_TERM","pattern":"handle"}
+{"label":"CS_TERM","pattern":"hard problem"}
+{"label":"CS_TERM","pattern":"hash function"}
+{"label":"CS_TERM","pattern":"hash table"}
+{"label":"CS_TERM","pattern":"heap"}
+{"label":"CS_TERM","pattern":"heapsort"}
+{"label":"CS_TERM","pattern":"human-computer interaction (HCI)"}
+{"label":"CS_TERM","pattern":"human computer interaction (HCI)"}
+{"label":"CS_TERM","pattern":"human-computer interaction HCI"}
+{"label":"CS_TERM","pattern":"human computer interaction HCI"}
+{"label":"CS_TERM","pattern":"human-computer interaction"}
+{"label":"CS_TERM","pattern":"human computer interaction"}
+{"label":"CS_TERM","pattern":"identifier"}
+{"label":"CS_TERM","pattern":"IDE"}
+{"label":"CS_TERM","pattern":"image processing"}
+{"label":"CS_TERM","pattern":"imperative programming"}
+{"label":"CS_TERM","pattern":"incremental build model"}
+{"label":"CS_TERM","pattern":"information space analysis"}
+{"label":"CS_TERM","pattern":"information visualization"}
+{"label":"CS_TERM","pattern":"inheritance"}
+{"label":"CS_TERM","pattern":"input/output (I/O)"}
+{"label":"CS_TERM","pattern":"input/output I/O"}
+{"label":"CS_TERM","pattern":"input/output"}
+{"label":"CS_TERM","pattern":"insertion sort"}
+{"label":"CS_TERM","pattern":"instruction cycle"}
+{"label":"CS_TERM","pattern":"integer"}
+{"label":"CS_TERM","pattern":"integrated development environment (IDE)"}
+{"label":"CS_TERM","pattern":"integrated development environment IDE"}
+{"label":"CS_TERM","pattern":"integrated development environment"}
+{"label":"CS_TERM","pattern":"integration testing"}
+{"label":"CS_TERM","pattern":"intellectual property (IP)"}
+{"label":"CS_TERM","pattern":"intellectual property IP"}
+{"label":"CS_TERM","pattern":"intellectual property"}
+{"label":"CS_TERM","pattern":"intelligent agent"}
+{"label":"CS_TERM","pattern":"interface"}
+{"label":"CS_TERM","pattern":"internal documentation"}
+{"label":"CS_TERM","pattern":"internet"}
+{"label":"CS_TERM","pattern":"internet bot"}
+{"label":"CS_TERM","pattern":"interpreter"}
+{"label":"CS_TERM","pattern":"invariant"}
+{"label":"CS_TERM","pattern":"iteration"}
+{"label":"CS_TERM","pattern":"Java"}
+{"label":"CS_TERM","pattern":"kernel"}
+{"label":"CS_TERM","pattern":"library (computing)"}
+{"label":"CS_TERM","pattern":"library computing"}
+{"label":"CS_TERM","pattern":"library computing"}
+{"label":"CS_TERM","pattern":"linear search"}
+{"label":"CS_TERM","pattern":"linked list"}
+{"label":"CS_TERM","pattern":"linker"}
+{"label":"CS_TERM","pattern":"list"}
+{"label":"CS_TERM","pattern":"loader"}
+{"label":"CS_TERM","pattern":"logic error"}
+{"label":"CS_TERM","pattern":"logic programming"}
+{"label":"CS_TERM","pattern":"machine learning (ML)"}
+{"label":"CS_TERM","pattern":"machine learning ML"}
+{"label":"CS_TERM","pattern":"machine learning"}
+{"label":"CS_TERM","pattern":"machine vision (MV)"}
+{"label":"CS_TERM","pattern":"machine vision MV"}
+{"label":"CS_TERM","pattern":"machine vision MV"}
+{"label":"CS_TERM","pattern":"mathematical logic"}
+{"label":"CS_TERM","pattern":"matrix"}
+{"label":"CS_TERM","pattern":"memory"}
+{"label":"CS_TERM","pattern":"merge sort"}
+{"label":"CS_TERM","pattern":"method"}
+{"label":"CS_TERM","pattern":"methodology"}
+{"label":"CS_TERM","pattern":"modem"}
+{"label":"CS_TERM","pattern":"natural language processing (NLP)"}
+{"label":"CS_TERM","pattern":"natural language processing NLP"}
+{"label":"CS_TERM","pattern":"natural language processing"}
+{"label":"CS_TERM","pattern":"node"}
+{"label":"CS_TERM","pattern":"number theory"}
+{"label":"CS_TERM","pattern":"numerical analysis"}
+{"label":"CS_TERM","pattern":"numerical method"}
+{"label":"CS_TERM","pattern":"object"}
+{"label":"CS_TERM","pattern":"object code"}
+{"label":"CS_TERM","pattern":"object-oriented analysis and design (OOAD)"}
+{"label":"CS_TERM","pattern":"object oriented analysis and design (OOAD)"}
+{"label":"CS_TERM","pattern":"object-oriented analysis and design OOAD"}
+{"label":"CS_TERM","pattern":"object oriented analysis and design OOAD"}
+{"label":"CS_TERM","pattern":"object-oriented analysis and design OOAD"}
+{"label":"CS_TERM","pattern":"object oriented analysis and design OOAD"}
+{"label":"CS_TERM","pattern":"object-oriented programming (OOP)"}
+{"label":"CS_TERM","pattern":"object oriented programming (OOP)"}
+{"label":"CS_TERM","pattern":"object-oriented programming OOP"}
+{"label":"CS_TERM","pattern":"object oriented programming OOP"}
+{"label":"CS_TERM","pattern":"object-oriented programming"}
+{"label":"CS_TERM","pattern":"object oriented programming"}
+{"label":"CS_TERM","pattern":"open-source software (OSS)"}
+{"label":"CS_TERM","pattern":"open source software (OSS)"}
+{"label":"CS_TERM","pattern":"open-source software OSS"}
+{"label":"CS_TERM","pattern":"open source software OSS"}
+{"label":"CS_TERM","pattern":"open-source software"}
+{"label":"CS_TERM","pattern":"open source software"}
+{"label":"CS_TERM","pattern":"operating system (OS)"}
+{"label":"CS_TERM","pattern":"operating system OS"}
+{"label":"CS_TERM","pattern":"operating system"}
+{"label":"CS_TERM","pattern":"optical fiber"}
+{"label":"CS_TERM","pattern":"pair programming"}
+{"label":"CS_TERM","pattern":"parallel computing"}
+{"label":"CS_TERM","pattern":"parameter"}
+{"label":"CS_TERM","pattern":"peripheral"}
+{"label":"CS_TERM","pattern":"pointer"}
+{"label":"CS_TERM","pattern":"postcondition"}
+{"label":"CS_TERM","pattern":"precondition"}
+{"label":"CS_TERM","pattern":"primary storage"}
+{"label":"CS_TERM","pattern":"primitive data type"}
+{"label":"CS_TERM","pattern":"priority queue"}
+{"label":"CS_TERM","pattern":"procedural programming"}
+{"label":"CS_TERM","pattern":"procedure"}
+{"label":"CS_TERM","pattern":"program lifecycle phase"}
+{"label":"CS_TERM","pattern":"programming language"}
+{"label":"CS_TERM","pattern":"programming language implementation"}
+{"label":"CS_TERM","pattern":"programming language theory"}
+{"label":"CS_TERM","pattern":"Prolog"}
+{"label":"CS_TERM","pattern":"Python"}
+{"label":"CS_TERM","pattern":"quantum computing"}
+{"label":"CS_TERM","pattern":"queue"}
+{"label":"CS_TERM","pattern":"quicksort"}
+{"label":"CS_TERM","pattern":"R programming language"}
+{"label":"CS_TERM","pattern":"radix"}
+{"label":"CS_TERM","pattern":"record"}
+{"label":"CS_TERM","pattern":"recursion"}
+{"label":"CS_TERM","pattern":"reference"}
+{"label":"CS_TERM","pattern":"reference counting"}
+{"label":"CS_TERM","pattern":"relational database"}
+{"label":"CS_TERM","pattern":"reliability engineering"}
+{"label":"CS_TERM","pattern":"regression testing"}
+{"label":"CS_TERM","pattern":"requirements analysis"}
+{"label":"CS_TERM","pattern":"robotics"}
+{"label":"CS_TERM","pattern":"round-off error"}
+{"label":"CS_TERM","pattern":"round off error"}
+{"label":"CS_TERM","pattern":"router"}
+{"label":"CS_TERM","pattern":"routing table"}
+{"label":"CS_TERM","pattern":"run time"}
+{"label":"CS_TERM","pattern":"run time error"}
+{"label":"CS_TERM","pattern":"search algorithm"}
+{"label":"CS_TERM","pattern":"secondary storage"}
+{"label":"CS_TERM","pattern":"selection sort"}
+{"label":"CS_TERM","pattern":"semantics"}
+{"label":"CS_TERM","pattern":"sequence"}
+{"label":"CS_TERM","pattern":"serializability"}
+{"label":"CS_TERM","pattern":"serialization"}
+{"label":"CS_TERM","pattern":"service level agreement"}
+{"label":"CS_TERM","pattern":"set"}
+{"label":"CS_TERM","pattern":"singleton variable"}
+{"label":"CS_TERM","pattern":"soft computing"}
+{"label":"CS_TERM","pattern":"software"}
+{"label":"CS_TERM","pattern":"software agent"}
+{"label":"CS_TERM","pattern":"software construction"}
+{"label":"CS_TERM","pattern":"software deployment"}
+{"label":"CS_TERM","pattern":"software design"}
+{"label":"CS_TERM","pattern":"software development"}
+{"label":"CS_TERM","pattern":"software development process"}
+{"label":"CS_TERM","pattern":"software engineering"}
+{"label":"CS_TERM","pattern":"software maintenance"}
+{"label":"CS_TERM","pattern":"software prototyping"}
+{"label":"CS_TERM","pattern":"software requirements specification"}
+{"label":"CS_TERM","pattern":"software testing"}
+{"label":"CS_TERM","pattern":"sorting algorithm"}
+{"label":"CS_TERM","pattern":"source code"}
+{"label":"CS_TERM","pattern":"spiral model"}
+{"label":"CS_TERM","pattern":"stack"}
+{"label":"CS_TERM","pattern":"state"}
+{"label":"CS_TERM","pattern":"statement"}
+{"label":"CS_TERM","pattern":"storage"}
+{"label":"CS_TERM","pattern":"stream"}
+{"label":"CS_TERM","pattern":"string"}
+{"label":"CS_TERM","pattern":"structured storage"}
+{"label":"CS_TERM","pattern":"subroutine"}
+{"label":"CS_TERM","pattern":"symbolic computation"}
+{"label":"CS_TERM","pattern":"syntax"}
+{"label":"CS_TERM","pattern":"syntax error"}
+{"label":"CS_TERM","pattern":"system console"}
+{"label":"CS_TERM","pattern":"technical documentation"}
+{"label":"CS_TERM","pattern":"third-generation programming language"}
+{"label":"CS_TERM","pattern":"third generation programming language"}
+{"label":"CS_TERM","pattern":"top-down and bottom-up design"}
+{"label":"CS_TERM","pattern":"top down and bottom up design"}
+{"label":"CS_TERM","pattern":"tree"}
+{"label":"CS_TERM","pattern":"type theory"}
+{"label":"CS_TERM","pattern":"upload"}
+{"label":"CS_TERM","pattern":"Uniform Resource Locator (URL)"}
+{"label":"CS_TERM","pattern":"Uniform Resource Locator URL"}
+{"label":"CS_TERM","pattern":"Uniform Resource Locator"}
+{"label":"CS_TERM","pattern":"user"}
+{"label":"CS_TERM","pattern":"user agent"}
+{"label":"CS_TERM","pattern":"user interface (UI)"}
+{"label":"CS_TERM","pattern":"user interface UI"}
+{"label":"CS_TERM","pattern":"user interface"}
+{"label":"CS_TERM","pattern":"user interface design"}
+{"label":"CS_TERM","pattern":"variable"}
+{"label":"CS_TERM","pattern":"virtual machine (VM)"}
+{"label":"CS_TERM","pattern":"virtual machine VM"}
+{"label":"CS_TERM","pattern":"virtual machine"}
+{"label":"CS_TERM","pattern":"V-Model"}
+{"label":"CS_TERM","pattern":"V Model"}
+{"label":"CS_TERM","pattern":"waterfall model"}
+{"label":"CS_TERM","pattern":"Waveform Audio File Format"}
+{"label":"CS_TERM","pattern":"web crawler"}
+{"label":"CS_TERM","pattern":"Wi-Fi"}
+{"label":"CS_TERM","pattern":"Wi Fi"}
+{"label":"CS_TERM","pattern":"XHTML"}
+{"label":"CS_ABREVIATION","pattern":"1GL"}
+{"label":"CS_ABREVIATION","pattern":"(1GL)"}
+{"label":"CS_ABREVIATION","pattern":"1NF"}
+{"label":"CS_ABREVIATION","pattern":"(1NF)"}
+{"label":"CS_ABREVIATION","pattern":"10B2"}
+{"label":"CS_ABREVIATION","pattern":"(10B2)"}
+{"label":"CS_ABREVIATION","pattern":"10B5"}
+{"label":"CS_ABREVIATION","pattern":"(10B5)"}
+{"label":"CS_ABREVIATION","pattern":"10B-F"}
+{"label":"CS_ABREVIATION","pattern":"(10B-F)"}
+{"label":"CS_ABREVIATION","pattern":"10B-FB"}
+{"label":"CS_ABREVIATION","pattern":"(10B-FB)"}
+{"label":"CS_ABREVIATION","pattern":"10B-FL"}
+{"label":"CS_ABREVIATION","pattern":"(10B-FL)"}
+{"label":"CS_ABREVIATION","pattern":"10B-FP"}
+{"label":"CS_ABREVIATION","pattern":"(10B-FP)"}
+{"label":"CS_ABREVIATION","pattern":"10B-T"}
+{"label":"CS_ABREVIATION","pattern":"(10B-T)"}
+{"label":"CS_ABREVIATION","pattern":"100B-FX"}
+{"label":"CS_ABREVIATION","pattern":"(100B-FX)"}
+{"label":"CS_ABREVIATION","pattern":"100B-TX"}
+{"label":"CS_ABREVIATION","pattern":"(100B-TX)"}
+{"label":"CS_ABREVIATION","pattern":"100BVG"}
+{"label":"CS_ABREVIATION","pattern":"(100BVG)"}
+{"label":"CS_ABREVIATION","pattern":"286"}
+{"label":"CS_ABREVIATION","pattern":"(286)"}
+{"label":"CS_ABREVIATION","pattern":"2B1Q"}
+{"label":"CS_ABREVIATION","pattern":"(2B1Q)"}
+{"label":"CS_ABREVIATION","pattern":"2FA"}
+{"label":"CS_ABREVIATION","pattern":"(2FA)"}
+{"label":"CS_ABREVIATION","pattern":"2GL"}
+{"label":"CS_ABREVIATION","pattern":"(2GL)"}
+{"label":"CS_ABREVIATION","pattern":"2NF"}
+{"label":"CS_ABREVIATION","pattern":"(2NF)"}
+{"label":"CS_ABREVIATION","pattern":"3GL"}
+{"label":"CS_ABREVIATION","pattern":"(3GL)"}
+{"label":"CS_ABREVIATION","pattern":"3GPP"}
+{"label":"CS_ABREVIATION","pattern":"(3GPP)"}
+{"label":"CS_ABREVIATION","pattern":"3GPP2"}
+{"label":"CS_ABREVIATION","pattern":"(3GPP2)"}
+{"label":"CS_ABREVIATION","pattern":"3NF"}
+{"label":"CS_ABREVIATION","pattern":"(3NF)"}
+{"label":"CS_ABREVIATION","pattern":"386"}
+{"label":"CS_ABREVIATION","pattern":"(386)"}
+{"label":"CS_ABREVIATION","pattern":"486"}
+{"label":"CS_ABREVIATION","pattern":"(486)"}
+{"label":"CS_ABREVIATION","pattern":"4B5B"}
+{"label":"CS_ABREVIATION","pattern":"(4B5B)"}
+{"label":"CS_ABREVIATION","pattern":"4GL"}
+{"label":"CS_ABREVIATION","pattern":"(4GL)"}
+{"label":"CS_ABREVIATION","pattern":"4NF"}
+{"label":"CS_ABREVIATION","pattern":"(4NF)"}
+{"label":"CS_ABREVIATION","pattern":"5GL"}
+{"label":"CS_ABREVIATION","pattern":"(5GL)"}
+{"label":"CS_ABREVIATION","pattern":"5NF"}
+{"label":"CS_ABREVIATION","pattern":"(5NF)"}
+{"label":"CS_ABREVIATION","pattern":"6NF"}
+{"label":"CS_ABREVIATION","pattern":"(6NF)"}
+{"label":"CS_ABREVIATION","pattern":"8B10BLF"}
+{"label":"CS_ABREVIATION","pattern":"(8B10BLF)"}
+{"label":"CS_ABREVIATION","pattern":"802.11"}
+{"label":"CS_ABREVIATION","pattern":"(802.11)"}
+{"label":"CS_ABREVIATION","pattern":"AAA"}
+{"label":"CS_ABREVIATION","pattern":"(AAA)"}
+{"label":"CS_ABREVIATION","pattern":"AABB"}
+{"label":"CS_ABREVIATION","pattern":"(AABB)"}
+{"label":"CS_ABREVIATION","pattern":"AAC"}
+{"label":"CS_ABREVIATION","pattern":"(AAC)"}
+{"label":"CS_ABREVIATION","pattern":"AAL"}
+{"label":"CS_ABREVIATION","pattern":"(AAL)"}
+{"label":"CS_ABREVIATION","pattern":"AALC"}
+{"label":"CS_ABREVIATION","pattern":"(AALC)"}
+{"label":"CS_ABREVIATION","pattern":"AARP"}
+{"label":"CS_ABREVIATION","pattern":"(AARP)"}
+{"label":"CS_ABREVIATION","pattern":"ABAC"}
+{"label":"CS_ABREVIATION","pattern":"(ABAC)"}
+{"label":"CS_ABREVIATION","pattern":"ABCL"}
+{"label":"CS_ABREVIATION","pattern":"(ABCL)"}
+{"label":"CS_ABREVIATION","pattern":"ABI"}
+{"label":"CS_ABREVIATION","pattern":"(ABI)"}
+{"label":"CS_ABREVIATION","pattern":"ABM"}
+{"label":"CS_ABREVIATION","pattern":"(ABM)"}
+{"label":"CS_ABREVIATION","pattern":"ABR"}
+{"label":"CS_ABREVIATION","pattern":"(ABR)"}
+{"label":"CS_ABREVIATION","pattern":"ABR"}
+{"label":"CS_ABREVIATION","pattern":"(ABR)"}
+{"label":"CS_ABREVIATION","pattern":"ABR"}
+{"label":"CS_ABREVIATION","pattern":"(ABR)"}
+{"label":"CS_ABREVIATION","pattern":"ABR"}
+{"label":"CS_ABREVIATION","pattern":"(ABR)"}
+{"label":"CS_ABREVIATION","pattern":"AC"}
+{"label":"CS_ABREVIATION","pattern":"(AC)"}
+{"label":"CS_ABREVIATION","pattern":"AC"}
+{"label":"CS_ABREVIATION","pattern":"(AC)"}
+{"label":"CS_ABREVIATION","pattern":"ACD"}
+{"label":"CS_ABREVIATION","pattern":"(ACD)"}
+{"label":"CS_ABREVIATION","pattern":"ACE"}
+{"label":"CS_ABREVIATION","pattern":"(ACE)"}
+{"label":"CS_ABREVIATION","pattern":"ACID"}
+{"label":"CS_ABREVIATION","pattern":"(ACID)"}
+{"label":"CS_ABREVIATION","pattern":"ACK"}
+{"label":"CS_ABREVIATION","pattern":"(ACK)"}
+{"label":"CS_ABREVIATION","pattern":"ACK"}
+{"label":"CS_ABREVIATION","pattern":"(ACK)"}
+{"label":"CS_ABREVIATION","pattern":"ACL"}
+{"label":"CS_ABREVIATION","pattern":"(ACL)"}
+{"label":"CS_ABREVIATION","pattern":"ACL"}
+{"label":"CS_ABREVIATION","pattern":"(ACL)"}
+{"label":"CS_ABREVIATION","pattern":"ACM"}
+{"label":"CS_ABREVIATION","pattern":"(ACM)"}
+{"label":"CS_ABREVIATION","pattern":"ACME"}
+{"label":"CS_ABREVIATION","pattern":"(ACME)"}
+{"label":"CS_ABREVIATION","pattern":"ACP"}
+{"label":"CS_ABREVIATION","pattern":"(ACP)"}
+{"label":"CS_ABREVIATION","pattern":"ACPI"}
+{"label":"CS_ABREVIATION","pattern":"(ACPI)"}
+{"label":"CS_ABREVIATION","pattern":"ACR"}
+{"label":"CS_ABREVIATION","pattern":"(ACR)"}
+{"label":"CS_ABREVIATION","pattern":"ACR"}
+{"label":"CS_ABREVIATION","pattern":"(ACR)"}
+{"label":"CS_ABREVIATION","pattern":"AD"}
+{"label":"CS_ABREVIATION","pattern":"(AD)"}
+{"label":"CS_ABREVIATION","pattern":"AD"}
+{"label":"CS_ABREVIATION","pattern":"(AD)"}
+{"label":"CS_ABREVIATION","pattern":"ADC"}
+{"label":"CS_ABREVIATION","pattern":"(ADC)"}
+{"label":"CS_ABREVIATION","pattern":"ADC"}
+{"label":"CS_ABREVIATION","pattern":"(ADC)"}
+{"label":"CS_ABREVIATION","pattern":"ADB"}
+{"label":"CS_ABREVIATION","pattern":"(ADB)"}
+{"label":"CS_ABREVIATION","pattern":"ADCCP"}
+{"label":"CS_ABREVIATION","pattern":"(ADCCP)"}
+{"label":"CS_ABREVIATION","pattern":"ADO"}
+{"label":"CS_ABREVIATION","pattern":"(ADO)"}
+{"label":"CS_ABREVIATION","pattern":"ADSL"}
+{"label":"CS_ABREVIATION","pattern":"(ADSL)"}
+{"label":"CS_ABREVIATION","pattern":"ADT"}
+{"label":"CS_ABREVIATION","pattern":"(ADT)"}
+{"label":"CS_ABREVIATION","pattern":"AE"}
+{"label":"CS_ABREVIATION","pattern":"(AE)"}
+{"label":"CS_ABREVIATION","pattern":"AES"}
+{"label":"CS_ABREVIATION","pattern":"(AES)"}
+{"label":"CS_ABREVIATION","pattern":"AF"}
+{"label":"CS_ABREVIATION","pattern":"(AF)"}
+{"label":"CS_ABREVIATION","pattern":"AFP"}
+{"label":"CS_ABREVIATION","pattern":"(AFP)"}
+{"label":"CS_ABREVIATION","pattern":"AGP"}
+{"label":"CS_ABREVIATION","pattern":"(AGP)"}
+{"label":"CS_ABREVIATION","pattern":"AH"}
+{"label":"CS_ABREVIATION","pattern":"(AH)"}
+{"label":"CS_ABREVIATION","pattern":"AI"}
+{"label":"CS_ABREVIATION","pattern":"(AI)"}
+{"label":"CS_ABREVIATION","pattern":"AIX"}
+{"label":"CS_ABREVIATION","pattern":"(AIX)"}
+{"label":"CS_ABREVIATION","pattern":"Ajax"}
+{"label":"CS_ABREVIATION","pattern":"(Ajax)"}
+{"label":"CS_ABREVIATION","pattern":"AL"}
+{"label":"CS_ABREVIATION","pattern":"(AL)"}
+{"label":"CS_ABREVIATION","pattern":"AL"}
+{"label":"CS_ABREVIATION","pattern":"(AL)"}
+{"label":"CS_ABREVIATION","pattern":"ALAC"}
+{"label":"CS_ABREVIATION","pattern":"(ALAC)"}
+{"label":"CS_ABREVIATION","pattern":"ALGOL"}
+{"label":"CS_ABREVIATION","pattern":"(ALGOL)"}
+{"label":"CS_ABREVIATION","pattern":"ALSA"}
+{"label":"CS_ABREVIATION","pattern":"(ALSA)"}
+{"label":"CS_ABREVIATION","pattern":"ALU"}
+{"label":"CS_ABREVIATION","pattern":"(ALU)"}
+{"label":"CS_ABREVIATION","pattern":"AM"}
+{"label":"CS_ABREVIATION","pattern":"(AM)"}
+{"label":"CS_ABREVIATION","pattern":"AM"}
+{"label":"CS_ABREVIATION","pattern":"(AM)"}
+{"label":"CS_ABREVIATION","pattern":"AMOLED"}
+{"label":"CS_ABREVIATION","pattern":"(AMOLED)"}
+{"label":"CS_ABREVIATION","pattern":"AM"}
+{"label":"CS_ABREVIATION","pattern":"(AM)"}
+{"label":"CS_ABREVIATION","pattern":"AM"}
+{"label":"CS_ABREVIATION","pattern":"(AM)"}
+{"label":"CS_ABREVIATION","pattern":"AM"}
+{"label":"CS_ABREVIATION","pattern":"(AM)"}
+{"label":"CS_ABREVIATION","pattern":"AMD"}
+{"label":"CS_ABREVIATION","pattern":"(AMD)"}
+{"label":"CS_ABREVIATION","pattern":"AMQP"}
+{"label":"CS_ABREVIATION","pattern":"(AMQP)"}
+{"label":"CS_ABREVIATION","pattern":"AMR"}
+{"label":"CS_ABREVIATION","pattern":"(AMR)"}
+{"label":"CS_ABREVIATION","pattern":"ANN"}
+{"label":"CS_ABREVIATION","pattern":"(ANN)"}
+{"label":"CS_ABREVIATION","pattern":"ANSI"}
+{"label":"CS_ABREVIATION","pattern":"(ANSI)"}
+{"label":"CS_ABREVIATION","pattern":"ANT"}
+{"label":"CS_ABREVIATION","pattern":"(ANT)"}
+{"label":"CS_ABREVIATION","pattern":"AoE"}
+{"label":"CS_ABREVIATION","pattern":"(AoE)"}
+{"label":"CS_ABREVIATION","pattern":"AOP"}
+{"label":"CS_ABREVIATION","pattern":"(AOP)"}
+{"label":"CS_ABREVIATION","pattern":"APCI"}
+{"label":"CS_ABREVIATION","pattern":"(APCI)"}
+{"label":"CS_ABREVIATION","pattern":"API"}
+{"label":"CS_ABREVIATION","pattern":"(API)"}
+{"label":"CS_ABREVIATION","pattern":"APIC"}
+{"label":"CS_ABREVIATION","pattern":"(APIC)"}
+{"label":"CS_ABREVIATION","pattern":"APIPA"}
+{"label":"CS_ABREVIATION","pattern":"(APIPA)"}
+{"label":"CS_ABREVIATION","pattern":"APL"}
+{"label":"CS_ABREVIATION","pattern":"(APL)"}
+{"label":"CS_ABREVIATION","pattern":"APR"}
+{"label":"CS_ABREVIATION","pattern":"(APR)"}
+{"label":"CS_ABREVIATION","pattern":"ARC"}
+{"label":"CS_ABREVIATION","pattern":"(ARC)"}
+{"label":"CS_ABREVIATION","pattern":"ARC"}
+{"label":"CS_ABREVIATION","pattern":"(ARC)"}
+{"label":"CS_ABREVIATION","pattern":"ARIN"}
+{"label":"CS_ABREVIATION","pattern":"(ARIN)"}
+{"label":"CS_ABREVIATION","pattern":"ARM"}
+{"label":"CS_ABREVIATION","pattern":"(ARM)"}
+{"label":"CS_ABREVIATION","pattern":"AROS"}
+{"label":"CS_ABREVIATION","pattern":"(AROS)"}
+{"label":"CS_ABREVIATION","pattern":"ARP"}
+{"label":"CS_ABREVIATION","pattern":"(ARP)"}
+{"label":"CS_ABREVIATION","pattern":"ARPA"}
+{"label":"CS_ABREVIATION","pattern":"(ARPA)"}
+{"label":"CS_ABREVIATION","pattern":"ARPA"}
+{"label":"CS_ABREVIATION","pattern":"(ARPA)"}
+{"label":"CS_ABREVIATION","pattern":"ARPANET"}
+{"label":"CS_ABREVIATION","pattern":"(ARPANET)"}
+{"label":"CS_ABREVIATION","pattern":"AS"}
+{"label":"CS_ABREVIATION","pattern":"(AS)"}
+{"label":"CS_ABREVIATION","pattern":"ASCII"}
+{"label":"CS_ABREVIATION","pattern":"(ASCII)"}
+{"label":"CS_ABREVIATION","pattern":"AuthIP"}
+{"label":"CS_ABREVIATION","pattern":"(AuthIP)"}
+{"label":"CS_ABREVIATION","pattern":"ASG"}
+{"label":"CS_ABREVIATION","pattern":"(ASG)"}
+{"label":"CS_ABREVIATION","pattern":"ASIC"}
+{"label":"CS_ABREVIATION","pattern":"(ASIC)"}
+{"label":"CS_ABREVIATION","pattern":"ASIMO"}
+{"label":"CS_ABREVIATION","pattern":"(ASIMO)"}
+{"label":"CS_ABREVIATION","pattern":"ASLR"}
+{"label":"CS_ABREVIATION","pattern":"(ASLR)"}
+{"label":"CS_ABREVIATION","pattern":"ASM"}
+{"label":"CS_ABREVIATION","pattern":"(ASM)"}
+{"label":"CS_ABREVIATION","pattern":"ASMP"}
+{"label":"CS_ABREVIATION","pattern":"(ASMP)"}
+{"label":"CS_ABREVIATION","pattern":"ASN.1"}
+{"label":"CS_ABREVIATION","pattern":"(ASN.1)"}
+{"label":"CS_ABREVIATION","pattern":"ASP"}
+{"label":"CS_ABREVIATION","pattern":"(ASP)"}
+{"label":"CS_ABREVIATION","pattern":"ASP"}
+{"label":"CS_ABREVIATION","pattern":"(ASP)"}
+{"label":"CS_ABREVIATION","pattern":"ASR"}
+{"label":"CS_ABREVIATION","pattern":"(ASR)"}
+{"label":"CS_ABREVIATION","pattern":"AST"}
+{"label":"CS_ABREVIATION","pattern":"(AST)"}
+{"label":"CS_ABREVIATION","pattern":"AT"}
+{"label":"CS_ABREVIATION","pattern":"(AT)"}
+{"label":"CS_ABREVIATION","pattern":"AT"}
+{"label":"CS_ABREVIATION","pattern":"(AT)"}
+{"label":"CS_ABREVIATION","pattern":"AT"}
+{"label":"CS_ABREVIATION","pattern":"(AT)"}
+{"label":"CS_ABREVIATION","pattern":"ATA"}
+{"label":"CS_ABREVIATION","pattern":"(ATA)"}
+{"label":"CS_ABREVIATION","pattern":"ATAG"}
+{"label":"CS_ABREVIATION","pattern":"(ATAG)"}
+{"label":"CS_ABREVIATION","pattern":"ATAPI"}
+{"label":"CS_ABREVIATION","pattern":"(ATAPI)"}
+{"label":"CS_ABREVIATION","pattern":"ATM"}
+{"label":"CS_ABREVIATION","pattern":"(ATM)"}
+{"label":"CS_ABREVIATION","pattern":"AuthN"}
+{"label":"CS_ABREVIATION","pattern":"(AuthN)"}
+{"label":"CS_ABREVIATION","pattern":"AuthZ"}
+{"label":"CS_ABREVIATION","pattern":"(AuthZ)"}
+{"label":"CS_ABREVIATION","pattern":"AV"}
+{"label":"CS_ABREVIATION","pattern":"(AV)"}
+{"label":"CS_ABREVIATION","pattern":"AVC"}
+{"label":"CS_ABREVIATION","pattern":"(AVC)"}
+{"label":"CS_ABREVIATION","pattern":"AVI"}
+{"label":"CS_ABREVIATION","pattern":"(AVI)"}
+{"label":"CS_ABREVIATION","pattern":"AWK"}
+{"label":"CS_ABREVIATION","pattern":"(AWK)"}
+{"label":"CS_ABREVIATION","pattern":"AWS"}
+{"label":"CS_ABREVIATION","pattern":"(AWS)"}
+{"label":"CS_ABREVIATION","pattern":"AWT"}
+{"label":"CS_ABREVIATION","pattern":"(AWT)"}
+{"label":"CS_ABREVIATION","pattern":"B2B"}
+{"label":"CS_ABREVIATION","pattern":"(B2B)"}
+{"label":"CS_ABREVIATION","pattern":"B2C"}
+{"label":"CS_ABREVIATION","pattern":"(B2C)"}
+{"label":"CS_ABREVIATION","pattern":"B2E"}
+{"label":"CS_ABREVIATION","pattern":"(B2E)"}
+{"label":"CS_ABREVIATION","pattern":"BAL"}
+{"label":"CS_ABREVIATION","pattern":"(BAL)"}
+{"label":"CS_ABREVIATION","pattern":"BAM"}
+{"label":"CS_ABREVIATION","pattern":"(BAM)"}
+{"label":"CS_ABREVIATION","pattern":"Bash"}
+{"label":"CS_ABREVIATION","pattern":"(Bash)"}
+{"label":"CS_ABREVIATION","pattern":"BASIC"}
+{"label":"CS_ABREVIATION","pattern":"(BASIC)"}
+{"label":"CS_ABREVIATION","pattern":"BBP"}
+{"label":"CS_ABREVIATION","pattern":"(BBP)"}
+{"label":"CS_ABREVIATION","pattern":"BBS"}
+{"label":"CS_ABREVIATION","pattern":"(BBS)"}
+{"label":"CS_ABREVIATION","pattern":"BC"}
+{"label":"CS_ABREVIATION","pattern":"(BC)"}
+{"label":"CS_ABREVIATION","pattern":"BCC"}
+{"label":"CS_ABREVIATION","pattern":"(BCC)"}
+{"label":"CS_ABREVIATION","pattern":"BCD"}
+{"label":"CS_ABREVIATION","pattern":"(BCD)"}
+{"label":"CS_ABREVIATION","pattern":"BCD"}
+{"label":"CS_ABREVIATION","pattern":"(BCD)"}
+{"label":"CS_ABREVIATION","pattern":"BCNF"}
+{"label":"CS_ABREVIATION","pattern":"(BCNF)"}
+{"label":"CS_ABREVIATION","pattern":"BCP"}
+{"label":"CS_ABREVIATION","pattern":"(BCP)"}
+{"label":"CS_ABREVIATION","pattern":"BE"}
+{"label":"CS_ABREVIATION","pattern":"(BE)"}
+{"label":"CS_ABREVIATION","pattern":"BEEP"}
+{"label":"CS_ABREVIATION","pattern":"(BEEP)"}
+{"label":"CS_ABREVIATION","pattern":"BER"}
+{"label":"CS_ABREVIATION","pattern":"(BER)"}
+{"label":"CS_ABREVIATION","pattern":"BFD"}
+{"label":"CS_ABREVIATION","pattern":"(BFD)"}
+{"label":"CS_ABREVIATION","pattern":"BFD"}
+{"label":"CS_ABREVIATION","pattern":"(BFD)"}
+{"label":"CS_ABREVIATION","pattern":"BFS"}
+{"label":"CS_ABREVIATION","pattern":"(BFS)"}
+{"label":"CS_ABREVIATION","pattern":"BFT"}
+{"label":"CS_ABREVIATION","pattern":"(BFT)"}
+{"label":"CS_ABREVIATION","pattern":"BGP"}
+{"label":"CS_ABREVIATION","pattern":"(BGP)"}
+{"label":"CS_ABREVIATION","pattern":"BI"}
+{"label":"CS_ABREVIATION","pattern":"(BI)"}
+{"label":"CS_ABREVIATION","pattern":"BiDi"}
+{"label":"CS_ABREVIATION","pattern":"(BiDi)"}
+{"label":"CS_ABREVIATION","pattern":"bin"}
+{"label":"CS_ABREVIATION","pattern":"(bin)"}
+{"label":"CS_ABREVIATION","pattern":"BINAC"}
+{"label":"CS_ABREVIATION","pattern":"(BINAC)"}
+{"label":"CS_ABREVIATION","pattern":"BIND"}
+{"label":"CS_ABREVIATION","pattern":"(BIND)"}
+{"label":"CS_ABREVIATION","pattern":"BIOS"}
+{"label":"CS_ABREVIATION","pattern":"(BIOS)"}
+{"label":"CS_ABREVIATION","pattern":"BJT"}
+{"label":"CS_ABREVIATION","pattern":"(BJT)"}
+{"label":"CS_ABREVIATION","pattern":"bit"}
+{"label":"CS_ABREVIATION","pattern":"(bit)"}
+{"label":"CS_ABREVIATION","pattern":"Blob"}
+{"label":"CS_ABREVIATION","pattern":"(Blob)"}
+{"label":"CS_ABREVIATION","pattern":"Blog"}
+{"label":"CS_ABREVIATION","pattern":"(Blog)"}
+{"label":"CS_ABREVIATION","pattern":"BMP"}
+{"label":"CS_ABREVIATION","pattern":"(BMP)"}
+{"label":"CS_ABREVIATION","pattern":"BNC"}
+{"label":"CS_ABREVIATION","pattern":"(BNC)"}
+{"label":"CS_ABREVIATION","pattern":"BOINC"}
+{"label":"CS_ABREVIATION","pattern":"(BOINC)"}
+{"label":"CS_ABREVIATION","pattern":"BOM"}
+{"label":"CS_ABREVIATION","pattern":"(BOM)"}
+{"label":"CS_ABREVIATION","pattern":"BOOTP"}
+{"label":"CS_ABREVIATION","pattern":"(BOOTP)"}
+{"label":"CS_ABREVIATION","pattern":"BPDU"}
+{"label":"CS_ABREVIATION","pattern":"(BPDU)"}
+{"label":"CS_ABREVIATION","pattern":"BPEL"}
+{"label":"CS_ABREVIATION","pattern":"(BPEL)"}
+{"label":"CS_ABREVIATION","pattern":"BPL"}
+{"label":"CS_ABREVIATION","pattern":"(BPL)"}
+{"label":"CS_ABREVIATION","pattern":"BPM"}
+{"label":"CS_ABREVIATION","pattern":"(BPM)"}
+{"label":"CS_ABREVIATION","pattern":"BPM"}
+{"label":"CS_ABREVIATION","pattern":"(BPM)"}
+{"label":"CS_ABREVIATION","pattern":"bps"}
+{"label":"CS_ABREVIATION","pattern":"(bps)"}
+{"label":"CS_ABREVIATION","pattern":"BRM"}
+{"label":"CS_ABREVIATION","pattern":"(BRM)"}
+{"label":"CS_ABREVIATION","pattern":"BRMS"}
+{"label":"CS_ABREVIATION","pattern":"(BRMS)"}
+{"label":"CS_ABREVIATION","pattern":"BRR"}
+{"label":"CS_ABREVIATION","pattern":"(BRR)"}
+{"label":"CS_ABREVIATION","pattern":"BRS"}
+{"label":"CS_ABREVIATION","pattern":"(BRS)"}
+{"label":"CS_ABREVIATION","pattern":"BSA"}
+{"label":"CS_ABREVIATION","pattern":"(BSA)"}
+{"label":"CS_ABREVIATION","pattern":"BSB"}
+{"label":"CS_ABREVIATION","pattern":"(BSB)"}
+{"label":"CS_ABREVIATION","pattern":"BSD"}
+{"label":"CS_ABREVIATION","pattern":"(BSD)"}
+{"label":"CS_ABREVIATION","pattern":"BSoD"}
+{"label":"CS_ABREVIATION","pattern":"(BSoD)"}
+{"label":"CS_ABREVIATION","pattern":"BSS"}
+{"label":"CS_ABREVIATION","pattern":"(BSS)"}
+{"label":"CS_ABREVIATION","pattern":"BT"}
+{"label":"CS_ABREVIATION","pattern":"(BT)"}
+{"label":"CS_ABREVIATION","pattern":"BT"}
+{"label":"CS_ABREVIATION","pattern":"(BT)"}
+{"label":"CS_ABREVIATION","pattern":"B TAM"}
+{"label":"CS_ABREVIATION","pattern":"(B TAM)"}
+{"label":"CS_ABREVIATION","pattern":"BW"}
+{"label":"CS_ABREVIATION","pattern":"(BW)"}
+{"label":"CS_ABREVIATION","pattern":"BYOD"}
+{"label":"CS_ABREVIATION","pattern":"(BYOD)"}
+{"label":"CS_ABREVIATION","pattern":"Byte"}
+{"label":"CS_ABREVIATION","pattern":"(Byte)"}
+{"label":"CS_ABREVIATION","pattern":"CA"}
+{"label":"CS_ABREVIATION","pattern":"(CA)"}
+{"label":"CS_ABREVIATION","pattern":"CAD"}
+{"label":"CS_ABREVIATION","pattern":"(CAD)"}
+{"label":"CS_ABREVIATION","pattern":"CAE"}
+{"label":"CS_ABREVIATION","pattern":"(CAE)"}
+{"label":"CS_ABREVIATION","pattern":"CAID"}
+{"label":"CS_ABREVIATION","pattern":"(CAID)"}
+{"label":"CS_ABREVIATION","pattern":"CAI"}
+{"label":"CS_ABREVIATION","pattern":"(CAI)"}
+{"label":"CS_ABREVIATION","pattern":"CAM"}
+{"label":"CS_ABREVIATION","pattern":"(CAM)"}
+{"label":"CS_ABREVIATION","pattern":"CAP"}
+{"label":"CS_ABREVIATION","pattern":"(CAP)"}
+{"label":"CS_ABREVIATION","pattern":"CAPTCHA"}
+{"label":"CS_ABREVIATION","pattern":"(CAPTCHA)"}
+{"label":"CS_ABREVIATION","pattern":"CAT"}
+{"label":"CS_ABREVIATION","pattern":"(CAT)"}
+{"label":"CS_ABREVIATION","pattern":"CAQ"}
+{"label":"CS_ABREVIATION","pattern":"(CAQ)"}
+{"label":"CS_ABREVIATION","pattern":"CASE"}
+{"label":"CS_ABREVIATION","pattern":"(CASE)"}
+{"label":"CS_ABREVIATION","pattern":"cc"}
+{"label":"CS_ABREVIATION","pattern":"(cc)"}
+{"label":"CS_ABREVIATION","pattern":"CC"}
+{"label":"CS_ABREVIATION","pattern":"(CC)"}
+{"label":"CS_ABREVIATION","pattern":"CD"}
+{"label":"CS_ABREVIATION","pattern":"(CD)"}
+{"label":"CS_ABREVIATION","pattern":"CDE"}
+{"label":"CS_ABREVIATION","pattern":"(CDE)"}
+{"label":"CS_ABREVIATION","pattern":"CDFS"}
+{"label":"CS_ABREVIATION","pattern":"(CDFS)"}
+{"label":"CS_ABREVIATION","pattern":"CDMA"}
+{"label":"CS_ABREVIATION","pattern":"(CDMA)"}
+{"label":"CS_ABREVIATION","pattern":"CDN"}
+{"label":"CS_ABREVIATION","pattern":"(CDN)"}
+{"label":"CS_ABREVIATION","pattern":"CDP"}
+{"label":"CS_ABREVIATION","pattern":"(CDP)"}
+{"label":"CS_ABREVIATION","pattern":"CDP"}
+{"label":"CS_ABREVIATION","pattern":"(CDP)"}
+{"label":"CS_ABREVIATION","pattern":"CD-R"}
+{"label":"CS_ABREVIATION","pattern":"(CD-R)"}
+{"label":"CS_ABREVIATION","pattern":"CD-ROM"}
+{"label":"CS_ABREVIATION","pattern":"(CD-ROM)"}
+{"label":"CS_ABREVIATION","pattern":"CD-RW"}
+{"label":"CS_ABREVIATION","pattern":"(CD-RW)"}
+{"label":"CS_ABREVIATION","pattern":"CDSA"}
+{"label":"CS_ABREVIATION","pattern":"(CDSA)"}
+{"label":"CS_ABREVIATION","pattern":"CERT"}
+{"label":"CS_ABREVIATION","pattern":"(CERT)"}
+{"label":"CS_ABREVIATION","pattern":"CES"}
+{"label":"CS_ABREVIATION","pattern":"(CES)"}
+{"label":"CS_ABREVIATION","pattern":"CF"}
+{"label":"CS_ABREVIATION","pattern":"(CF)"}
+{"label":"CS_ABREVIATION","pattern":"CFD"}
+{"label":"CS_ABREVIATION","pattern":"(CFD)"}
+{"label":"CS_ABREVIATION","pattern":"CFG"}
+{"label":"CS_ABREVIATION","pattern":"(CFG)"}
+{"label":"CS_ABREVIATION","pattern":"CFG"}
+{"label":"CS_ABREVIATION","pattern":"(CFG)"}
+{"label":"CS_ABREVIATION","pattern":"CG"}
+{"label":"CS_ABREVIATION","pattern":"(CG)"}
+{"label":"CS_ABREVIATION","pattern":"CGA"}
+{"label":"CS_ABREVIATION","pattern":"(CGA)"}
+{"label":"CS_ABREVIATION","pattern":"CGI"}
+{"label":"CS_ABREVIATION","pattern":"(CGI)"}
+{"label":"CS_ABREVIATION","pattern":"CGI"}
+{"label":"CS_ABREVIATION","pattern":"(CGI)"}
+{"label":"CS_ABREVIATION","pattern":"CGT"}
+{"label":"CS_ABREVIATION","pattern":"(CGT)"}
+{"label":"CS_ABREVIATION","pattern":"CHAP"}
+{"label":"CS_ABREVIATION","pattern":"(CHAP)"}
+{"label":"CS_ABREVIATION","pattern":"CHS"}
+{"label":"CS_ABREVIATION","pattern":"(CHS)"}
+{"label":"CS_ABREVIATION","pattern":"CIDR"}
+{"label":"CS_ABREVIATION","pattern":"(CIDR)"}
+{"label":"CS_ABREVIATION","pattern":"CIFS"}
+{"label":"CS_ABREVIATION","pattern":"(CIFS)"}
+{"label":"CS_ABREVIATION","pattern":"CIM"}
+{"label":"CS_ABREVIATION","pattern":"(CIM)"}
+{"label":"CS_ABREVIATION","pattern":"CIM"}
+{"label":"CS_ABREVIATION","pattern":"(CIM)"}
+{"label":"CS_ABREVIATION","pattern":"CIO"}
+{"label":"CS_ABREVIATION","pattern":"(CIO)"}
+{"label":"CS_ABREVIATION","pattern":"CIR"}
+{"label":"CS_ABREVIATION","pattern":"(CIR)"}
+{"label":"CS_ABREVIATION","pattern":"CISC"}
+{"label":"CS_ABREVIATION","pattern":"(CISC)"}
+{"label":"CS_ABREVIATION","pattern":"CJK"}
+{"label":"CS_ABREVIATION","pattern":"(CJK)"}
+{"label":"CS_ABREVIATION","pattern":"CJKV"}
+{"label":"CS_ABREVIATION","pattern":"(CJKV)"}
+{"label":"CS_ABREVIATION","pattern":"CLI"}
+{"label":"CS_ABREVIATION","pattern":"(CLI)"}
+{"label":"CS_ABREVIATION","pattern":"CLR"}
+{"label":"CS_ABREVIATION","pattern":"(CLR)"}
+{"label":"CS_ABREVIATION","pattern":"CM"}
+{"label":"CS_ABREVIATION","pattern":"(CM)"}
+{"label":"CS_ABREVIATION","pattern":"CM"}
+{"label":"CS_ABREVIATION","pattern":"(CM)"}
+{"label":"CS_ABREVIATION","pattern":"CMDB"}
+{"label":"CS_ABREVIATION","pattern":"(CMDB)"}
+{"label":"CS_ABREVIATION","pattern":"CMMI"}
+{"label":"CS_ABREVIATION","pattern":"(CMMI)"}
+{"label":"CS_ABREVIATION","pattern":"CMOS"}
+{"label":"CS_ABREVIATION","pattern":"(CMOS)"}
+{"label":"CS_ABREVIATION","pattern":"CMO"}
+{"label":"CS_ABREVIATION","pattern":"(CMO)"}
+{"label":"CS_ABREVIATION","pattern":"CMS"}
+{"label":"CS_ABREVIATION","pattern":"(CMS)"}
+{"label":"CS_ABREVIATION","pattern":"CN"}
+{"label":"CS_ABREVIATION","pattern":"(CN)"}
+{"label":"CS_ABREVIATION","pattern":"CN"}
+{"label":"CS_ABREVIATION","pattern":"(CN)"}
+{"label":"CS_ABREVIATION","pattern":"CNC"}
+{"label":"CS_ABREVIATION","pattern":"(CNC)"}
+{"label":"CS_ABREVIATION","pattern":"CNG"}
+{"label":"CS_ABREVIATION","pattern":"(CNG)"}
+{"label":"CS_ABREVIATION","pattern":"CNG"}
+{"label":"CS_ABREVIATION","pattern":"(CNG)"}
+{"label":"CS_ABREVIATION","pattern":"CNR"}
+{"label":"CS_ABREVIATION","pattern":"(CNR)"}
+{"label":"CS_ABREVIATION","pattern":"COBOL"}
+{"label":"CS_ABREVIATION","pattern":"(COBOL)"}
+{"label":"CS_ABREVIATION","pattern":"COM"}
+{"label":"CS_ABREVIATION","pattern":"(COM)"}
+{"label":"CS_ABREVIATION","pattern":"CORBA"}
+{"label":"CS_ABREVIATION","pattern":"(CORBA)"}
+{"label":"CS_ABREVIATION","pattern":"CORS"}
+{"label":"CS_ABREVIATION","pattern":"(CORS)"}
+{"label":"CS_ABREVIATION","pattern":"COTS"}
+{"label":"CS_ABREVIATION","pattern":"(COTS)"}
+{"label":"CS_ABREVIATION","pattern":"CPA"}
+{"label":"CS_ABREVIATION","pattern":"(CPA)"}
+{"label":"CS_ABREVIATION","pattern":"CPAN"}
+{"label":"CS_ABREVIATION","pattern":"(CPAN)"}
+{"label":"CS_ABREVIATION","pattern":"CP/M"}
+{"label":"CS_ABREVIATION","pattern":"(CP/M)"}
+{"label":"CS_ABREVIATION","pattern":"CPRI"}
+{"label":"CS_ABREVIATION","pattern":"(CPRI)"}
+{"label":"CS_ABREVIATION","pattern":"CPS"}
+{"label":"CS_ABREVIATION","pattern":"(CPS)"}
+{"label":"CS_ABREVIATION","pattern":"CPU"}
+{"label":"CS_ABREVIATION","pattern":"(CPU)"}
+{"label":"CS_ABREVIATION","pattern":"CQS"}
+{"label":"CS_ABREVIATION","pattern":"(CQS)"}
+{"label":"CS_ABREVIATION","pattern":"CQRS"}
+{"label":"CS_ABREVIATION","pattern":"(CQRS)"}
+{"label":"CS_ABREVIATION","pattern":"CR"}
+{"label":"CS_ABREVIATION","pattern":"(CR)"}
+{"label":"CS_ABREVIATION","pattern":"CRAN"}
+{"label":"CS_ABREVIATION","pattern":"(CRAN)"}
+{"label":"CS_ABREVIATION","pattern":"CRC"}
+{"label":"CS_ABREVIATION","pattern":"(CRC)"}
+{"label":"CS_ABREVIATION","pattern":"CRLF"}
+{"label":"CS_ABREVIATION","pattern":"(CRLF)"}
+{"label":"CS_ABREVIATION","pattern":"CRM"}
+{"label":"CS_ABREVIATION","pattern":"(CRM)"}
+{"label":"CS_ABREVIATION","pattern":"CRS"}
+{"label":"CS_ABREVIATION","pattern":"(CRS)"}
+{"label":"CS_ABREVIATION","pattern":"CRT"}
+{"label":"CS_ABREVIATION","pattern":"(CRT)"}
+{"label":"CS_ABREVIATION","pattern":"CRUD"}
+{"label":"CS_ABREVIATION","pattern":"(CRUD)"}
+{"label":"CS_ABREVIATION","pattern":"CS"}
+{"label":"CS_ABREVIATION","pattern":"(CS)"}
+{"label":"CS_ABREVIATION","pattern":"CS"}
+{"label":"CS_ABREVIATION","pattern":"(CS)"}
+{"label":"CS_ABREVIATION","pattern":"CSE"}
+{"label":"CS_ABREVIATION","pattern":"(CSE)"}
+{"label":"CS_ABREVIATION","pattern":"CSI"}
+{"label":"CS_ABREVIATION","pattern":"(CSI)"}
+{"label":"CS_ABREVIATION","pattern":"CSM"}
+{"label":"CS_ABREVIATION","pattern":"(CSM)"}
+{"label":"CS_ABREVIATION","pattern":"CSMA/CD"}
+{"label":"CS_ABREVIATION","pattern":"(CSMA/CD)"}
+{"label":"CS_ABREVIATION","pattern":"CSP"}
+{"label":"CS_ABREVIATION","pattern":"(CSP)"}
+{"label":"CS_ABREVIATION","pattern":"CSP"}
+{"label":"CS_ABREVIATION","pattern":"(CSP)"}
+{"label":"CS_ABREVIATION","pattern":"CSRF"}
+{"label":"CS_ABREVIATION","pattern":"(CSRF)"}
+{"label":"CS_ABREVIATION","pattern":"CSS"}
+{"label":"CS_ABREVIATION","pattern":"(CSS)"}
+{"label":"CS_ABREVIATION","pattern":"CSS"}
+{"label":"CS_ABREVIATION","pattern":"(CSS)"}
+{"label":"CS_ABREVIATION","pattern":"CSS"}
+{"label":"CS_ABREVIATION","pattern":"(CSS)"}
+{"label":"CS_ABREVIATION","pattern":"CSS"}
+{"label":"CS_ABREVIATION","pattern":"(CSS)"}
+{"label":"CS_ABREVIATION","pattern":"CSV"}
+{"label":"CS_ABREVIATION","pattern":"(CSV)"}
+{"label":"CS_ABREVIATION","pattern":"CT"}
+{"label":"CS_ABREVIATION","pattern":"(CT)"}
+{"label":"CS_ABREVIATION","pattern":"CTAN"}
+{"label":"CS_ABREVIATION","pattern":"(CTAN)"}
+{"label":"CS_ABREVIATION","pattern":"CTCP"}
+{"label":"CS_ABREVIATION","pattern":"(CTCP)"}
+{"label":"CS_ABREVIATION","pattern":"CTI"}
+{"label":"CS_ABREVIATION","pattern":"(CTI)"}
+{"label":"CS_ABREVIATION","pattern":"CTFE"}
+{"label":"CS_ABREVIATION","pattern":"(CTFE)"}
+{"label":"CS_ABREVIATION","pattern":"CTL"}
+{"label":"CS_ABREVIATION","pattern":"(CTL)"}
+{"label":"CS_ABREVIATION","pattern":"CTM"}
+{"label":"CS_ABREVIATION","pattern":"(CTM)"}
+{"label":"CS_ABREVIATION","pattern":"CTS"}
+{"label":"CS_ABREVIATION","pattern":"(CTS)"}
+{"label":"CS_ABREVIATION","pattern":"CTSS"}
+{"label":"CS_ABREVIATION","pattern":"(CTSS)"}
+{"label":"CS_ABREVIATION","pattern":"CUA"}
+{"label":"CS_ABREVIATION","pattern":"(CUA)"}
+{"label":"CS_ABREVIATION","pattern":"CVE"}
+{"label":"CS_ABREVIATION","pattern":"(CVE)"}
+{"label":"CS_ABREVIATION","pattern":"CVS"}
+{"label":"CS_ABREVIATION","pattern":"(CVS)"}
+{"label":"CS_ABREVIATION","pattern":"CX"}
+{"label":"CS_ABREVIATION","pattern":"(CX)"}
+{"label":"CS_ABREVIATION","pattern":"DAC"}
+{"label":"CS_ABREVIATION","pattern":"(DAC)"}
+{"label":"CS_ABREVIATION","pattern":"DAC"}
+{"label":"CS_ABREVIATION","pattern":"(DAC)"}
+{"label":"CS_ABREVIATION","pattern":"DAL"}
+{"label":"CS_ABREVIATION","pattern":"(DAL)"}
+{"label":"CS_ABREVIATION","pattern":"DAO"}
+{"label":"CS_ABREVIATION","pattern":"(DAO)"}
+{"label":"CS_ABREVIATION","pattern":"DAO"}
+{"label":"CS_ABREVIATION","pattern":"(DAO)"}
+{"label":"CS_ABREVIATION","pattern":"DAO"}
+{"label":"CS_ABREVIATION","pattern":"(DAO)"}
+{"label":"CS_ABREVIATION","pattern":"DAP"}
+{"label":"CS_ABREVIATION","pattern":"(DAP)"}
+{"label":"CS_ABREVIATION","pattern":"DARPA"}
+{"label":"CS_ABREVIATION","pattern":"(DARPA)"}
+{"label":"CS_ABREVIATION","pattern":"DAS"}
+{"label":"CS_ABREVIATION","pattern":"(DAS)"}
+{"label":"CS_ABREVIATION","pattern":"DAT"}
+{"label":"CS_ABREVIATION","pattern":"(DAT)"}
+{"label":"CS_ABREVIATION","pattern":"DB"}
+{"label":"CS_ABREVIATION","pattern":"(DB)"}
+{"label":"CS_ABREVIATION","pattern":"DSKT"}
+{"label":"CS_ABREVIATION","pattern":"(DSKT)"}
+{"label":"CS_ABREVIATION","pattern":"DBA"}
+{"label":"CS_ABREVIATION","pattern":"(DBA)"}
+{"label":"CS_ABREVIATION","pattern":"DBCS"}
+{"label":"CS_ABREVIATION","pattern":"(DBCS)"}
+{"label":"CS_ABREVIATION","pattern":"DBMS"}
+{"label":"CS_ABREVIATION","pattern":"(DBMS)"}
+{"label":"CS_ABREVIATION","pattern":"DCC"}
+{"label":"CS_ABREVIATION","pattern":"(DCC)"}
+{"label":"CS_ABREVIATION","pattern":"DCCP"}
+{"label":"CS_ABREVIATION","pattern":"(DCCP)"}
+{"label":"CS_ABREVIATION","pattern":"DCCA"}
+{"label":"CS_ABREVIATION","pattern":"(DCCA)"}
+{"label":"CS_ABREVIATION","pattern":"DCL"}
+{"label":"CS_ABREVIATION","pattern":"(DCL)"}
+{"label":"CS_ABREVIATION","pattern":"DCS"}
+{"label":"CS_ABREVIATION","pattern":"(DCS)"}
+{"label":"CS_ABREVIATION","pattern":"DCMI"}
+{"label":"CS_ABREVIATION","pattern":"(DCMI)"}
+{"label":"CS_ABREVIATION","pattern":"DCOM"}
+{"label":"CS_ABREVIATION","pattern":"(DCOM)"}
+{"label":"CS_ABREVIATION","pattern":"DD"}
+{"label":"CS_ABREVIATION","pattern":"(DD)"}
+{"label":"CS_ABREVIATION","pattern":"DDE"}
+{"label":"CS_ABREVIATION","pattern":"(DDE)"}
+{"label":"CS_ABREVIATION","pattern":"DDI"}
+{"label":"CS_ABREVIATION","pattern":"(DDI)"}
+{"label":"CS_ABREVIATION","pattern":"DDL"}
+{"label":"CS_ABREVIATION","pattern":"(DDL)"}
+{"label":"CS_ABREVIATION","pattern":"DDoS"}
+{"label":"CS_ABREVIATION","pattern":"(DDoS)"}
+{"label":"CS_ABREVIATION","pattern":"DDR"}
+{"label":"CS_ABREVIATION","pattern":"(DDR)"}
+{"label":"CS_ABREVIATION","pattern":"DEC"}
+{"label":"CS_ABREVIATION","pattern":"(DEC)"}
+{"label":"CS_ABREVIATION","pattern":"DES"}
+{"label":"CS_ABREVIATION","pattern":"(DES)"}
+{"label":"CS_ABREVIATION","pattern":"dev"}
+{"label":"CS_ABREVIATION","pattern":"(dev)"}
+{"label":"CS_ABREVIATION","pattern":"DFA"}
+{"label":"CS_ABREVIATION","pattern":"(DFA)"}
+{"label":"CS_ABREVIATION","pattern":"DFD"}
+{"label":"CS_ABREVIATION","pattern":"(DFD)"}
+{"label":"CS_ABREVIATION","pattern":"DFS"}
+{"label":"CS_ABREVIATION","pattern":"(DFS)"}
+{"label":"CS_ABREVIATION","pattern":"DFS"}
+{"label":"CS_ABREVIATION","pattern":"(DFS)"}
+{"label":"CS_ABREVIATION","pattern":"DGD"}
+{"label":"CS_ABREVIATION","pattern":"(DGD)"}
+{"label":"CS_ABREVIATION","pattern":"DHCP"}
+{"label":"CS_ABREVIATION","pattern":"(DHCP)"}
+{"label":"CS_ABREVIATION","pattern":"DHTML"}
+{"label":"CS_ABREVIATION","pattern":"(DHTML)"}
+{"label":"CS_ABREVIATION","pattern":"DIF"}
+{"label":"CS_ABREVIATION","pattern":"(DIF)"}
+{"label":"CS_ABREVIATION","pattern":"DIMM"}
+{"label":"CS_ABREVIATION","pattern":"(DIMM)"}
+{"label":"CS_ABREVIATION","pattern":"DIN"}
+{"label":"CS_ABREVIATION","pattern":"(DIN)"}
+{"label":"CS_ABREVIATION","pattern":"DIP"}
+{"label":"CS_ABREVIATION","pattern":"(DIP)"}
+{"label":"CS_ABREVIATION","pattern":"DISM"}
+{"label":"CS_ABREVIATION","pattern":"(DISM)"}
+{"label":"CS_ABREVIATION","pattern":"DIVX"}
+{"label":"CS_ABREVIATION","pattern":"(DIVX)"}
+{"label":"CS_ABREVIATION","pattern":"DKIM"}
+{"label":"CS_ABREVIATION","pattern":"(DKIM)"}
+{"label":"CS_ABREVIATION","pattern":"DL"}
+{"label":"CS_ABREVIATION","pattern":"(DL)"}
+{"label":"CS_ABREVIATION","pattern":"DLL"}
+{"label":"CS_ABREVIATION","pattern":"(DLL)"}
+{"label":"CS_ABREVIATION","pattern":"DLNA"}
+{"label":"CS_ABREVIATION","pattern":"(DLNA)"}
+{"label":"CS_ABREVIATION","pattern":"DMA"}
+{"label":"CS_ABREVIATION","pattern":"(DMA)"}
+{"label":"CS_ABREVIATION","pattern":"DMCA"}
+{"label":"CS_ABREVIATION","pattern":"(DMCA)"}
+{"label":"CS_ABREVIATION","pattern":"DMI"}
+{"label":"CS_ABREVIATION","pattern":"(DMI)"}
+{"label":"CS_ABREVIATION","pattern":"DML"}
+{"label":"CS_ABREVIATION","pattern":"(DML)"}
+{"label":"CS_ABREVIATION","pattern":"DML"}
+{"label":"CS_ABREVIATION","pattern":"(DML)"}
+{"label":"CS_ABREVIATION","pattern":"DMR"}
+{"label":"CS_ABREVIATION","pattern":"(DMR)"}
+{"label":"CS_ABREVIATION","pattern":"DMZ"}
+{"label":"CS_ABREVIATION","pattern":"(DMZ)"}
+{"label":"CS_ABREVIATION","pattern":"DN"}
+{"label":"CS_ABREVIATION","pattern":"(DN)"}
+{"label":"CS_ABREVIATION","pattern":"DND"}
+{"label":"CS_ABREVIATION","pattern":"(DND)"}
+{"label":"CS_ABREVIATION","pattern":"DNS"}
+{"label":"CS_ABREVIATION","pattern":"(DNS)"}
+{"label":"CS_ABREVIATION","pattern":"DOA"}
+{"label":"CS_ABREVIATION","pattern":"(DOA)"}
+{"label":"CS_ABREVIATION","pattern":"DOCSIS"}
+{"label":"CS_ABREVIATION","pattern":"(DOCSIS)"}
+{"label":"CS_ABREVIATION","pattern":"DOM"}
+{"label":"CS_ABREVIATION","pattern":"(DOM)"}
+{"label":"CS_ABREVIATION","pattern":"DoS"}
+{"label":"CS_ABREVIATION","pattern":"(DoS)"}
+{"label":"CS_ABREVIATION","pattern":"DOS"}
+{"label":"CS_ABREVIATION","pattern":"(DOS)"}
+{"label":"CS_ABREVIATION","pattern":"DP"}
+{"label":"CS_ABREVIATION","pattern":"(DP)"}
+{"label":"CS_ABREVIATION","pattern":"DPC"}
+{"label":"CS_ABREVIATION","pattern":"(DPC)"}
+{"label":"CS_ABREVIATION","pattern":"DPI"}
+{"label":"CS_ABREVIATION","pattern":"(DPI)"}
+{"label":"CS_ABREVIATION","pattern":"DPI"}
+{"label":"CS_ABREVIATION","pattern":"(DPI)"}
+{"label":"CS_ABREVIATION","pattern":"DPMI"}
+{"label":"CS_ABREVIATION","pattern":"(DPMI)"}
+{"label":"CS_ABREVIATION","pattern":"DPMS"}
+{"label":"CS_ABREVIATION","pattern":"(DPMS)"}
+{"label":"CS_ABREVIATION","pattern":"DR"}
+{"label":"CS_ABREVIATION","pattern":"(DR)"}
+{"label":"CS_ABREVIATION","pattern":"DRAM"}
+{"label":"CS_ABREVIATION","pattern":"(DRAM)"}
+{"label":"CS_ABREVIATION","pattern":"DR-DOS"}
+{"label":"CS_ABREVIATION","pattern":"(DR-DOS)"}
+{"label":"CS_ABREVIATION","pattern":"DRI"}
+{"label":"CS_ABREVIATION","pattern":"(DRI)"}
+{"label":"CS_ABREVIATION","pattern":"DRM"}
+{"label":"CS_ABREVIATION","pattern":"(DRM)"}
+{"label":"CS_ABREVIATION","pattern":"DRM"}
+{"label":"CS_ABREVIATION","pattern":"(DRM)"}
+{"label":"CS_ABREVIATION","pattern":"DSA"}
+{"label":"CS_ABREVIATION","pattern":"(DSA)"}
+{"label":"CS_ABREVIATION","pattern":"DSDL"}
+{"label":"CS_ABREVIATION","pattern":"(DSDL)"}
+{"label":"CS_ABREVIATION","pattern":"DSDM"}
+{"label":"CS_ABREVIATION","pattern":"(DSDM)"}
+{"label":"CS_ABREVIATION","pattern":"DSL"}
+{"label":"CS_ABREVIATION","pattern":"(DSL)"}
+{"label":"CS_ABREVIATION","pattern":"DSL"}
+{"label":"CS_ABREVIATION","pattern":"(DSL)"}
+{"label":"CS_ABREVIATION","pattern":"DSLAM"}
+{"label":"CS_ABREVIATION","pattern":"(DSLAM)"}
+{"label":"CS_ABREVIATION","pattern":"DSN"}
+{"label":"CS_ABREVIATION","pattern":"(DSN)"}
+{"label":"CS_ABREVIATION","pattern":"DSN"}
+{"label":"CS_ABREVIATION","pattern":"(DSN)"}
+{"label":"CS_ABREVIATION","pattern":"DSP"}
+{"label":"CS_ABREVIATION","pattern":"(DSP)"}
+{"label":"CS_ABREVIATION","pattern":"DSSSL"}
+{"label":"CS_ABREVIATION","pattern":"(DSSSL)"}
+{"label":"CS_ABREVIATION","pattern":"DTD"}
+{"label":"CS_ABREVIATION","pattern":"(DTD)"}
+{"label":"CS_ABREVIATION","pattern":"DTE"}
+{"label":"CS_ABREVIATION","pattern":"(DTE)"}
+{"label":"CS_ABREVIATION","pattern":"DTO"}
+{"label":"CS_ABREVIATION","pattern":"(DTO)"}
+{"label":"CS_ABREVIATION","pattern":"DTP"}
+{"label":"CS_ABREVIATION","pattern":"(DTP)"}
+{"label":"CS_ABREVIATION","pattern":"DTR"}
+{"label":"CS_ABREVIATION","pattern":"(DTR)"}
+{"label":"CS_ABREVIATION","pattern":"DVD"}
+{"label":"CS_ABREVIATION","pattern":"(DVD)"}
+{"label":"CS_ABREVIATION","pattern":"DVD-R"}
+{"label":"CS_ABREVIATION","pattern":"(DVD-R)"}
+{"label":"CS_ABREVIATION","pattern":"DVD-ROM"}
+{"label":"CS_ABREVIATION","pattern":"(DVD-ROM)"}
+{"label":"CS_ABREVIATION","pattern":"DVD-RW"}
+{"label":"CS_ABREVIATION","pattern":"(DVD-RW)"}
+{"label":"CS_ABREVIATION","pattern":"DVI"}
+{"label":"CS_ABREVIATION","pattern":"(DVI)"}
+{"label":"CS_ABREVIATION","pattern":"DVR"}
+{"label":"CS_ABREVIATION","pattern":"(DVR)"}
+{"label":"CS_ABREVIATION","pattern":"DW"}
+{"label":"CS_ABREVIATION","pattern":"(DW)"}
+{"label":"CS_ABREVIATION","pattern":"EAI"}
+{"label":"CS_ABREVIATION","pattern":"(EAI)"}
+{"label":"CS_ABREVIATION","pattern":"EAP"}
+{"label":"CS_ABREVIATION","pattern":"(EAP)"}
+{"label":"CS_ABREVIATION","pattern":"EAS"}
+{"label":"CS_ABREVIATION","pattern":"(EAS)"}
+{"label":"CS_ABREVIATION","pattern":"EBCDIC"}
+{"label":"CS_ABREVIATION","pattern":"(EBCDIC)"}
+{"label":"CS_ABREVIATION","pattern":"EBML"}
+{"label":"CS_ABREVIATION","pattern":"(EBML)"}
+{"label":"CS_ABREVIATION","pattern":"ECC"}
+{"label":"CS_ABREVIATION","pattern":"(ECC)"}
+{"label":"CS_ABREVIATION","pattern":"ECMA"}
+{"label":"CS_ABREVIATION","pattern":"(ECMA)"}
+{"label":"CS_ABREVIATION","pattern":"ECN"}
+{"label":"CS_ABREVIATION","pattern":"(ECN)"}
+{"label":"CS_ABREVIATION","pattern":"ECOS"}
+{"label":"CS_ABREVIATION","pattern":"(ECOS)"}
+{"label":"CS_ABREVIATION","pattern":"ECRS"}
+{"label":"CS_ABREVIATION","pattern":"(ECRS)"}
+{"label":"CS_ABREVIATION","pattern":"ECS"}
+{"label":"CS_ABREVIATION","pattern":"(ECS)"}
+{"label":"CS_ABREVIATION","pattern":"EDA"}
+{"label":"CS_ABREVIATION","pattern":"(EDA)"}
+{"label":"CS_ABREVIATION","pattern":"EDGE"}
+{"label":"CS_ABREVIATION","pattern":"(EDGE)"}
+{"label":"CS_ABREVIATION","pattern":"EDI"}
+{"label":"CS_ABREVIATION","pattern":"(EDI)"}
+{"label":"CS_ABREVIATION","pattern":"EDO"}
+{"label":"CS_ABREVIATION","pattern":"(EDO)"}
+{"label":"CS_ABREVIATION","pattern":"EDSAC"}
+{"label":"CS_ABREVIATION","pattern":"(EDSAC)"}
+{"label":"CS_ABREVIATION","pattern":"EDVAC"}
+{"label":"CS_ABREVIATION","pattern":"(EDVAC)"}
+{"label":"CS_ABREVIATION","pattern":"EEPROM"}
+{"label":"CS_ABREVIATION","pattern":"(EEPROM)"}
+{"label":"CS_ABREVIATION","pattern":"EFF"}
+{"label":"CS_ABREVIATION","pattern":"(EFF)"}
+{"label":"CS_ABREVIATION","pattern":"EFI"}
+{"label":"CS_ABREVIATION","pattern":"(EFI)"}
+{"label":"CS_ABREVIATION","pattern":"EFM"}
+{"label":"CS_ABREVIATION","pattern":"(EFM)"}
+{"label":"CS_ABREVIATION","pattern":"EFM"}
+{"label":"CS_ABREVIATION","pattern":"(EFM)"}
+{"label":"CS_ABREVIATION","pattern":"EFS"}
+{"label":"CS_ABREVIATION","pattern":"(EFS)"}
+{"label":"CS_ABREVIATION","pattern":"EGA"}
+{"label":"CS_ABREVIATION","pattern":"(EGA)"}
+{"label":"CS_ABREVIATION","pattern":"E-mail"}
+{"label":"CS_ABREVIATION","pattern":"(E-mail)"}
+{"label":"CS_ABREVIATION","pattern":"EGP"}
+{"label":"CS_ABREVIATION","pattern":"(EGP)"}
+{"label":"CS_ABREVIATION","pattern":"eID"}
+{"label":"CS_ABREVIATION","pattern":"(eID)"}
+{"label":"CS_ABREVIATION","pattern":"EIDE"}
+{"label":"CS_ABREVIATION","pattern":"(EIDE)"}
+{"label":"CS_ABREVIATION","pattern":"EIGRP"}
+{"label":"CS_ABREVIATION","pattern":"(EIGRP)"}
+{"label":"CS_ABREVIATION","pattern":"EISA"}
+{"label":"CS_ABREVIATION","pattern":"(EISA)"}
+{"label":"CS_ABREVIATION","pattern":"ELF"}
+{"label":"CS_ABREVIATION","pattern":"(ELF)"}
+{"label":"CS_ABREVIATION","pattern":"ELF"}
+{"label":"CS_ABREVIATION","pattern":"(ELF)"}
+{"label":"CS_ABREVIATION","pattern":"ELM"}
+{"label":"CS_ABREVIATION","pattern":"(ELM)"}
+{"label":"CS_ABREVIATION","pattern":"EMACS"}
+{"label":"CS_ABREVIATION","pattern":"(EMACS)"}
+{"label":"CS_ABREVIATION","pattern":"EMS"}
+{"label":"CS_ABREVIATION","pattern":"(EMS)"}
+{"label":"CS_ABREVIATION","pattern":"ENIAC"}
+{"label":"CS_ABREVIATION","pattern":"(ENIAC)"}
+{"label":"CS_ABREVIATION","pattern":"EOD"}
+{"label":"CS_ABREVIATION","pattern":"(EOD)"}
+{"label":"CS_ABREVIATION","pattern":"EOF"}
+{"label":"CS_ABREVIATION","pattern":"(EOF)"}
+{"label":"CS_ABREVIATION","pattern":"EOL"}
+{"label":"CS_ABREVIATION","pattern":"(EOL)"}
+{"label":"CS_ABREVIATION","pattern":"EOM"}
+{"label":"CS_ABREVIATION","pattern":"(EOM)"}
+{"label":"CS_ABREVIATION","pattern":"EOS"}
+{"label":"CS_ABREVIATION","pattern":"(EOS)"}
+{"label":"CS_ABREVIATION","pattern":"EPIC"}
+{"label":"CS_ABREVIATION","pattern":"(EPIC)"}
+{"label":"CS_ABREVIATION","pattern":"EPROM"}
+{"label":"CS_ABREVIATION","pattern":"(EPROM)"}
+{"label":"CS_ABREVIATION","pattern":"ERD"}
+{"label":"CS_ABREVIATION","pattern":"(ERD)"}
+{"label":"CS_ABREVIATION","pattern":"ERM"}
+{"label":"CS_ABREVIATION","pattern":"(ERM)"}
+{"label":"CS_ABREVIATION","pattern":"ERP"}
+{"label":"CS_ABREVIATION","pattern":"(ERP)"}
+{"label":"CS_ABREVIATION","pattern":"eSATA"}
+{"label":"CS_ABREVIATION","pattern":"(eSATA)"}
+{"label":"CS_ABREVIATION","pattern":"ESB"}
+{"label":"CS_ABREVIATION","pattern":"(ESB)"}
+{"label":"CS_ABREVIATION","pattern":"ESCON"}
+{"label":"CS_ABREVIATION","pattern":"(ESCON)"}
+{"label":"CS_ABREVIATION","pattern":"ESD"}
+{"label":"CS_ABREVIATION","pattern":"(ESD)"}
+{"label":"CS_ABREVIATION","pattern":"ESI"}
+{"label":"CS_ABREVIATION","pattern":"(ESI)"}
+{"label":"CS_ABREVIATION","pattern":"ESR"}
+{"label":"CS_ABREVIATION","pattern":"(ESR)"}
+{"label":"CS_ABREVIATION","pattern":"ETL"}
+{"label":"CS_ABREVIATION","pattern":"(ETL)"}
+{"label":"CS_ABREVIATION","pattern":"ETW"}
+{"label":"CS_ABREVIATION","pattern":"(ETW)"}
+{"label":"CS_ABREVIATION","pattern":"EUC"}
+{"label":"CS_ABREVIATION","pattern":"(EUC)"}
+{"label":"CS_ABREVIATION","pattern":"EULA"}
+{"label":"CS_ABREVIATION","pattern":"(EULA)"}
+{"label":"CS_ABREVIATION","pattern":"EWM"}
+{"label":"CS_ABREVIATION","pattern":"(EWM)"}
+{"label":"CS_ABREVIATION","pattern":"EWMH"}
+{"label":"CS_ABREVIATION","pattern":"(EWMH)"}
+{"label":"CS_ABREVIATION","pattern":"EXT"}
+{"label":"CS_ABREVIATION","pattern":"(EXT)"}
+{"label":"CS_ABREVIATION","pattern":"ETA"}
+{"label":"CS_ABREVIATION","pattern":"(ETA)"}
+{"label":"CS_ABREVIATION","pattern":"FAP"}
+{"label":"CS_ABREVIATION","pattern":"(FAP)"}
+{"label":"CS_ABREVIATION","pattern":"FASM"}
+{"label":"CS_ABREVIATION","pattern":"(FASM)"}
+{"label":"CS_ABREVIATION","pattern":"FAT"}
+{"label":"CS_ABREVIATION","pattern":"(FAT)"}
+{"label":"CS_ABREVIATION","pattern":"FAQ"}
+{"label":"CS_ABREVIATION","pattern":"(FAQ)"}
+{"label":"CS_ABREVIATION","pattern":"FBDIMM"}
+{"label":"CS_ABREVIATION","pattern":"(FBDIMM)"}
+{"label":"CS_ABREVIATION","pattern":"FC-AL"}
+{"label":"CS_ABREVIATION","pattern":"(FC-AL)"}
+{"label":"CS_ABREVIATION","pattern":"FCB"}
+{"label":"CS_ABREVIATION","pattern":"(FCB)"}
+{"label":"CS_ABREVIATION","pattern":"FCS"}
+{"label":"CS_ABREVIATION","pattern":"(FCS)"}
+{"label":"CS_ABREVIATION","pattern":"FDC"}
+{"label":"CS_ABREVIATION","pattern":"(FDC)"}
+{"label":"CS_ABREVIATION","pattern":"FDS"}
+{"label":"CS_ABREVIATION","pattern":"(FDS)"}
+{"label":"CS_ABREVIATION","pattern":"FDD"}
+{"label":"CS_ABREVIATION","pattern":"(FDD)"}
+{"label":"CS_ABREVIATION","pattern":"FDD"}
+{"label":"CS_ABREVIATION","pattern":"(FDD)"}
+{"label":"CS_ABREVIATION","pattern":"FDDI"}
+{"label":"CS_ABREVIATION","pattern":"(FDDI)"}
+{"label":"CS_ABREVIATION","pattern":"FDM"}
+{"label":"CS_ABREVIATION","pattern":"(FDM)"}
+{"label":"CS_ABREVIATION","pattern":"FDMA"}
+{"label":"CS_ABREVIATION","pattern":"(FDMA)"}
+{"label":"CS_ABREVIATION","pattern":"FE"}
+{"label":"CS_ABREVIATION","pattern":"(FE)"}
+{"label":"CS_ABREVIATION","pattern":"FEC"}
+{"label":"CS_ABREVIATION","pattern":"(FEC)"}
+{"label":"CS_ABREVIATION","pattern":"FEMB"}
+{"label":"CS_ABREVIATION","pattern":"(FEMB)"}
+{"label":"CS_ABREVIATION","pattern":"FET"}
+{"label":"CS_ABREVIATION","pattern":"(FET)"}
+{"label":"CS_ABREVIATION","pattern":"FHS"}
+{"label":"CS_ABREVIATION","pattern":"(FHS)"}
+{"label":"CS_ABREVIATION","pattern":"FICON"}
+{"label":"CS_ABREVIATION","pattern":"(FICON)"}
+{"label":"CS_ABREVIATION","pattern":"FIFO"}
+{"label":"CS_ABREVIATION","pattern":"(FIFO)"}
+{"label":"CS_ABREVIATION","pattern":"FIPS"}
+{"label":"CS_ABREVIATION","pattern":"(FIPS)"}
+{"label":"CS_ABREVIATION","pattern":"FL"}
+{"label":"CS_ABREVIATION","pattern":"(FL)"}
+{"label":"CS_ABREVIATION","pattern":"FLAC"}
+{"label":"CS_ABREVIATION","pattern":"(FLAC)"}
+{"label":"CS_ABREVIATION","pattern":"FLOPS"}
+{"label":"CS_ABREVIATION","pattern":"(FLOPS)"}
+{"label":"CS_ABREVIATION","pattern":"FLOSS"}
+{"label":"CS_ABREVIATION","pattern":"(FLOSS)"}
+{"label":"CS_ABREVIATION","pattern":"FMC"}
+{"label":"CS_ABREVIATION","pattern":"(FMC)"}
+{"label":"CS_ABREVIATION","pattern":"FMO"}
+{"label":"CS_ABREVIATION","pattern":"(FMO)"}
+{"label":"CS_ABREVIATION","pattern":"FOLDOC"}
+{"label":"CS_ABREVIATION","pattern":"(FOLDOC)"}
+{"label":"CS_ABREVIATION","pattern":"FORTRAN"}
+{"label":"CS_ABREVIATION","pattern":"(FORTRAN)"}
+{"label":"CS_ABREVIATION","pattern":"FOSDEM"}
+{"label":"CS_ABREVIATION","pattern":"(FOSDEM)"}
+{"label":"CS_ABREVIATION","pattern":"FOSI"}
+{"label":"CS_ABREVIATION","pattern":"(FOSI)"}
+{"label":"CS_ABREVIATION","pattern":"FOSS"}
+{"label":"CS_ABREVIATION","pattern":"(FOSS)"}
+{"label":"CS_ABREVIATION","pattern":"FP"}
+{"label":"CS_ABREVIATION","pattern":"(FP)"}
+{"label":"CS_ABREVIATION","pattern":"FP"}
+{"label":"CS_ABREVIATION","pattern":"(FP)"}
+{"label":"CS_ABREVIATION","pattern":"FPGA"}
+{"label":"CS_ABREVIATION","pattern":"(FPGA)"}
+{"label":"CS_ABREVIATION","pattern":"FPS"}
+{"label":"CS_ABREVIATION","pattern":"(FPS)"}
+{"label":"CS_ABREVIATION","pattern":"FPU"}
+{"label":"CS_ABREVIATION","pattern":"(FPU)"}
+{"label":"CS_ABREVIATION","pattern":"FRU"}
+{"label":"CS_ABREVIATION","pattern":"(FRU)"}
+{"label":"CS_ABREVIATION","pattern":"FS"}
+{"label":"CS_ABREVIATION","pattern":"(FS)"}
+{"label":"CS_ABREVIATION","pattern":"FSB"}
+{"label":"CS_ABREVIATION","pattern":"(FSB)"}
+{"label":"CS_ABREVIATION","pattern":"fsck"}
+{"label":"CS_ABREVIATION","pattern":"(fsck)"}
+{"label":"CS_ABREVIATION","pattern":"FSF"}
+{"label":"CS_ABREVIATION","pattern":"(FSF)"}
+{"label":"CS_ABREVIATION","pattern":"FSM"}
+{"label":"CS_ABREVIATION","pattern":"(FSM)"}
+{"label":"CS_ABREVIATION","pattern":"FTTA"}
+{"label":"CS_ABREVIATION","pattern":"(FTTA)"}
+{"label":"CS_ABREVIATION","pattern":"FTTC"}
+{"label":"CS_ABREVIATION","pattern":"(FTTC)"}
+{"label":"CS_ABREVIATION","pattern":"FTTH"}
+{"label":"CS_ABREVIATION","pattern":"(FTTH)"}
+{"label":"CS_ABREVIATION","pattern":"FTTP"}
+{"label":"CS_ABREVIATION","pattern":"(FTTP)"}
+{"label":"CS_ABREVIATION","pattern":"FTP"}
+{"label":"CS_ABREVIATION","pattern":"(FTP)"}
+{"label":"CS_ABREVIATION","pattern":"FQDN"}
+{"label":"CS_ABREVIATION","pattern":"(FQDN)"}
+{"label":"CS_ABREVIATION","pattern":"FUD"}
+{"label":"CS_ABREVIATION","pattern":"(FUD)"}
+{"label":"CS_ABREVIATION","pattern":"FWS"}
+{"label":"CS_ABREVIATION","pattern":"(FWS)"}
+{"label":"CS_ABREVIATION","pattern":"FXP"}
+{"label":"CS_ABREVIATION","pattern":"(FXP)"}
+{"label":"CS_ABREVIATION","pattern":"FYI"}
+{"label":"CS_ABREVIATION","pattern":"(FYI)"}
+{"label":"CS_ABREVIATION","pattern":"FVEK"}
+{"label":"CS_ABREVIATION","pattern":"(FVEK)"}
+{"label":"CS_ABREVIATION","pattern":"G11N"}
+{"label":"CS_ABREVIATION","pattern":"(G11N)"}
+{"label":"CS_ABREVIATION","pattern":"Gas"}
+{"label":"CS_ABREVIATION","pattern":"(Gas)"}
+{"label":"CS_ABREVIATION","pattern":"Gb"}
+{"label":"CS_ABREVIATION","pattern":"(Gb)"}
+{"label":"CS_ABREVIATION","pattern":"GB"}
+{"label":"CS_ABREVIATION","pattern":"(GB)"}
+{"label":"CS_ABREVIATION","pattern":"Gbps"}
+{"label":"CS_ABREVIATION","pattern":"(Gbps)"}
+{"label":"CS_ABREVIATION","pattern":"GCC"}
+{"label":"CS_ABREVIATION","pattern":"(GCC)"}
+{"label":"CS_ABREVIATION","pattern":"GCJ"}
+{"label":"CS_ABREVIATION","pattern":"(GCJ)"}
+{"label":"CS_ABREVIATION","pattern":"GCP"}
+{"label":"CS_ABREVIATION","pattern":"(GCP)"}
+{"label":"CS_ABREVIATION","pattern":"GCR"}
+{"label":"CS_ABREVIATION","pattern":"(GCR)"}
+{"label":"CS_ABREVIATION","pattern":"GDB"}
+{"label":"CS_ABREVIATION","pattern":"(GDB)"}
+{"label":"CS_ABREVIATION","pattern":"GDI"}
+{"label":"CS_ABREVIATION","pattern":"(GDI)"}
+{"label":"CS_ABREVIATION","pattern":"GFDL"}
+{"label":"CS_ABREVIATION","pattern":"(GFDL)"}
+{"label":"CS_ABREVIATION","pattern":"GIF"}
+{"label":"CS_ABREVIATION","pattern":"(GIF)"}
+{"label":"CS_ABREVIATION","pattern":"GIGO"}
+{"label":"CS_ABREVIATION","pattern":"(GIGO)"}
+{"label":"CS_ABREVIATION","pattern":"GIMP"}
+{"label":"CS_ABREVIATION","pattern":"(GIMP)"}
+{"label":"CS_ABREVIATION","pattern":"GIMPS"}
+{"label":"CS_ABREVIATION","pattern":"(GIMPS)"}
+{"label":"CS_ABREVIATION","pattern":"GIS"}
+{"label":"CS_ABREVIATION","pattern":"(GIS)"}
+{"label":"CS_ABREVIATION","pattern":"GLUT"}
+{"label":"CS_ABREVIATION","pattern":"(GLUT)"}
+{"label":"CS_ABREVIATION","pattern":"GML"}
+{"label":"CS_ABREVIATION","pattern":"(GML)"}
+{"label":"CS_ABREVIATION","pattern":"GNOME"}
+{"label":"CS_ABREVIATION","pattern":"(GNOME)"}
+{"label":"CS_ABREVIATION","pattern":"GNU"}
+{"label":"CS_ABREVIATION","pattern":"(GNU)"}
+{"label":"CS_ABREVIATION","pattern":"GOMS"}
+{"label":"CS_ABREVIATION","pattern":"(GOMS)"}
+{"label":"CS_ABREVIATION","pattern":"GPASM"}
+{"label":"CS_ABREVIATION","pattern":"(GPASM)"}
+{"label":"CS_ABREVIATION","pattern":"GPFS"}
+{"label":"CS_ABREVIATION","pattern":"(GPFS)"}
+{"label":"CS_ABREVIATION","pattern":"GPG"}
+{"label":"CS_ABREVIATION","pattern":"(GPG)"}
+{"label":"CS_ABREVIATION","pattern":"GPGPU"}
+{"label":"CS_ABREVIATION","pattern":"(GPGPU)"}
+{"label":"CS_ABREVIATION","pattern":"GPIB"}
+{"label":"CS_ABREVIATION","pattern":"(GPIB)"}
+{"label":"CS_ABREVIATION","pattern":"GPL"}
+{"label":"CS_ABREVIATION","pattern":"(GPL)"}
+{"label":"CS_ABREVIATION","pattern":"GPL"}
+{"label":"CS_ABREVIATION","pattern":"(GPL)"}
+{"label":"CS_ABREVIATION","pattern":"GPRS"}
+{"label":"CS_ABREVIATION","pattern":"(GPRS)"}
+{"label":"CS_ABREVIATION","pattern":"GPT"}
+{"label":"CS_ABREVIATION","pattern":"(GPT)"}
+{"label":"CS_ABREVIATION","pattern":"GPU"}
+{"label":"CS_ABREVIATION","pattern":"(GPU)"}
+{"label":"CS_ABREVIATION","pattern":"GRUB"}
+{"label":"CS_ABREVIATION","pattern":"(GRUB)"}
+{"label":"CS_ABREVIATION","pattern":"GERAN"}
+{"label":"CS_ABREVIATION","pattern":"(GERAN)"}
+{"label":"CS_ABREVIATION","pattern":"GSM"}
+{"label":"CS_ABREVIATION","pattern":"(GSM)"}
+{"label":"CS_ABREVIATION","pattern":"GTK+"}
+{"label":"CS_ABREVIATION","pattern":"(GTK+)"}
+{"label":"CS_ABREVIATION","pattern":"GUI"}
+{"label":"CS_ABREVIATION","pattern":"(GUI)"}
+{"label":"CS_ABREVIATION","pattern":"GUID"}
+{"label":"CS_ABREVIATION","pattern":"(GUID)"}
+{"label":"CS_ABREVIATION","pattern":"GWT"}
+{"label":"CS_ABREVIATION","pattern":"(GWT)"}
+{"label":"CS_ABREVIATION","pattern":"GYR"}
+{"label":"CS_ABREVIATION","pattern":"(GYR)"}
+{"label":"CS_ABREVIATION","pattern":"HA"}
+{"label":"CS_ABREVIATION","pattern":"(HA)"}
+{"label":"CS_ABREVIATION","pattern":"HAL"}
+{"label":"CS_ABREVIATION","pattern":"(HAL)"}
+{"label":"CS_ABREVIATION","pattern":"HARD"}
+{"label":"CS_ABREVIATION","pattern":"(HARD)"}
+{"label":"CS_ABREVIATION","pattern":"HASP"}
+{"label":"CS_ABREVIATION","pattern":"(HASP)"}
+{"label":"CS_ABREVIATION","pattern":"HBA"}
+{"label":"CS_ABREVIATION","pattern":"(HBA)"}
+{"label":"CS_ABREVIATION","pattern":"HCI"}
+{"label":"CS_ABREVIATION","pattern":"(HCI)"}
+{"label":"CS_ABREVIATION","pattern":"HD"}
+{"label":"CS_ABREVIATION","pattern":"(HD)"}
+{"label":"CS_ABREVIATION","pattern":"HDD"}
+{"label":"CS_ABREVIATION","pattern":"(HDD)"}
+{"label":"CS_ABREVIATION","pattern":"HCL"}
+{"label":"CS_ABREVIATION","pattern":"(HCL)"}
+{"label":"CS_ABREVIATION","pattern":"HD DVD"}
+{"label":"CS_ABREVIATION","pattern":"(HD DVD)"}
+{"label":"CS_ABREVIATION","pattern":"HDL"}
+{"label":"CS_ABREVIATION","pattern":"(HDL)"}
+{"label":"CS_ABREVIATION","pattern":"HDMI"}
+{"label":"CS_ABREVIATION","pattern":"(HDMI)"}
+{"label":"CS_ABREVIATION","pattern":"HECI"}
+{"label":"CS_ABREVIATION","pattern":"(HECI)"}
+{"label":"CS_ABREVIATION","pattern":"HF"}
+{"label":"CS_ABREVIATION","pattern":"(HF)"}
+{"label":"CS_ABREVIATION","pattern":"HFS"}
+{"label":"CS_ABREVIATION","pattern":"(HFS)"}
+{"label":"CS_ABREVIATION","pattern":"HHD"}
+{"label":"CS_ABREVIATION","pattern":"(HHD)"}
+{"label":"CS_ABREVIATION","pattern":"HID"}
+{"label":"CS_ABREVIATION","pattern":"(HID)"}
+{"label":"CS_ABREVIATION","pattern":"HIG"}
+{"label":"CS_ABREVIATION","pattern":"(HIG)"}
+{"label":"CS_ABREVIATION","pattern":"HIRD"}
+{"label":"CS_ABREVIATION","pattern":"(HIRD)"}
+{"label":"CS_ABREVIATION","pattern":"HLASM"}
+{"label":"CS_ABREVIATION","pattern":"(HLASM)"}
+{"label":"CS_ABREVIATION","pattern":"HLS"}
+{"label":"CS_ABREVIATION","pattern":"(HLS)"}
+{"label":"CS_ABREVIATION","pattern":"HMA"}
+{"label":"CS_ABREVIATION","pattern":"(HMA)"}
+{"label":"CS_ABREVIATION","pattern":"HP"}
+{"label":"CS_ABREVIATION","pattern":"(HP)"}
+{"label":"CS_ABREVIATION","pattern":"HPC"}
+{"label":"CS_ABREVIATION","pattern":"(HPC)"}
+{"label":"CS_ABREVIATION","pattern":"HPFS"}
+{"label":"CS_ABREVIATION","pattern":"(HPFS)"}
+{"label":"CS_ABREVIATION","pattern":"HSDPA"}
+{"label":"CS_ABREVIATION","pattern":"(HSDPA)"}
+{"label":"CS_ABREVIATION","pattern":"HTC"}
+{"label":"CS_ABREVIATION","pattern":"(HTC)"}
+{"label":"CS_ABREVIATION","pattern":"HSM"}
+{"label":"CS_ABREVIATION","pattern":"(HSM)"}
+{"label":"CS_ABREVIATION","pattern":"HT"}
+{"label":"CS_ABREVIATION","pattern":"(HT)"}
+{"label":"CS_ABREVIATION","pattern":"HTM"}
+{"label":"CS_ABREVIATION","pattern":"(HTM)"}
+{"label":"CS_ABREVIATION","pattern":"HTML"}
+{"label":"CS_ABREVIATION","pattern":"(HTML)"}
+{"label":"CS_ABREVIATION","pattern":"HTTP"}
+{"label":"CS_ABREVIATION","pattern":"(HTTP)"}
+{"label":"CS_ABREVIATION","pattern":"HTTPd"}
+{"label":"CS_ABREVIATION","pattern":"(HTTPd)"}
+{"label":"CS_ABREVIATION","pattern":"HTTPS"}
+{"label":"CS_ABREVIATION","pattern":"(HTTPS)"}
+{"label":"CS_ABREVIATION","pattern":"HTX"}
+{"label":"CS_ABREVIATION","pattern":"(HTX)"}
+{"label":"CS_ABREVIATION","pattern":"HURD"}
+{"label":"CS_ABREVIATION","pattern":"(HURD)"}
+{"label":"CS_ABREVIATION","pattern":"HVD"}
+{"label":"CS_ABREVIATION","pattern":"(HVD)"}
+{"label":"CS_ABREVIATION","pattern":"Hz"}
+{"label":"CS_ABREVIATION","pattern":"(Hz)"}
+{"label":"CS_ABREVIATION","pattern":"I\u00b2C"}
+{"label":"CS_ABREVIATION","pattern":"(I\u00b2C)"}
+{"label":"CS_ABREVIATION","pattern":"I\u00b2S"}
+{"label":"CS_ABREVIATION","pattern":"(I\u00b2S)"}
+{"label":"CS_ABREVIATION","pattern":"I18N"}
+{"label":"CS_ABREVIATION","pattern":"(I18N)"}
+{"label":"CS_ABREVIATION","pattern":"IANA"}
+{"label":"CS_ABREVIATION","pattern":"(IANA)"}
+{"label":"CS_ABREVIATION","pattern":"IaaS"}
+{"label":"CS_ABREVIATION","pattern":"(IaaS)"}
+{"label":"CS_ABREVIATION","pattern":"IaC"}
+{"label":"CS_ABREVIATION","pattern":"(IaC)"}
+{"label":"CS_ABREVIATION","pattern":"iBCS"}
+{"label":"CS_ABREVIATION","pattern":"(iBCS)"}
+{"label":"CS_ABREVIATION","pattern":"IBM"}
+{"label":"CS_ABREVIATION","pattern":"(IBM)"}
+{"label":"CS_ABREVIATION","pattern":"IC"}
+{"label":"CS_ABREVIATION","pattern":"(IC)"}
+{"label":"CS_ABREVIATION","pattern":"ICANN"}
+{"label":"CS_ABREVIATION","pattern":"(ICANN)"}
+{"label":"CS_ABREVIATION","pattern":"ICE"}
+{"label":"CS_ABREVIATION","pattern":"(ICE)"}
+{"label":"CS_ABREVIATION","pattern":"ICE"}
+{"label":"CS_ABREVIATION","pattern":"(ICE)"}
+{"label":"CS_ABREVIATION","pattern":"ICH"}
+{"label":"CS_ABREVIATION","pattern":"(ICH)"}
+{"label":"CS_ABREVIATION","pattern":"ICMP"}
+{"label":"CS_ABREVIATION","pattern":"(ICMP)"}
+{"label":"CS_ABREVIATION","pattern":"ICP"}
+{"label":"CS_ABREVIATION","pattern":"(ICP)"}
+{"label":"CS_ABREVIATION","pattern":"ICS"}
+{"label":"CS_ABREVIATION","pattern":"(ICS)"}
+{"label":"CS_ABREVIATION","pattern":"ICT"}
+{"label":"CS_ABREVIATION","pattern":"(ICT)"}
+{"label":"CS_ABREVIATION","pattern":"IDE"}
+{"label":"CS_ABREVIATION","pattern":"(IDE)"}
+{"label":"CS_ABREVIATION","pattern":"IDE"}
+{"label":"CS_ABREVIATION","pattern":"(IDE)"}
+{"label":"CS_ABREVIATION","pattern":"IDF"}
+{"label":"CS_ABREVIATION","pattern":"(IDF)"}
+{"label":"CS_ABREVIATION","pattern":"IDF"}
+{"label":"CS_ABREVIATION","pattern":"(IDF)"}
+{"label":"CS_ABREVIATION","pattern":"IDL"}
+{"label":"CS_ABREVIATION","pattern":"(IDL)"}
+{"label":"CS_ABREVIATION","pattern":"IDL"}
+{"label":"CS_ABREVIATION","pattern":"(IDL)"}
+{"label":"CS_ABREVIATION","pattern":"IDS"}
+{"label":"CS_ABREVIATION","pattern":"(IDS)"}
+{"label":"CS_ABREVIATION","pattern":"IE"}
+{"label":"CS_ABREVIATION","pattern":"(IE)"}
+{"label":"CS_ABREVIATION","pattern":"IEC"}
+{"label":"CS_ABREVIATION","pattern":"(IEC)"}
+{"label":"CS_ABREVIATION","pattern":"IEEE"}
+{"label":"CS_ABREVIATION","pattern":"(IEEE)"}
+{"label":"CS_ABREVIATION","pattern":"IETF"}
+{"label":"CS_ABREVIATION","pattern":"(IETF)"}
+{"label":"CS_ABREVIATION","pattern":"IFL"}
+{"label":"CS_ABREVIATION","pattern":"(IFL)"}
+{"label":"CS_ABREVIATION","pattern":"IGMP"}
+{"label":"CS_ABREVIATION","pattern":"(IGMP)"}
+{"label":"CS_ABREVIATION","pattern":"IGRP"}
+{"label":"CS_ABREVIATION","pattern":"(IGRP)"}
+{"label":"CS_ABREVIATION","pattern":"IHV"}
+{"label":"CS_ABREVIATION","pattern":"(IHV)"}
+{"label":"CS_ABREVIATION","pattern":"IIOP"}
+{"label":"CS_ABREVIATION","pattern":"(IIOP)"}
+{"label":"CS_ABREVIATION","pattern":"IIS"}
+{"label":"CS_ABREVIATION","pattern":"(IIS)"}
+{"label":"CS_ABREVIATION","pattern":"IKE"}
+{"label":"CS_ABREVIATION","pattern":"(IKE)"}
+{"label":"CS_ABREVIATION","pattern":"IL"}
+{"label":"CS_ABREVIATION","pattern":"(IL)"}
+{"label":"CS_ABREVIATION","pattern":"IM"}
+{"label":"CS_ABREVIATION","pattern":"(IM)"}
+{"label":"CS_ABREVIATION","pattern":"IMAP"}
+{"label":"CS_ABREVIATION","pattern":"(IMAP)"}
+{"label":"CS_ABREVIATION","pattern":"IME"}
+{"label":"CS_ABREVIATION","pattern":"(IME)"}
+{"label":"CS_ABREVIATION","pattern":"IMR"}
+{"label":"CS_ABREVIATION","pattern":"(IMR)"}
+{"label":"CS_ABREVIATION","pattern":"INFOSEC"}
+{"label":"CS_ABREVIATION","pattern":"(INFOSEC)"}
+{"label":"CS_ABREVIATION","pattern":"I/O"}
+{"label":"CS_ABREVIATION","pattern":"(I/O)"}
+{"label":"CS_ABREVIATION","pattern":"IoT"}
+{"label":"CS_ABREVIATION","pattern":"(IoT)"}
+{"label":"CS_ABREVIATION","pattern":"IP"}
+{"label":"CS_ABREVIATION","pattern":"(IP)"}
+{"label":"CS_ABREVIATION","pattern":"IP"}
+{"label":"CS_ABREVIATION","pattern":"(IP)"}
+{"label":"CS_ABREVIATION","pattern":"IPAM"}
+{"label":"CS_ABREVIATION","pattern":"(IPAM)"}
+{"label":"CS_ABREVIATION","pattern":"IPC"}
+{"label":"CS_ABREVIATION","pattern":"(IPC)"}
+{"label":"CS_ABREVIATION","pattern":"IPL"}
+{"label":"CS_ABREVIATION","pattern":"(IPL)"}
+{"label":"CS_ABREVIATION","pattern":"IPMI"}
+{"label":"CS_ABREVIATION","pattern":"(IPMI)"}
+{"label":"CS_ABREVIATION","pattern":"IPO"}
+{"label":"CS_ABREVIATION","pattern":"(IPO)"}
+{"label":"CS_ABREVIATION","pattern":"IPP"}
+{"label":"CS_ABREVIATION","pattern":"(IPP)"}
+{"label":"CS_ABREVIATION","pattern":"IPS"}
+{"label":"CS_ABREVIATION","pattern":"(IPS)"}
+{"label":"CS_ABREVIATION","pattern":"IPS"}
+{"label":"CS_ABREVIATION","pattern":"(IPS)"}
+{"label":"CS_ABREVIATION","pattern":"IPS"}
+{"label":"CS_ABREVIATION","pattern":"(IPS)"}
+{"label":"CS_ABREVIATION","pattern":"IPsec"}
+{"label":"CS_ABREVIATION","pattern":"(IPsec)"}
+{"label":"CS_ABREVIATION","pattern":"IPTV"}
+{"label":"CS_ABREVIATION","pattern":"(IPTV)"}
+{"label":"CS_ABREVIATION","pattern":"IPv4"}
+{"label":"CS_ABREVIATION","pattern":"(IPv4)"}
+{"label":"CS_ABREVIATION","pattern":"IPv6"}
+{"label":"CS_ABREVIATION","pattern":"(IPv6)"}
+{"label":"CS_ABREVIATION","pattern":"IPX"}
+{"label":"CS_ABREVIATION","pattern":"(IPX)"}
+{"label":"CS_ABREVIATION","pattern":"IR"}
+{"label":"CS_ABREVIATION","pattern":"(IR)"}
+{"label":"CS_ABREVIATION","pattern":"IRC"}
+{"label":"CS_ABREVIATION","pattern":"(IRC)"}
+{"label":"CS_ABREVIATION","pattern":"IrDA"}
+{"label":"CS_ABREVIATION","pattern":"(IrDA)"}
+{"label":"CS_ABREVIATION","pattern":"IRI"}
+{"label":"CS_ABREVIATION","pattern":"(IRI)"}
+{"label":"CS_ABREVIATION","pattern":"IRP"}
+{"label":"CS_ABREVIATION","pattern":"(IRP)"}
+{"label":"CS_ABREVIATION","pattern":"IRQ"}
+{"label":"CS_ABREVIATION","pattern":"(IRQ)"}
+{"label":"CS_ABREVIATION","pattern":"IS"}
+{"label":"CS_ABREVIATION","pattern":"(IS)"}
+{"label":"CS_ABREVIATION","pattern":"IS-IS"}
+{"label":"CS_ABREVIATION","pattern":"(IS-IS)"}
+{"label":"CS_ABREVIATION","pattern":"ISA"}
+{"label":"CS_ABREVIATION","pattern":"(ISA)"}
+{"label":"CS_ABREVIATION","pattern":"ISA"}
+{"label":"CS_ABREVIATION","pattern":"(ISA)"}
+{"label":"CS_ABREVIATION","pattern":"ISAM"}
+{"label":"CS_ABREVIATION","pattern":"(ISAM)"}
+{"label":"CS_ABREVIATION","pattern":"ISATAP"}
+{"label":"CS_ABREVIATION","pattern":"(ISATAP)"}
+{"label":"CS_ABREVIATION","pattern":"ISC"}
+{"label":"CS_ABREVIATION","pattern":"(ISC)"}
+{"label":"CS_ABREVIATION","pattern":"iSCSI"}
+{"label":"CS_ABREVIATION","pattern":"(iSCSI)"}
+{"label":"CS_ABREVIATION","pattern":"ISDN"}
+{"label":"CS_ABREVIATION","pattern":"(ISDN)"}
+{"label":"CS_ABREVIATION","pattern":"ISO"}
+{"label":"CS_ABREVIATION","pattern":"(ISO)"}
+{"label":"CS_ABREVIATION","pattern":"iSNS"}
+{"label":"CS_ABREVIATION","pattern":"(iSNS)"}
+{"label":"CS_ABREVIATION","pattern":"ISP"}
+{"label":"CS_ABREVIATION","pattern":"(ISP)"}
+{"label":"CS_ABREVIATION","pattern":"ISPF"}
+{"label":"CS_ABREVIATION","pattern":"(ISPF)"}
+{"label":"CS_ABREVIATION","pattern":"ISR"}
+{"label":"CS_ABREVIATION","pattern":"(ISR)"}
+{"label":"CS_ABREVIATION","pattern":"ISV"}
+{"label":"CS_ABREVIATION","pattern":"(ISV)"}
+{"label":"CS_ABREVIATION","pattern":"IT"}
+{"label":"CS_ABREVIATION","pattern":"(IT)"}
+{"label":"CS_ABREVIATION","pattern":"ITIL"}
+{"label":"CS_ABREVIATION","pattern":"(ITIL)"}
+{"label":"CS_ABREVIATION","pattern":"ITL"}
+{"label":"CS_ABREVIATION","pattern":"(ITL)"}
+{"label":"CS_ABREVIATION","pattern":"ITU"}
+{"label":"CS_ABREVIATION","pattern":"(ITU)"}
+{"label":"CS_ABREVIATION","pattern":"IVRS"}
+{"label":"CS_ABREVIATION","pattern":"(IVRS)"}
+{"label":"CS_ABREVIATION","pattern":"IVCR"}
+{"label":"CS_ABREVIATION","pattern":"(IVCR)"}
+{"label":"CS_ABREVIATION","pattern":"ISDN"}
+{"label":"CS_ABREVIATION","pattern":"(ISDN)"}
+{"label":"CS_ABREVIATION","pattern":"J2EE"}
+{"label":"CS_ABREVIATION","pattern":"(J2EE)"}
+{"label":"CS_ABREVIATION","pattern":"J2ME"}
+{"label":"CS_ABREVIATION","pattern":"(J2ME)"}
+{"label":"CS_ABREVIATION","pattern":"J2SE"}
+{"label":"CS_ABREVIATION","pattern":"(J2SE)"}
+{"label":"CS_ABREVIATION","pattern":"JAXB"}
+{"label":"CS_ABREVIATION","pattern":"(JAXB)"}
+{"label":"CS_ABREVIATION","pattern":"JAX-RPC"}
+{"label":"CS_ABREVIATION","pattern":"(JAX-RPC)"}
+{"label":"CS_ABREVIATION","pattern":"JAXP"}
+{"label":"CS_ABREVIATION","pattern":"(JAXP)"}
+{"label":"CS_ABREVIATION","pattern":"JBOD"}
+{"label":"CS_ABREVIATION","pattern":"(JBOD)"}
+{"label":"CS_ABREVIATION","pattern":"JCE"}
+{"label":"CS_ABREVIATION","pattern":"(JCE)"}
+{"label":"CS_ABREVIATION","pattern":"JCL"}
+{"label":"CS_ABREVIATION","pattern":"(JCL)"}
+{"label":"CS_ABREVIATION","pattern":"JCP"}
+{"label":"CS_ABREVIATION","pattern":"(JCP)"}
+{"label":"CS_ABREVIATION","pattern":"JDBC"}
+{"label":"CS_ABREVIATION","pattern":"(JDBC)"}
+{"label":"CS_ABREVIATION","pattern":"JDK"}
+{"label":"CS_ABREVIATION","pattern":"(JDK)"}
+{"label":"CS_ABREVIATION","pattern":"JEE"}
+{"label":"CS_ABREVIATION","pattern":"(JEE)"}
+{"label":"CS_ABREVIATION","pattern":"JES"}
+{"label":"CS_ABREVIATION","pattern":"(JES)"}
+{"label":"CS_ABREVIATION","pattern":"JDS"}
+{"label":"CS_ABREVIATION","pattern":"(JDS)"}
+{"label":"CS_ABREVIATION","pattern":"JFC"}
+{"label":"CS_ABREVIATION","pattern":"(JFC)"}
+{"label":"CS_ABREVIATION","pattern":"JFET"}
+{"label":"CS_ABREVIATION","pattern":"(JFET)"}
+{"label":"CS_ABREVIATION","pattern":"JFS"}
+{"label":"CS_ABREVIATION","pattern":"(JFS)"}
+{"label":"CS_ABREVIATION","pattern":"JINI"}
+{"label":"CS_ABREVIATION","pattern":"(JINI)"}
+{"label":"CS_ABREVIATION","pattern":"JIT"}
+{"label":"CS_ABREVIATION","pattern":"(JIT)"}
+{"label":"CS_ABREVIATION","pattern":"JME"}
+{"label":"CS_ABREVIATION","pattern":"(JME)"}
+{"label":"CS_ABREVIATION","pattern":"JMX"}
+{"label":"CS_ABREVIATION","pattern":"(JMX)"}
+{"label":"CS_ABREVIATION","pattern":"JMS"}
+{"label":"CS_ABREVIATION","pattern":"(JMS)"}
+{"label":"CS_ABREVIATION","pattern":"JNDI"}
+{"label":"CS_ABREVIATION","pattern":"(JNDI)"}
+{"label":"CS_ABREVIATION","pattern":"JNI"}
+{"label":"CS_ABREVIATION","pattern":"(JNI)"}
+{"label":"CS_ABREVIATION","pattern":"JNZ"}
+{"label":"CS_ABREVIATION","pattern":"(JNZ)"}
+{"label":"CS_ABREVIATION","pattern":"JPEG"}
+{"label":"CS_ABREVIATION","pattern":"(JPEG)"}
+{"label":"CS_ABREVIATION","pattern":"JRE"}
+{"label":"CS_ABREVIATION","pattern":"(JRE)"}
+{"label":"CS_ABREVIATION","pattern":"JS"}
+{"label":"CS_ABREVIATION","pattern":"(JS)"}
+{"label":"CS_ABREVIATION","pattern":"JSE"}
+{"label":"CS_ABREVIATION","pattern":"(JSE)"}
+{"label":"CS_ABREVIATION","pattern":"JSON"}
+{"label":"CS_ABREVIATION","pattern":"(JSON)"}
+{"label":"CS_ABREVIATION","pattern":"JSP"}
+{"label":"CS_ABREVIATION","pattern":"(JSP)"}
+{"label":"CS_ABREVIATION","pattern":"JSP"}
+{"label":"CS_ABREVIATION","pattern":"(JSP)"}
+{"label":"CS_ABREVIATION","pattern":"JTAG"}
+{"label":"CS_ABREVIATION","pattern":"(JTAG)"}
+{"label":"CS_ABREVIATION","pattern":"JVM"}
+{"label":"CS_ABREVIATION","pattern":"(JVM)"}
+{"label":"CS_ABREVIATION","pattern":"K&R"}
+{"label":"CS_ABREVIATION","pattern":"(K&R)"}
+{"label":"CS_ABREVIATION","pattern":"KB"}
+{"label":"CS_ABREVIATION","pattern":"(KB)"}
+{"label":"CS_ABREVIATION","pattern":"Kb"}
+{"label":"CS_ABREVIATION","pattern":"(Kb)"}
+{"label":"CS_ABREVIATION","pattern":"KB"}
+{"label":"CS_ABREVIATION","pattern":"(KB)"}
+{"label":"CS_ABREVIATION","pattern":"KB"}
+{"label":"CS_ABREVIATION","pattern":"(KB)"}
+{"label":"CS_ABREVIATION","pattern":"Kbps"}
+{"label":"CS_ABREVIATION","pattern":"(Kbps)"}
+{"label":"CS_ABREVIATION","pattern":"KiB"}
+{"label":"CS_ABREVIATION","pattern":"(KiB)"}
+{"label":"CS_ABREVIATION","pattern":"KDE"}
+{"label":"CS_ABREVIATION","pattern":"(KDE)"}
+{"label":"CS_ABREVIATION","pattern":"kHz"}
+{"label":"CS_ABREVIATION","pattern":"(kHz)"}
+{"label":"CS_ABREVIATION","pattern":"KRL"}
+{"label":"CS_ABREVIATION","pattern":"(KRL)"}
+{"label":"CS_ABREVIATION","pattern":"KRL"}
+{"label":"CS_ABREVIATION","pattern":"(KRL)"}
+{"label":"CS_ABREVIATION","pattern":"KVM"}
+{"label":"CS_ABREVIATION","pattern":"(KVM)"}
+{"label":"CS_ABREVIATION","pattern":"L10N"}
+{"label":"CS_ABREVIATION","pattern":"(L10N)"}
+{"label":"CS_ABREVIATION","pattern":"L2TP"}
+{"label":"CS_ABREVIATION","pattern":"(L2TP)"}
+{"label":"CS_ABREVIATION","pattern":"LACP"}
+{"label":"CS_ABREVIATION","pattern":"(LACP)"}
+{"label":"CS_ABREVIATION","pattern":"LAMP"}
+{"label":"CS_ABREVIATION","pattern":"(LAMP)"}
+{"label":"CS_ABREVIATION","pattern":"LAMP"}
+{"label":"CS_ABREVIATION","pattern":"(LAMP)"}
+{"label":"CS_ABREVIATION","pattern":"LAMP"}
+{"label":"CS_ABREVIATION","pattern":"(LAMP)"}
+{"label":"CS_ABREVIATION","pattern":"LAN"}
+{"label":"CS_ABREVIATION","pattern":"(LAN)"}
+{"label":"CS_ABREVIATION","pattern":"LBA"}
+{"label":"CS_ABREVIATION","pattern":"(LBA)"}
+{"label":"CS_ABREVIATION","pattern":"LB"}
+{"label":"CS_ABREVIATION","pattern":"(LB)"}
+{"label":"CS_ABREVIATION","pattern":"LCD"}
+{"label":"CS_ABREVIATION","pattern":"(LCD)"}
+{"label":"CS_ABREVIATION","pattern":"LCR"}
+{"label":"CS_ABREVIATION","pattern":"(LCR)"}
+{"label":"CS_ABREVIATION","pattern":"LCOS"}
+{"label":"CS_ABREVIATION","pattern":"(LCOS)"}
+{"label":"CS_ABREVIATION","pattern":"LDAP"}
+{"label":"CS_ABREVIATION","pattern":"(LDAP)"}
+{"label":"CS_ABREVIATION","pattern":"LE"}
+{"label":"CS_ABREVIATION","pattern":"(LE)"}
+{"label":"CS_ABREVIATION","pattern":"LED"}
+{"label":"CS_ABREVIATION","pattern":"(LED)"}
+{"label":"CS_ABREVIATION","pattern":"LF"}
+{"label":"CS_ABREVIATION","pattern":"(LF)"}
+{"label":"CS_ABREVIATION","pattern":"LF"}
+{"label":"CS_ABREVIATION","pattern":"(LF)"}
+{"label":"CS_ABREVIATION","pattern":"LFS"}
+{"label":"CS_ABREVIATION","pattern":"(LFS)"}
+{"label":"CS_ABREVIATION","pattern":"LGPL"}
+{"label":"CS_ABREVIATION","pattern":"(LGPL)"}
+{"label":"CS_ABREVIATION","pattern":"LIB"}
+{"label":"CS_ABREVIATION","pattern":"(LIB)"}
+{"label":"CS_ABREVIATION","pattern":"LIF"}
+{"label":"CS_ABREVIATION","pattern":"(LIF)"}
+{"label":"CS_ABREVIATION","pattern":"LIFO"}
+{"label":"CS_ABREVIATION","pattern":"(LIFO)"}
+{"label":"CS_ABREVIATION","pattern":"LILO"}
+{"label":"CS_ABREVIATION","pattern":"(LILO)"}
+{"label":"CS_ABREVIATION","pattern":"LISP"}
+{"label":"CS_ABREVIATION","pattern":"(LISP)"}
+{"label":"CS_ABREVIATION","pattern":"LISP"}
+{"label":"CS_ABREVIATION","pattern":"(LISP)"}
+{"label":"CS_ABREVIATION","pattern":"LKML"}
+{"label":"CS_ABREVIATION","pattern":"(LKML)"}
+{"label":"CS_ABREVIATION","pattern":"LM"}
+{"label":"CS_ABREVIATION","pattern":"(LM)"}
+{"label":"CS_ABREVIATION","pattern":"LOC"}
+{"label":"CS_ABREVIATION","pattern":"(LOC)"}
+{"label":"CS_ABREVIATION","pattern":"LPC"}
+{"label":"CS_ABREVIATION","pattern":"(LPC)"}
+{"label":"CS_ABREVIATION","pattern":"LPI"}
+{"label":"CS_ABREVIATION","pattern":"(LPI)"}
+{"label":"CS_ABREVIATION","pattern":"LPI"}
+{"label":"CS_ABREVIATION","pattern":"(LPI)"}
+{"label":"CS_ABREVIATION","pattern":"LPT"}
+{"label":"CS_ABREVIATION","pattern":"(LPT)"}
+{"label":"CS_ABREVIATION","pattern":"LRU"}
+{"label":"CS_ABREVIATION","pattern":"(LRU)"}
+{"label":"CS_ABREVIATION","pattern":"LSB"}
+{"label":"CS_ABREVIATION","pattern":"(LSB)"}
+{"label":"CS_ABREVIATION","pattern":"LSB"}
+{"label":"CS_ABREVIATION","pattern":"(LSB)"}
+{"label":"CS_ABREVIATION","pattern":"LSI"}
+{"label":"CS_ABREVIATION","pattern":"(LSI)"}
+{"label":"CS_ABREVIATION","pattern":"LTE"}
+{"label":"CS_ABREVIATION","pattern":"(LTE)"}
+{"label":"CS_ABREVIATION","pattern":"LTL"}
+{"label":"CS_ABREVIATION","pattern":"(LTL)"}
+{"label":"CS_ABREVIATION","pattern":"LTR"}
+{"label":"CS_ABREVIATION","pattern":"(LTR)"}
+{"label":"CS_ABREVIATION","pattern":"LUG"}
+{"label":"CS_ABREVIATION","pattern":"(LUG)"}
+{"label":"CS_ABREVIATION","pattern":"LUN"}
+{"label":"CS_ABREVIATION","pattern":"(LUN)"}
+{"label":"CS_ABREVIATION","pattern":"LV"}
+{"label":"CS_ABREVIATION","pattern":"(LV)"}
+{"label":"CS_ABREVIATION","pattern":"LVD"}
+{"label":"CS_ABREVIATION","pattern":"(LVD)"}
+{"label":"CS_ABREVIATION","pattern":"LVM"}
+{"label":"CS_ABREVIATION","pattern":"(LVM)"}
+{"label":"CS_ABREVIATION","pattern":"LZW"}
+{"label":"CS_ABREVIATION","pattern":"(LZW)"}
+{"label":"CS_ABREVIATION","pattern":"LGA"}
+{"label":"CS_ABREVIATION","pattern":"(LGA)"}
+{"label":"CS_ABREVIATION","pattern":"MAC"}
+{"label":"CS_ABREVIATION","pattern":"(MAC)"}
+{"label":"CS_ABREVIATION","pattern":"MAC"}
+{"label":"CS_ABREVIATION","pattern":"(MAC)"}
+{"label":"CS_ABREVIATION","pattern":"MANET"}
+{"label":"CS_ABREVIATION","pattern":"(MANET)"}
+{"label":"CS_ABREVIATION","pattern":"MAN"}
+{"label":"CS_ABREVIATION","pattern":"(MAN)"}
+{"label":"CS_ABREVIATION","pattern":"MAPI"}
+{"label":"CS_ABREVIATION","pattern":"(MAPI)"}
+{"label":"CS_ABREVIATION","pattern":"MBCS"}
+{"label":"CS_ABREVIATION","pattern":"(MBCS)"}
+{"label":"CS_ABREVIATION","pattern":"MBD"}
+{"label":"CS_ABREVIATION","pattern":"(MBD)"}
+{"label":"CS_ABREVIATION","pattern":"MBR"}
+{"label":"CS_ABREVIATION","pattern":"(MBR)"}
+{"label":"CS_ABREVIATION","pattern":"Mb"}
+{"label":"CS_ABREVIATION","pattern":"(Mb)"}
+{"label":"CS_ABREVIATION","pattern":"MB"}
+{"label":"CS_ABREVIATION","pattern":"(MB)"}
+{"label":"CS_ABREVIATION","pattern":"Mbps"}
+{"label":"CS_ABREVIATION","pattern":"(Mbps)"}
+{"label":"CS_ABREVIATION","pattern":"MCAD"}
+{"label":"CS_ABREVIATION","pattern":"(MCAD)"}
+{"label":"CS_ABREVIATION","pattern":"MCAS"}
+{"label":"CS_ABREVIATION","pattern":"(MCAS)"}
+{"label":"CS_ABREVIATION","pattern":"MCA"}
+{"label":"CS_ABREVIATION","pattern":"(MCA)"}
+{"label":"CS_ABREVIATION","pattern":"MCA"}
+{"label":"CS_ABREVIATION","pattern":"(MCA)"}
+{"label":"CS_ABREVIATION","pattern":"MCDBA"}
+{"label":"CS_ABREVIATION","pattern":"(MCDBA)"}
+{"label":"CS_ABREVIATION","pattern":"MCDST"}
+{"label":"CS_ABREVIATION","pattern":"(MCDST)"}
+{"label":"CS_ABREVIATION","pattern":"MCITP"}
+{"label":"CS_ABREVIATION","pattern":"(MCITP)"}
+{"label":"CS_ABREVIATION","pattern":"MCM"}
+{"label":"CS_ABREVIATION","pattern":"(MCM)"}
+{"label":"CS_ABREVIATION","pattern":"MCPC"}
+{"label":"CS_ABREVIATION","pattern":"(MCPC)"}
+{"label":"CS_ABREVIATION","pattern":"MCPD"}
+{"label":"CS_ABREVIATION","pattern":"(MCPD)"}
+{"label":"CS_ABREVIATION","pattern":"MCP"}
+{"label":"CS_ABREVIATION","pattern":"(MCP)"}
+{"label":"CS_ABREVIATION","pattern":"MCSA"}
+{"label":"CS_ABREVIATION","pattern":"(MCSA)"}
+{"label":"CS_ABREVIATION","pattern":"MCSD"}
+{"label":"CS_ABREVIATION","pattern":"(MCSD)"}
+{"label":"CS_ABREVIATION","pattern":"MCSE"}
+{"label":"CS_ABREVIATION","pattern":"(MCSE)"}
+{"label":"CS_ABREVIATION","pattern":"MCTS"}
+{"label":"CS_ABREVIATION","pattern":"(MCTS)"}
+{"label":"CS_ABREVIATION","pattern":"MCT"}
+{"label":"CS_ABREVIATION","pattern":"(MCT)"}
+{"label":"CS_ABREVIATION","pattern":"MDA"}
+{"label":"CS_ABREVIATION","pattern":"(MDA)"}
+{"label":"CS_ABREVIATION","pattern":"MDA"}
+{"label":"CS_ABREVIATION","pattern":"(MDA)"}
+{"label":"CS_ABREVIATION","pattern":"MDA"}
+{"label":"CS_ABREVIATION","pattern":"(MDA)"}
+{"label":"CS_ABREVIATION","pattern":"MDD/MDSD"}
+{"label":"CS_ABREVIATION","pattern":"(MDD/MDSD)"}
+{"label":"CS_ABREVIATION","pattern":"MDF"}
+{"label":"CS_ABREVIATION","pattern":"(MDF)"}
+{"label":"CS_ABREVIATION","pattern":"MDI"}
+{"label":"CS_ABREVIATION","pattern":"(MDI)"}
+{"label":"CS_ABREVIATION","pattern":"MDM"}
+{"label":"CS_ABREVIATION","pattern":"(MDM)"}
+{"label":"CS_ABREVIATION","pattern":"ME"}
+{"label":"CS_ABREVIATION","pattern":"(ME)"}
+{"label":"CS_ABREVIATION","pattern":"ME"}
+{"label":"CS_ABREVIATION","pattern":"(ME)"}
+{"label":"CS_ABREVIATION","pattern":"MFA"}
+{"label":"CS_ABREVIATION","pattern":"(MFA)"}
+{"label":"CS_ABREVIATION","pattern":"MFC"}
+{"label":"CS_ABREVIATION","pattern":"(MFC)"}
+{"label":"CS_ABREVIATION","pattern":"MFM"}
+{"label":"CS_ABREVIATION","pattern":"(MFM)"}
+{"label":"CS_ABREVIATION","pattern":"MF"}
+{"label":"CS_ABREVIATION","pattern":"(MF)"}
+{"label":"CS_ABREVIATION","pattern":"MGCP"}
+{"label":"CS_ABREVIATION","pattern":"(MGCP)"}
+{"label":"CS_ABREVIATION","pattern":"MHz"}
+{"label":"CS_ABREVIATION","pattern":"(MHz)"}
+{"label":"CS_ABREVIATION","pattern":"MIB"}
+{"label":"CS_ABREVIATION","pattern":"(MIB)"}
+{"label":"CS_ABREVIATION","pattern":"MICR"}
+{"label":"CS_ABREVIATION","pattern":"(MICR)"}
+{"label":"CS_ABREVIATION","pattern":"MIDI"}
+{"label":"CS_ABREVIATION","pattern":"(MIDI)"}
+{"label":"CS_ABREVIATION","pattern":"MIMD"}
+{"label":"CS_ABREVIATION","pattern":"(MIMD)"}
+{"label":"CS_ABREVIATION","pattern":"MIME"}
+{"label":"CS_ABREVIATION","pattern":"(MIME)"}
+{"label":"CS_ABREVIATION","pattern":"MIMO"}
+{"label":"CS_ABREVIATION","pattern":"(MIMO)"}
+{"label":"CS_ABREVIATION","pattern":"MINIX"}
+{"label":"CS_ABREVIATION","pattern":"(MINIX)"}
+{"label":"CS_ABREVIATION","pattern":"MIPS"}
+{"label":"CS_ABREVIATION","pattern":"(MIPS)"}
+{"label":"CS_ABREVIATION","pattern":"MIPS"}
+{"label":"CS_ABREVIATION","pattern":"(MIPS)"}
+{"label":"CS_ABREVIATION","pattern":"MISD"}
+{"label":"CS_ABREVIATION","pattern":"(MISD)"}
+{"label":"CS_ABREVIATION","pattern":"MIS"}
+{"label":"CS_ABREVIATION","pattern":"(MIS)"}
+{"label":"CS_ABREVIATION","pattern":"MIT"}
+{"label":"CS_ABREVIATION","pattern":"(MIT)"}
+{"label":"CS_ABREVIATION","pattern":"ML"}
+{"label":"CS_ABREVIATION","pattern":"(ML)"}
+{"label":"CS_ABREVIATION","pattern":"MMC"}
+{"label":"CS_ABREVIATION","pattern":"(MMC)"}
+{"label":"CS_ABREVIATION","pattern":"MMDS"}
+{"label":"CS_ABREVIATION","pattern":"(MMDS)"}
+{"label":"CS_ABREVIATION","pattern":"MMDS"}
+{"label":"CS_ABREVIATION","pattern":"(MMDS)"}
+{"label":"CS_ABREVIATION","pattern":"MMF"}
+{"label":"CS_ABREVIATION","pattern":"(MMF)"}
+{"label":"CS_ABREVIATION","pattern":"MMIO"}
+{"label":"CS_ABREVIATION","pattern":"(MMIO)"}
+{"label":"CS_ABREVIATION","pattern":"MMI"}
+{"label":"CS_ABREVIATION","pattern":"(MMI)"}
+{"label":"CS_ABREVIATION","pattern":"MMORPG"}
+{"label":"CS_ABREVIATION","pattern":"(MMORPG)"}
+{"label":"CS_ABREVIATION","pattern":"MMS"}
+{"label":"CS_ABREVIATION","pattern":"(MMS)"}
+{"label":"CS_ABREVIATION","pattern":"MMU"}
+{"label":"CS_ABREVIATION","pattern":"(MMU)"}
+{"label":"CS_ABREVIATION","pattern":"MMX"}
+{"label":"CS_ABREVIATION","pattern":"(MMX)"}
+{"label":"CS_ABREVIATION","pattern":"MNG"}
+{"label":"CS_ABREVIATION","pattern":"(MNG)"}
+{"label":"CS_ABREVIATION","pattern":"MoBo"}
+{"label":"CS_ABREVIATION","pattern":"(MoBo)"}
+{"label":"CS_ABREVIATION","pattern":"MOM"}
+{"label":"CS_ABREVIATION","pattern":"(MOM)"}
+{"label":"CS_ABREVIATION","pattern":"MOO"}
+{"label":"CS_ABREVIATION","pattern":"(MOO)"}
+{"label":"CS_ABREVIATION","pattern":"MOP"}
+{"label":"CS_ABREVIATION","pattern":"(MOP)"}
+{"label":"CS_ABREVIATION","pattern":"MOSFET"}
+{"label":"CS_ABREVIATION","pattern":"(MOSFET)"}
+{"label":"CS_ABREVIATION","pattern":"MOS"}
+{"label":"CS_ABREVIATION","pattern":"(MOS)"}
+{"label":"CS_ABREVIATION","pattern":"MOTD"}
+{"label":"CS_ABREVIATION","pattern":"(MOTD)"}
+{"label":"CS_ABREVIATION","pattern":"MOUS"}
+{"label":"CS_ABREVIATION","pattern":"(MOUS)"}
+{"label":"CS_ABREVIATION","pattern":"MOV"}
+{"label":"CS_ABREVIATION","pattern":"(MOV)"}
+{"label":"CS_ABREVIATION","pattern":"MPAA"}
+{"label":"CS_ABREVIATION","pattern":"(MPAA)"}
+{"label":"CS_ABREVIATION","pattern":"MPEG"}
+{"label":"CS_ABREVIATION","pattern":"(MPEG)"}
+{"label":"CS_ABREVIATION","pattern":"MPLS"}
+{"label":"CS_ABREVIATION","pattern":"(MPLS)"}
+{"label":"CS_ABREVIATION","pattern":"MPL"}
+{"label":"CS_ABREVIATION","pattern":"(MPL)"}
+{"label":"CS_ABREVIATION","pattern":"MPU"}
+{"label":"CS_ABREVIATION","pattern":"(MPU)"}
+{"label":"CS_ABREVIATION","pattern":"MS-DOS"}
+{"label":"CS_ABREVIATION","pattern":"(MS-DOS)"}
+{"label":"CS_ABREVIATION","pattern":"MSA"}
+{"label":"CS_ABREVIATION","pattern":"(MSA)"}
+{"label":"CS_ABREVIATION","pattern":"MSB"}
+{"label":"CS_ABREVIATION","pattern":"(MSB)"}
+{"label":"CS_ABREVIATION","pattern":"MSDN"}
+{"label":"CS_ABREVIATION","pattern":"(MSDN)"}
+{"label":"CS_ABREVIATION","pattern":"MSI"}
+{"label":"CS_ABREVIATION","pattern":"(MSI)"}
+{"label":"CS_ABREVIATION","pattern":"MSI"}
+{"label":"CS_ABREVIATION","pattern":"(MSI)"}
+{"label":"CS_ABREVIATION","pattern":"MSI"}
+{"label":"CS_ABREVIATION","pattern":"(MSI)"}
+{"label":"CS_ABREVIATION","pattern":"MSN"}
+{"label":"CS_ABREVIATION","pattern":"(MSN)"}
+{"label":"CS_ABREVIATION","pattern":"MS"}
+{"label":"CS_ABREVIATION","pattern":"(MS)"}
+{"label":"CS_ABREVIATION","pattern":"MS"}
+{"label":"CS_ABREVIATION","pattern":"(MS)"}
+{"label":"CS_ABREVIATION","pattern":"MTA"}
+{"label":"CS_ABREVIATION","pattern":"(MTA)"}
+{"label":"CS_ABREVIATION","pattern":"MTA"}
+{"label":"CS_ABREVIATION","pattern":"(MTA)"}
+{"label":"CS_ABREVIATION","pattern":"MTBF"}
+{"label":"CS_ABREVIATION","pattern":"(MTBF)"}
+{"label":"CS_ABREVIATION","pattern":"MTU"}
+{"label":"CS_ABREVIATION","pattern":"(MTU)"}
+{"label":"CS_ABREVIATION","pattern":"MT"}
+{"label":"CS_ABREVIATION","pattern":"(MT)"}
+{"label":"CS_ABREVIATION","pattern":"MUA"}
+{"label":"CS_ABREVIATION","pattern":"(MUA)"}
+{"label":"CS_ABREVIATION","pattern":"MUD"}
+{"label":"CS_ABREVIATION","pattern":"(MUD)"}
+{"label":"CS_ABREVIATION","pattern":"MU"}
+{"label":"CS_ABREVIATION","pattern":"(MU)"}
+{"label":"CS_ABREVIATION","pattern":"MVC"}
+{"label":"CS_ABREVIATION","pattern":"(MVC)"}
+{"label":"CS_ABREVIATION","pattern":"MVP"}
+{"label":"CS_ABREVIATION","pattern":"(MVP)"}
+{"label":"CS_ABREVIATION","pattern":"MVS"}
+{"label":"CS_ABREVIATION","pattern":"(MVS)"}
+{"label":"CS_ABREVIATION","pattern":"MWC"}
+{"label":"CS_ABREVIATION","pattern":"(MWC)"}
+{"label":"CS_ABREVIATION","pattern":"MXF"}
+{"label":"CS_ABREVIATION","pattern":"(MXF)"}
+{"label":"CS_ABREVIATION","pattern":"MX"}
+{"label":"CS_ABREVIATION","pattern":"(MX)"}
+{"label":"CS_ABREVIATION","pattern":"NAC"}
+{"label":"CS_ABREVIATION","pattern":"(NAC)"}
+{"label":"CS_ABREVIATION","pattern":"NACK"}
+{"label":"CS_ABREVIATION","pattern":"(NACK)"}
+{"label":"CS_ABREVIATION","pattern":"NAK"}
+{"label":"CS_ABREVIATION","pattern":"(NAK)"}
+{"label":"CS_ABREVIATION","pattern":"NaN"}
+{"label":"CS_ABREVIATION","pattern":"(NaN)"}
+{"label":"CS_ABREVIATION","pattern":"NAP"}
+{"label":"CS_ABREVIATION","pattern":"(NAP)"}
+{"label":"CS_ABREVIATION","pattern":"NAS"}
+{"label":"CS_ABREVIATION","pattern":"(NAS)"}
+{"label":"CS_ABREVIATION","pattern":"NASM"}
+{"label":"CS_ABREVIATION","pattern":"(NASM)"}
+{"label":"CS_ABREVIATION","pattern":"NAT"}
+{"label":"CS_ABREVIATION","pattern":"(NAT)"}
+{"label":"CS_ABREVIATION","pattern":"NCP"}
+{"label":"CS_ABREVIATION","pattern":"(NCP)"}
+{"label":"CS_ABREVIATION","pattern":"NCQ"}
+{"label":"CS_ABREVIATION","pattern":"(NCQ)"}
+{"label":"CS_ABREVIATION","pattern":"NCSA"}
+{"label":"CS_ABREVIATION","pattern":"(NCSA)"}
+{"label":"CS_ABREVIATION","pattern":"NDIS"}
+{"label":"CS_ABREVIATION","pattern":"(NDIS)"}
+{"label":"CS_ABREVIATION","pattern":"NDPS"}
+{"label":"CS_ABREVIATION","pattern":"(NDPS)"}
+{"label":"CS_ABREVIATION","pattern":"NDS"}
+{"label":"CS_ABREVIATION","pattern":"(NDS)"}
+{"label":"CS_ABREVIATION","pattern":"NEP"}
+{"label":"CS_ABREVIATION","pattern":"(NEP)"}
+{"label":"CS_ABREVIATION","pattern":"NetBIOS"}
+{"label":"CS_ABREVIATION","pattern":"(NetBIOS)"}
+{"label":"CS_ABREVIATION","pattern":"NetBT"}
+{"label":"CS_ABREVIATION","pattern":"(NetBT)"}
+{"label":"CS_ABREVIATION","pattern":"NEXT"}
+{"label":"CS_ABREVIATION","pattern":"(NEXT)"}
+{"label":"CS_ABREVIATION","pattern":"NFA"}
+{"label":"CS_ABREVIATION","pattern":"(NFA)"}
+{"label":"CS_ABREVIATION","pattern":"NFC"}
+{"label":"CS_ABREVIATION","pattern":"(NFC)"}
+{"label":"CS_ABREVIATION","pattern":"NFS"}
+{"label":"CS_ABREVIATION","pattern":"(NFS)"}
+{"label":"CS_ABREVIATION","pattern":"NGSCB"}
+{"label":"CS_ABREVIATION","pattern":"(NGSCB)"}
+{"label":"CS_ABREVIATION","pattern":"NGSCB"}
+{"label":"CS_ABREVIATION","pattern":"(NGSCB)"}
+{"label":"CS_ABREVIATION","pattern":"NI"}
+{"label":"CS_ABREVIATION","pattern":"(NI)"}
+{"label":"CS_ABREVIATION","pattern":"NIC"}
+{"label":"CS_ABREVIATION","pattern":"(NIC)"}
+{"label":"CS_ABREVIATION","pattern":"NIM"}
+{"label":"CS_ABREVIATION","pattern":"(NIM)"}
+{"label":"CS_ABREVIATION","pattern":"NIO"}
+{"label":"CS_ABREVIATION","pattern":"(NIO)"}
+{"label":"CS_ABREVIATION","pattern":"NIST"}
+{"label":"CS_ABREVIATION","pattern":"(NIST)"}
+{"label":"CS_ABREVIATION","pattern":"NLE"}
+{"label":"CS_ABREVIATION","pattern":"(NLE)"}
+{"label":"CS_ABREVIATION","pattern":"NLP"}
+{"label":"CS_ABREVIATION","pattern":"(NLP)"}
+{"label":"CS_ABREVIATION","pattern":"NLS"}
+{"label":"CS_ABREVIATION","pattern":"(NLS)"}
+{"label":"CS_ABREVIATION","pattern":"NMI"}
+{"label":"CS_ABREVIATION","pattern":"(NMI)"}
+{"label":"CS_ABREVIATION","pattern":"NNTP"}
+{"label":"CS_ABREVIATION","pattern":"(NNTP)"}
+{"label":"CS_ABREVIATION","pattern":"NOC"}
+{"label":"CS_ABREVIATION","pattern":"(NOC)"}
+{"label":"CS_ABREVIATION","pattern":"NOP"}
+{"label":"CS_ABREVIATION","pattern":"(NOP)"}
+{"label":"CS_ABREVIATION","pattern":"NOS"}
+{"label":"CS_ABREVIATION","pattern":"(NOS)"}
+{"label":"CS_ABREVIATION","pattern":"NP"}
+{"label":"CS_ABREVIATION","pattern":"(NP)"}
+{"label":"CS_ABREVIATION","pattern":"NPL"}
+{"label":"CS_ABREVIATION","pattern":"(NPL)"}
+{"label":"CS_ABREVIATION","pattern":"NPTL"}
+{"label":"CS_ABREVIATION","pattern":"(NPTL)"}
+{"label":"CS_ABREVIATION","pattern":"NPU"}
+{"label":"CS_ABREVIATION","pattern":"(NPU)"}
+{"label":"CS_ABREVIATION","pattern":"NS"}
+{"label":"CS_ABREVIATION","pattern":"(NS)"}
+{"label":"CS_ABREVIATION","pattern":"NSA"}
+{"label":"CS_ABREVIATION","pattern":"(NSA)"}
+{"label":"CS_ABREVIATION","pattern":"NSI"}
+{"label":"CS_ABREVIATION","pattern":"(NSI)"}
+{"label":"CS_ABREVIATION","pattern":"NSPR"}
+{"label":"CS_ABREVIATION","pattern":"(NSPR)"}
+{"label":"CS_ABREVIATION","pattern":"NSS"}
+{"label":"CS_ABREVIATION","pattern":"(NSS)"}
+{"label":"CS_ABREVIATION","pattern":"NSS"}
+{"label":"CS_ABREVIATION","pattern":"(NSS)"}
+{"label":"CS_ABREVIATION","pattern":"NSS"}
+{"label":"CS_ABREVIATION","pattern":"(NSS)"}
+{"label":"CS_ABREVIATION","pattern":"NT"}
+{"label":"CS_ABREVIATION","pattern":"(NT)"}
+{"label":"CS_ABREVIATION","pattern":"NTFS"}
+{"label":"CS_ABREVIATION","pattern":"(NTFS)"}
+{"label":"CS_ABREVIATION","pattern":"NTLM"}
+{"label":"CS_ABREVIATION","pattern":"(NTLM)"}
+{"label":"CS_ABREVIATION","pattern":"NTP"}
+{"label":"CS_ABREVIATION","pattern":"(NTP)"}
+{"label":"CS_ABREVIATION","pattern":"NUMA"}
+{"label":"CS_ABREVIATION","pattern":"(NUMA)"}
+{"label":"CS_ABREVIATION","pattern":"NURBS"}
+{"label":"CS_ABREVIATION","pattern":"(NURBS)"}
+{"label":"CS_ABREVIATION","pattern":"NVR"}
+{"label":"CS_ABREVIATION","pattern":"(NVR)"}
+{"label":"CS_ABREVIATION","pattern":"NVRAM"}
+{"label":"CS_ABREVIATION","pattern":"(NVRAM)"}
+{"label":"CS_ABREVIATION","pattern":"OASIS"}
+{"label":"CS_ABREVIATION","pattern":"(OASIS)"}
+{"label":"CS_ABREVIATION","pattern":"OAT"}
+{"label":"CS_ABREVIATION","pattern":"(OAT)"}
+{"label":"CS_ABREVIATION","pattern":"OBSAI"}
+{"label":"CS_ABREVIATION","pattern":"(OBSAI)"}
+{"label":"CS_ABREVIATION","pattern":"ODBC"}
+{"label":"CS_ABREVIATION","pattern":"(ODBC)"}
+{"label":"CS_ABREVIATION","pattern":"OEM"}
+{"label":"CS_ABREVIATION","pattern":"(OEM)"}
+{"label":"CS_ABREVIATION","pattern":"OES"}
+{"label":"CS_ABREVIATION","pattern":"(OES)"}
+{"label":"CS_ABREVIATION","pattern":"OFDM"}
+{"label":"CS_ABREVIATION","pattern":"(OFDM)"}
+{"label":"CS_ABREVIATION","pattern":"OFTC"}
+{"label":"CS_ABREVIATION","pattern":"(OFTC)"}
+{"label":"CS_ABREVIATION","pattern":"OID"}
+{"label":"CS_ABREVIATION","pattern":"(OID)"}
+{"label":"CS_ABREVIATION","pattern":"OLAP"}
+{"label":"CS_ABREVIATION","pattern":"(OLAP)"}
+{"label":"CS_ABREVIATION","pattern":"OLE"}
+{"label":"CS_ABREVIATION","pattern":"(OLE)"}
+{"label":"CS_ABREVIATION","pattern":"OLED"}
+{"label":"CS_ABREVIATION","pattern":"(OLED)"}
+{"label":"CS_ABREVIATION","pattern":"OLPC"}
+{"label":"CS_ABREVIATION","pattern":"(OLPC)"}
+{"label":"CS_ABREVIATION","pattern":"OLTP"}
+{"label":"CS_ABREVIATION","pattern":"(OLTP)"}
+{"label":"CS_ABREVIATION","pattern":"OMF"}
+{"label":"CS_ABREVIATION","pattern":"(OMF)"}
+{"label":"CS_ABREVIATION","pattern":"OMG"}
+{"label":"CS_ABREVIATION","pattern":"(OMG)"}
+{"label":"CS_ABREVIATION","pattern":"OMR"}
+{"label":"CS_ABREVIATION","pattern":"(OMR)"}
+{"label":"CS_ABREVIATION","pattern":"OO"}
+{"label":"CS_ABREVIATION","pattern":"(OO)"}
+{"label":"CS_ABREVIATION","pattern":"OO"}
+{"label":"CS_ABREVIATION","pattern":"(OO)"}
+{"label":"CS_ABREVIATION","pattern":"OOE"}
+{"label":"CS_ABREVIATION","pattern":"(OOE)"}
+{"label":"CS_ABREVIATION","pattern":"OOM"}
+{"label":"CS_ABREVIATION","pattern":"(OOM)"}
+{"label":"CS_ABREVIATION","pattern":"OOo"}
+{"label":"CS_ABREVIATION","pattern":"(OOo)"}
+{"label":"CS_ABREVIATION","pattern":"OoOE"}
+{"label":"CS_ABREVIATION","pattern":"(OoOE)"}
+{"label":"CS_ABREVIATION","pattern":"OOP"}
+{"label":"CS_ABREVIATION","pattern":"(OOP)"}
+{"label":"CS_ABREVIATION","pattern":"OOTB"}
+{"label":"CS_ABREVIATION","pattern":"(OOTB)"}
+{"label":"CS_ABREVIATION","pattern":"OPML"}
+{"label":"CS_ABREVIATION","pattern":"(OPML)"}
+{"label":"CS_ABREVIATION","pattern":"ORB"}
+{"label":"CS_ABREVIATION","pattern":"(ORB)"}
+{"label":"CS_ABREVIATION","pattern":"ORM"}
+{"label":"CS_ABREVIATION","pattern":"(ORM)"}
+{"label":"CS_ABREVIATION","pattern":"OS"}
+{"label":"CS_ABREVIATION","pattern":"(OS)"}
+{"label":"CS_ABREVIATION","pattern":"OS"}
+{"label":"CS_ABREVIATION","pattern":"(OS)"}
+{"label":"CS_ABREVIATION","pattern":"OSCON"}
+{"label":"CS_ABREVIATION","pattern":"(OSCON)"}
+{"label":"CS_ABREVIATION","pattern":"OSDN"}
+{"label":"CS_ABREVIATION","pattern":"(OSDN)"}
+{"label":"CS_ABREVIATION","pattern":"OSI"}
+{"label":"CS_ABREVIATION","pattern":"(OSI)"}
+{"label":"CS_ABREVIATION","pattern":"OSI"}
+{"label":"CS_ABREVIATION","pattern":"(OSI)"}
+{"label":"CS_ABREVIATION","pattern":"OSPF"}
+{"label":"CS_ABREVIATION","pattern":"(OSPF)"}
+{"label":"CS_ABREVIATION","pattern":"OSS"}
+{"label":"CS_ABREVIATION","pattern":"(OSS)"}
+{"label":"CS_ABREVIATION","pattern":"OSS"}
+{"label":"CS_ABREVIATION","pattern":"(OSS)"}
+{"label":"CS_ABREVIATION","pattern":"OSS"}
+{"label":"CS_ABREVIATION","pattern":"(OSS)"}
+{"label":"CS_ABREVIATION","pattern":"OSTG"}
+{"label":"CS_ABREVIATION","pattern":"(OSTG)"}
+{"label":"CS_ABREVIATION","pattern":"OTP"}
+{"label":"CS_ABREVIATION","pattern":"(OTP)"}
+{"label":"CS_ABREVIATION","pattern":"OUI"}
+{"label":"CS_ABREVIATION","pattern":"(OUI)"}
+{"label":"CS_ABREVIATION","pattern":"P2P"}
+{"label":"CS_ABREVIATION","pattern":"(P2P)"}
+{"label":"CS_ABREVIATION","pattern":"PaaS"}
+{"label":"CS_ABREVIATION","pattern":"(PaaS)"}
+{"label":"CS_ABREVIATION","pattern":"PAM"}
+{"label":"CS_ABREVIATION","pattern":"(PAM)"}
+{"label":"CS_ABREVIATION","pattern":"PAN"}
+{"label":"CS_ABREVIATION","pattern":"(PAN)"}
+{"label":"CS_ABREVIATION","pattern":"PAP"}
+{"label":"CS_ABREVIATION","pattern":"(PAP)"}
+{"label":"CS_ABREVIATION","pattern":"PARC"}
+{"label":"CS_ABREVIATION","pattern":"(PARC)"}
+{"label":"CS_ABREVIATION","pattern":"PATA"}
+{"label":"CS_ABREVIATION","pattern":"(PATA)"}
+{"label":"CS_ABREVIATION","pattern":"PBS"}
+{"label":"CS_ABREVIATION","pattern":"(PBS)"}
+{"label":"CS_ABREVIATION","pattern":"PC"}
+{"label":"CS_ABREVIATION","pattern":"(PC)"}
+{"label":"CS_ABREVIATION","pattern":"PCB"}
+{"label":"CS_ABREVIATION","pattern":"(PCB)"}
+{"label":"CS_ABREVIATION","pattern":"PCB"}
+{"label":"CS_ABREVIATION","pattern":"(PCB)"}
+{"label":"CS_ABREVIATION","pattern":"PC DOS"}
+{"label":"CS_ABREVIATION","pattern":"(PC DOS)"}
+{"label":"CS_ABREVIATION","pattern":"PCI"}
+{"label":"CS_ABREVIATION","pattern":"(PCI)"}
+{"label":"CS_ABREVIATION","pattern":"PCIe"}
+{"label":"CS_ABREVIATION","pattern":"(PCIe)"}
+{"label":"CS_ABREVIATION","pattern":"PCI-X"}
+{"label":"CS_ABREVIATION","pattern":"(PCI-X)"}
+{"label":"CS_ABREVIATION","pattern":"PCL"}
+{"label":"CS_ABREVIATION","pattern":"(PCL)"}
+{"label":"CS_ABREVIATION","pattern":"PCMCIA"}
+{"label":"CS_ABREVIATION","pattern":"(PCMCIA)"}
+{"label":"CS_ABREVIATION","pattern":"PCM"}
+{"label":"CS_ABREVIATION","pattern":"(PCM)"}
+{"label":"CS_ABREVIATION","pattern":"PCRE"}
+{"label":"CS_ABREVIATION","pattern":"(PCRE)"}
+{"label":"CS_ABREVIATION","pattern":"PD"}
+{"label":"CS_ABREVIATION","pattern":"(PD)"}
+{"label":"CS_ABREVIATION","pattern":"PDA"}
+{"label":"CS_ABREVIATION","pattern":"(PDA)"}
+{"label":"CS_ABREVIATION","pattern":"PDF"}
+{"label":"CS_ABREVIATION","pattern":"(PDF)"}
+{"label":"CS_ABREVIATION","pattern":"PDH"}
+{"label":"CS_ABREVIATION","pattern":"(PDH)"}
+{"label":"CS_ABREVIATION","pattern":"PDP"}
+{"label":"CS_ABREVIATION","pattern":"(PDP)"}
+{"label":"CS_ABREVIATION","pattern":"PE"}
+{"label":"CS_ABREVIATION","pattern":"(PE)"}
+{"label":"CS_ABREVIATION","pattern":"PERL"}
+{"label":"CS_ABREVIATION","pattern":"(PERL)"}
+{"label":"CS_ABREVIATION","pattern":"PFA"}
+{"label":"CS_ABREVIATION","pattern":"(PFA)"}
+{"label":"CS_ABREVIATION","pattern":"PG"}
+{"label":"CS_ABREVIATION","pattern":"(PG)"}
+{"label":"CS_ABREVIATION","pattern":"PGA"}
+{"label":"CS_ABREVIATION","pattern":"(PGA)"}
+{"label":"CS_ABREVIATION","pattern":"PGA"}
+{"label":"CS_ABREVIATION","pattern":"(PGA)"}
+{"label":"CS_ABREVIATION","pattern":"PGO"}
+{"label":"CS_ABREVIATION","pattern":"(PGO)"}
+{"label":"CS_ABREVIATION","pattern":"PGP"}
+{"label":"CS_ABREVIATION","pattern":"(PGP)"}
+{"label":"CS_ABREVIATION","pattern":"PHP"}
+{"label":"CS_ABREVIATION","pattern":"(PHP)"}
+{"label":"CS_ABREVIATION","pattern":"PIC"}
+{"label":"CS_ABREVIATION","pattern":"(PIC)"}
+{"label":"CS_ABREVIATION","pattern":"PIC"}
+{"label":"CS_ABREVIATION","pattern":"(PIC)"}
+{"label":"CS_ABREVIATION","pattern":"PID"}
+{"label":"CS_ABREVIATION","pattern":"(PID)"}
+{"label":"CS_ABREVIATION","pattern":"PID"}
+{"label":"CS_ABREVIATION","pattern":"(PID)"}
+{"label":"CS_ABREVIATION","pattern":"PIM"}
+{"label":"CS_ABREVIATION","pattern":"(PIM)"}
+{"label":"CS_ABREVIATION","pattern":"PINE"}
+{"label":"CS_ABREVIATION","pattern":"(PINE)"}
+{"label":"CS_ABREVIATION","pattern":"PIM"}
+{"label":"CS_ABREVIATION","pattern":"(PIM)"}
+{"label":"CS_ABREVIATION","pattern":"PING"}
+{"label":"CS_ABREVIATION","pattern":"(PING)"}
+{"label":"CS_ABREVIATION","pattern":"PIO"}
+{"label":"CS_ABREVIATION","pattern":"(PIO)"}
+{"label":"CS_ABREVIATION","pattern":"PKCS"}
+{"label":"CS_ABREVIATION","pattern":"(PKCS)"}
+{"label":"CS_ABREVIATION","pattern":"PKI"}
+{"label":"CS_ABREVIATION","pattern":"(PKI)"}
+{"label":"CS_ABREVIATION","pattern":"PLC"}
+{"label":"CS_ABREVIATION","pattern":"(PLC)"}
+{"label":"CS_ABREVIATION","pattern":"PLC"}
+{"label":"CS_ABREVIATION","pattern":"(PLC)"}
+{"label":"CS_ABREVIATION","pattern":"PLD"}
+{"label":"CS_ABREVIATION","pattern":"(PLD)"}
+{"label":"CS_ABREVIATION","pattern":"PL/I"}
+{"label":"CS_ABREVIATION","pattern":"(PL/I)"}
+{"label":"CS_ABREVIATION","pattern":"PL/M"}
+{"label":"CS_ABREVIATION","pattern":"(PL/M)"}
+{"label":"CS_ABREVIATION","pattern":"PL/P"}
+{"label":"CS_ABREVIATION","pattern":"(PL/P)"}
+{"label":"CS_ABREVIATION","pattern":"PLT"}
+{"label":"CS_ABREVIATION","pattern":"(PLT)"}
+{"label":"CS_ABREVIATION","pattern":"PMM"}
+{"label":"CS_ABREVIATION","pattern":"(PMM)"}
+{"label":"CS_ABREVIATION","pattern":"PNG"}
+{"label":"CS_ABREVIATION","pattern":"(PNG)"}
+{"label":"CS_ABREVIATION","pattern":"PnP"}
+{"label":"CS_ABREVIATION","pattern":"(PnP)"}
+{"label":"CS_ABREVIATION","pattern":"PNRP"}
+{"label":"CS_ABREVIATION","pattern":"(PNRP)"}
+{"label":"CS_ABREVIATION","pattern":"PoE"}
+{"label":"CS_ABREVIATION","pattern":"(PoE)"}
+{"label":"CS_ABREVIATION","pattern":"PoS"}
+{"label":"CS_ABREVIATION","pattern":"(PoS)"}
+{"label":"CS_ABREVIATION","pattern":"POCO"}
+{"label":"CS_ABREVIATION","pattern":"(POCO)"}
+{"label":"CS_ABREVIATION","pattern":"POID"}
+{"label":"CS_ABREVIATION","pattern":"(POID)"}
+{"label":"CS_ABREVIATION","pattern":"POJO"}
+{"label":"CS_ABREVIATION","pattern":"(POJO)"}
+{"label":"CS_ABREVIATION","pattern":"POP"}
+{"label":"CS_ABREVIATION","pattern":"(POP)"}
+{"label":"CS_ABREVIATION","pattern":"POP3"}
+{"label":"CS_ABREVIATION","pattern":"(POP3)"}
+{"label":"CS_ABREVIATION","pattern":"POSIX"}
+{"label":"CS_ABREVIATION","pattern":"(POSIX)"}
+{"label":"CS_ABREVIATION","pattern":"POST"}
+{"label":"CS_ABREVIATION","pattern":"(POST)"}
+{"label":"CS_ABREVIATION","pattern":"PPC"}
+{"label":"CS_ABREVIATION","pattern":"(PPC)"}
+{"label":"CS_ABREVIATION","pattern":"PPI"}
+{"label":"CS_ABREVIATION","pattern":"(PPI)"}
+{"label":"CS_ABREVIATION","pattern":"PPM"}
+{"label":"CS_ABREVIATION","pattern":"(PPM)"}
+{"label":"CS_ABREVIATION","pattern":"PPP"}
+{"label":"CS_ABREVIATION","pattern":"(PPP)"}
+{"label":"CS_ABREVIATION","pattern":"PPPoA"}
+{"label":"CS_ABREVIATION","pattern":"(PPPoA)"}
+{"label":"CS_ABREVIATION","pattern":"PPPoE"}
+{"label":"CS_ABREVIATION","pattern":"(PPPoE)"}
+{"label":"CS_ABREVIATION","pattern":"PPTP"}
+{"label":"CS_ABREVIATION","pattern":"(PPTP)"}
+{"label":"CS_ABREVIATION","pattern":"PR"}
+{"label":"CS_ABREVIATION","pattern":"(PR)"}
+{"label":"CS_ABREVIATION","pattern":"PROM"}
+{"label":"CS_ABREVIATION","pattern":"(PROM)"}
+{"label":"CS_ABREVIATION","pattern":"PS"}
+{"label":"CS_ABREVIATION","pattern":"(PS)"}
+{"label":"CS_ABREVIATION","pattern":"PS/2"}
+{"label":"CS_ABREVIATION","pattern":"(PS/2)"}
+{"label":"CS_ABREVIATION","pattern":"PSA"}
+{"label":"CS_ABREVIATION","pattern":"(PSA)"}
+{"label":"CS_ABREVIATION","pattern":"PSM"}
+{"label":"CS_ABREVIATION","pattern":"(PSM)"}
+{"label":"CS_ABREVIATION","pattern":"PSTN"}
+{"label":"CS_ABREVIATION","pattern":"(PSTN)"}
+{"label":"CS_ABREVIATION","pattern":"PSU"}
+{"label":"CS_ABREVIATION","pattern":"(PSU)"}
+{"label":"CS_ABREVIATION","pattern":"PSVI"}
+{"label":"CS_ABREVIATION","pattern":"(PSVI)"}
+{"label":"CS_ABREVIATION","pattern":"PTS-DOS"}
+{"label":"CS_ABREVIATION","pattern":"(PTS-DOS)"}
+{"label":"CS_ABREVIATION","pattern":"PV"}
+{"label":"CS_ABREVIATION","pattern":"(PV)"}
+{"label":"CS_ABREVIATION","pattern":"PVG"}
+{"label":"CS_ABREVIATION","pattern":"(PVG)"}
+{"label":"CS_ABREVIATION","pattern":"PVR"}
+{"label":"CS_ABREVIATION","pattern":"(PVR)"}
+{"label":"CS_ABREVIATION","pattern":"PXE"}
+{"label":"CS_ABREVIATION","pattern":"(PXE)"}
+{"label":"CS_ABREVIATION","pattern":"PXI"}
+{"label":"CS_ABREVIATION","pattern":"(PXI)"}
+{"label":"CS_ABREVIATION","pattern":"PRC"}
+{"label":"CS_ABREVIATION","pattern":"(PRC)"}
+{"label":"CS_ABREVIATION","pattern":"QDR"}
+{"label":"CS_ABREVIATION","pattern":"(QDR)"}
+{"label":"CS_ABREVIATION","pattern":"QA"}
+{"label":"CS_ABREVIATION","pattern":"(QA)"}
+{"label":"CS_ABREVIATION","pattern":"QFP"}
+{"label":"CS_ABREVIATION","pattern":"(QFP)"}
+{"label":"CS_ABREVIATION","pattern":"QoS"}
+{"label":"CS_ABREVIATION","pattern":"(QoS)"}
+{"label":"CS_ABREVIATION","pattern":"QOTD"}
+{"label":"CS_ABREVIATION","pattern":"(QOTD)"}
+{"label":"CS_ABREVIATION","pattern":"Qt"}
+{"label":"CS_ABREVIATION","pattern":"(Qt)"}
+{"label":"CS_ABREVIATION","pattern":"QTAM"}
+{"label":"CS_ABREVIATION","pattern":"(QTAM)"}
+{"label":"CS_ABREVIATION","pattern":"QSOP"}
+{"label":"CS_ABREVIATION","pattern":"(QSOP)"}
+{"label":"CS_ABREVIATION","pattern":"qWave"}
+{"label":"CS_ABREVIATION","pattern":"(qWave)"}
+{"label":"CS_ABREVIATION","pattern":"RACF"}
+{"label":"CS_ABREVIATION","pattern":"(RACF)"}
+{"label":"CS_ABREVIATION","pattern":"RAD"}
+{"label":"CS_ABREVIATION","pattern":"(RAD)"}
+{"label":"CS_ABREVIATION","pattern":"RADIUS"}
+{"label":"CS_ABREVIATION","pattern":"(RADIUS)"}
+{"label":"CS_ABREVIATION","pattern":"RAID"}
+{"label":"CS_ABREVIATION","pattern":"(RAID)"}
+{"label":"CS_ABREVIATION","pattern":"RAII"}
+{"label":"CS_ABREVIATION","pattern":"(RAII)"}
+{"label":"CS_ABREVIATION","pattern":"RAIT"}
+{"label":"CS_ABREVIATION","pattern":"(RAIT)"}
+{"label":"CS_ABREVIATION","pattern":"RAM"}
+{"label":"CS_ABREVIATION","pattern":"(RAM)"}
+{"label":"CS_ABREVIATION","pattern":"RARP"}
+{"label":"CS_ABREVIATION","pattern":"(RARP)"}
+{"label":"CS_ABREVIATION","pattern":"RAS"}
+{"label":"CS_ABREVIATION","pattern":"(RAS)"}
+{"label":"CS_ABREVIATION","pattern":"RAS"}
+{"label":"CS_ABREVIATION","pattern":"(RAS)"}
+{"label":"CS_ABREVIATION","pattern":"RC"}
+{"label":"CS_ABREVIATION","pattern":"(RC)"}
+{"label":"CS_ABREVIATION","pattern":"RC"}
+{"label":"CS_ABREVIATION","pattern":"(RC)"}
+{"label":"CS_ABREVIATION","pattern":"RC"}
+{"label":"CS_ABREVIATION","pattern":"(RC)"}
+{"label":"CS_ABREVIATION","pattern":"RCA"}
+{"label":"CS_ABREVIATION","pattern":"(RCA)"}
+{"label":"CS_ABREVIATION","pattern":"RCS"}
+{"label":"CS_ABREVIATION","pattern":"(RCS)"}
+{"label":"CS_ABREVIATION","pattern":"RD"}
+{"label":"CS_ABREVIATION","pattern":"(RD)"}
+{"label":"CS_ABREVIATION","pattern":"rd"}
+{"label":"CS_ABREVIATION","pattern":"(rd)"}
+{"label":"CS_ABREVIATION","pattern":"RDBMS"}
+{"label":"CS_ABREVIATION","pattern":"(RDBMS)"}
+{"label":"CS_ABREVIATION","pattern":"RDC"}
+{"label":"CS_ABREVIATION","pattern":"(RDC)"}
+{"label":"CS_ABREVIATION","pattern":"RDF"}
+{"label":"CS_ABREVIATION","pattern":"(RDF)"}
+{"label":"CS_ABREVIATION","pattern":"RDM"}
+{"label":"CS_ABREVIATION","pattern":"(RDM)"}
+{"label":"CS_ABREVIATION","pattern":"RDOS"}
+{"label":"CS_ABREVIATION","pattern":"(RDOS)"}
+{"label":"CS_ABREVIATION","pattern":"RDP"}
+{"label":"CS_ABREVIATION","pattern":"(RDP)"}
+{"label":"CS_ABREVIATION","pattern":"RDS"}
+{"label":"CS_ABREVIATION","pattern":"(RDS)"}
+{"label":"CS_ABREVIATION","pattern":"REFAL"}
+{"label":"CS_ABREVIATION","pattern":"(REFAL)"}
+{"label":"CS_ABREVIATION","pattern":"REST"}
+{"label":"CS_ABREVIATION","pattern":"(REST)"}
+{"label":"CS_ABREVIATION","pattern":"REST"}
+{"label":"CS_ABREVIATION","pattern":"(REST)"}
+{"label":"CS_ABREVIATION","pattern":"regex"}
+{"label":"CS_ABREVIATION","pattern":"(regex)"}
+{"label":"CS_ABREVIATION","pattern":"regex"}
+{"label":"CS_ABREVIATION","pattern":"(regex)"}
+{"label":"CS_ABREVIATION","pattern":"regexp"}
+{"label":"CS_ABREVIATION","pattern":"(regexp)"}
+{"label":"CS_ABREVIATION","pattern":"RF"}
+{"label":"CS_ABREVIATION","pattern":"(RF)"}
+{"label":"CS_ABREVIATION","pattern":"RFC"}
+{"label":"CS_ABREVIATION","pattern":"(RFC)"}
+{"label":"CS_ABREVIATION","pattern":"RFI"}
+{"label":"CS_ABREVIATION","pattern":"(RFI)"}
+{"label":"CS_ABREVIATION","pattern":"RFID"}
+{"label":"CS_ABREVIATION","pattern":"(RFID)"}
+{"label":"CS_ABREVIATION","pattern":"RGB"}
+{"label":"CS_ABREVIATION","pattern":"(RGB)"}
+{"label":"CS_ABREVIATION","pattern":"RHL"}
+{"label":"CS_ABREVIATION","pattern":"(RHL)"}
+{"label":"CS_ABREVIATION","pattern":"RHL"}
+{"label":"CS_ABREVIATION","pattern":"(RHL)"}
+{"label":"CS_ABREVIATION","pattern":"RHEL"}
+{"label":"CS_ABREVIATION","pattern":"(RHEL)"}
+{"label":"CS_ABREVIATION","pattern":"RIA"}
+{"label":"CS_ABREVIATION","pattern":"(RIA)"}
+{"label":"CS_ABREVIATION","pattern":"RIAA"}
+{"label":"CS_ABREVIATION","pattern":"(RIAA)"}
+{"label":"CS_ABREVIATION","pattern":"RIP"}
+{"label":"CS_ABREVIATION","pattern":"(RIP)"}
+{"label":"CS_ABREVIATION","pattern":"RIP"}
+{"label":"CS_ABREVIATION","pattern":"(RIP)"}
+{"label":"CS_ABREVIATION","pattern":"RIR"}
+{"label":"CS_ABREVIATION","pattern":"(RIR)"}
+{"label":"CS_ABREVIATION","pattern":"RISC"}
+{"label":"CS_ABREVIATION","pattern":"(RISC)"}
+{"label":"CS_ABREVIATION","pattern":"RISC OS"}
+{"label":"CS_ABREVIATION","pattern":"(RISC OS)"}
+{"label":"CS_ABREVIATION","pattern":"RJE"}
+{"label":"CS_ABREVIATION","pattern":"(RJE)"}
+{"label":"CS_ABREVIATION","pattern":"RLE"}
+{"label":"CS_ABREVIATION","pattern":"(RLE)"}
+{"label":"CS_ABREVIATION","pattern":"RLL"}
+{"label":"CS_ABREVIATION","pattern":"(RLL)"}
+{"label":"CS_ABREVIATION","pattern":"rmdir"}
+{"label":"CS_ABREVIATION","pattern":"(rmdir)"}
+{"label":"CS_ABREVIATION","pattern":"RMI"}
+{"label":"CS_ABREVIATION","pattern":"(RMI)"}
+{"label":"CS_ABREVIATION","pattern":"RMS"}
+{"label":"CS_ABREVIATION","pattern":"(RMS)"}
+{"label":"CS_ABREVIATION","pattern":"ROM"}
+{"label":"CS_ABREVIATION","pattern":"(ROM)"}
+{"label":"CS_ABREVIATION","pattern":"ROMB"}
+{"label":"CS_ABREVIATION","pattern":"(ROMB)"}
+{"label":"CS_ABREVIATION","pattern":"ROM-DOS"}
+{"label":"CS_ABREVIATION","pattern":"(ROM-DOS)"}
+{"label":"CS_ABREVIATION","pattern":"RPA"}
+{"label":"CS_ABREVIATION","pattern":"(RPA)"}
+{"label":"CS_ABREVIATION","pattern":"RPC"}
+{"label":"CS_ABREVIATION","pattern":"(RPC)"}
+{"label":"CS_ABREVIATION","pattern":"RPG"}
+{"label":"CS_ABREVIATION","pattern":"(RPG)"}
+{"label":"CS_ABREVIATION","pattern":"RPM"}
+{"label":"CS_ABREVIATION","pattern":"(RPM)"}
+{"label":"CS_ABREVIATION","pattern":"RRAS"}
+{"label":"CS_ABREVIATION","pattern":"(RRAS)"}
+{"label":"CS_ABREVIATION","pattern":"RSA"}
+{"label":"CS_ABREVIATION","pattern":"(RSA)"}
+{"label":"CS_ABREVIATION","pattern":"RSI"}
+{"label":"CS_ABREVIATION","pattern":"(RSI)"}
+{"label":"CS_ABREVIATION","pattern":"RSS"}
+{"label":"CS_ABREVIATION","pattern":"(RSS)"}
+{"label":"CS_ABREVIATION","pattern":"RSS"}
+{"label":"CS_ABREVIATION","pattern":"(RSS)"}
+{"label":"CS_ABREVIATION","pattern":"RSVP"}
+{"label":"CS_ABREVIATION","pattern":"(RSVP)"}
+{"label":"CS_ABREVIATION","pattern":"RTAI"}
+{"label":"CS_ABREVIATION","pattern":"(RTAI)"}
+{"label":"CS_ABREVIATION","pattern":"RTC"}
+{"label":"CS_ABREVIATION","pattern":"(RTC)"}
+{"label":"CS_ABREVIATION","pattern":"RTE"}
+{"label":"CS_ABREVIATION","pattern":"(RTE)"}
+{"label":"CS_ABREVIATION","pattern":"RTEMS"}
+{"label":"CS_ABREVIATION","pattern":"(RTEMS)"}
+{"label":"CS_ABREVIATION","pattern":"RTF"}
+{"label":"CS_ABREVIATION","pattern":"(RTF)"}
+{"label":"CS_ABREVIATION","pattern":"RTL"}
+{"label":"CS_ABREVIATION","pattern":"(RTL)"}
+{"label":"CS_ABREVIATION","pattern":"RTMP"}
+{"label":"CS_ABREVIATION","pattern":"(RTMP)"}
+{"label":"CS_ABREVIATION","pattern":"RTOS"}
+{"label":"CS_ABREVIATION","pattern":"(RTOS)"}
+{"label":"CS_ABREVIATION","pattern":"RTP"}
+{"label":"CS_ABREVIATION","pattern":"(RTP)"}
+{"label":"CS_ABREVIATION","pattern":"RTS"}
+{"label":"CS_ABREVIATION","pattern":"(RTS)"}
+{"label":"CS_ABREVIATION","pattern":"RTSP"}
+{"label":"CS_ABREVIATION","pattern":"(RTSP)"}
+{"label":"CS_ABREVIATION","pattern":"RTTI"}
+{"label":"CS_ABREVIATION","pattern":"(RTTI)"}
+{"label":"CS_ABREVIATION","pattern":"RWD"}
+{"label":"CS_ABREVIATION","pattern":"(RWD)"}
+{"label":"CS_ABREVIATION","pattern":"SaaS"}
+{"label":"CS_ABREVIATION","pattern":"(SaaS)"}
+{"label":"CS_ABREVIATION","pattern":"SASS"}
+{"label":"CS_ABREVIATION","pattern":"(SASS)"}
+{"label":"CS_ABREVIATION","pattern":"SAM"}
+{"label":"CS_ABREVIATION","pattern":"(SAM)"}
+{"label":"CS_ABREVIATION","pattern":"SAN"}
+{"label":"CS_ABREVIATION","pattern":"(SAN)"}
+{"label":"CS_ABREVIATION","pattern":"SAS"}
+{"label":"CS_ABREVIATION","pattern":"(SAS)"}
+{"label":"CS_ABREVIATION","pattern":"SATA"}
+{"label":"CS_ABREVIATION","pattern":"(SATA)"}
+{"label":"CS_ABREVIATION","pattern":"SAX"}
+{"label":"CS_ABREVIATION","pattern":"(SAX)"}
+{"label":"CS_ABREVIATION","pattern":"SBOD"}
+{"label":"CS_ABREVIATION","pattern":"(SBOD)"}
+{"label":"CS_ABREVIATION","pattern":"SBP-2"}
+{"label":"CS_ABREVIATION","pattern":"(SBP-2)"}
+{"label":"CS_ABREVIATION","pattern":"sbin"}
+{"label":"CS_ABREVIATION","pattern":"(sbin)"}
+{"label":"CS_ABREVIATION","pattern":"sbs"}
+{"label":"CS_ABREVIATION","pattern":"(sbs)"}
+{"label":"CS_ABREVIATION","pattern":"SBU"}
+{"label":"CS_ABREVIATION","pattern":"(SBU)"}
+{"label":"CS_ABREVIATION","pattern":"SCADA"}
+{"label":"CS_ABREVIATION","pattern":"(SCADA)"}
+{"label":"CS_ABREVIATION","pattern":"SCID"}
+{"label":"CS_ABREVIATION","pattern":"(SCID)"}
+{"label":"CS_ABREVIATION","pattern":"SCM"}
+{"label":"CS_ABREVIATION","pattern":"(SCM)"}
+{"label":"CS_ABREVIATION","pattern":"SCM"}
+{"label":"CS_ABREVIATION","pattern":"(SCM)"}
+{"label":"CS_ABREVIATION","pattern":"SCP"}
+{"label":"CS_ABREVIATION","pattern":"(SCP)"}
+{"label":"CS_ABREVIATION","pattern":"SCPC"}
+{"label":"CS_ABREVIATION","pattern":"(SCPC)"}
+{"label":"CS_ABREVIATION","pattern":"SCPI"}
+{"label":"CS_ABREVIATION","pattern":"(SCPI)"}
+{"label":"CS_ABREVIATION","pattern":"SCSA"}
+{"label":"CS_ABREVIATION","pattern":"(SCSA)"}
+{"label":"CS_ABREVIATION","pattern":"SCSI"}
+{"label":"CS_ABREVIATION","pattern":"(SCSI)"}
+{"label":"CS_ABREVIATION","pattern":"SCTP"}
+{"label":"CS_ABREVIATION","pattern":"(SCTP)"}
+{"label":"CS_ABREVIATION","pattern":"SD"}
+{"label":"CS_ABREVIATION","pattern":"(SD)"}
+{"label":"CS_ABREVIATION","pattern":"SDDL"}
+{"label":"CS_ABREVIATION","pattern":"(SDDL)"}
+{"label":"CS_ABREVIATION","pattern":"SDH"}
+{"label":"CS_ABREVIATION","pattern":"(SDH)"}
+{"label":"CS_ABREVIATION","pattern":"SDI"}
+{"label":"CS_ABREVIATION","pattern":"(SDI)"}
+{"label":"CS_ABREVIATION","pattern":"SEC"}
+{"label":"CS_ABREVIATION","pattern":"(SEC)"}
+{"label":"CS_ABREVIATION","pattern":"SDIO"}
+{"label":"CS_ABREVIATION","pattern":"(SDIO)"}
+{"label":"CS_ABREVIATION","pattern":"SDK"}
+{"label":"CS_ABREVIATION","pattern":"(SDK)"}
+{"label":"CS_ABREVIATION","pattern":"SDL"}
+{"label":"CS_ABREVIATION","pattern":"(SDL)"}
+{"label":"CS_ABREVIATION","pattern":"SDN"}
+{"label":"CS_ABREVIATION","pattern":"(SDN)"}
+{"label":"CS_ABREVIATION","pattern":"SDP"}
+{"label":"CS_ABREVIATION","pattern":"(SDP)"}
+{"label":"CS_ABREVIATION","pattern":"SDR"}
+{"label":"CS_ABREVIATION","pattern":"(SDR)"}
+{"label":"CS_ABREVIATION","pattern":"SDRAM"}
+{"label":"CS_ABREVIATION","pattern":"(SDRAM)"}
+{"label":"CS_ABREVIATION","pattern":"SDSL"}
+{"label":"CS_ABREVIATION","pattern":"(SDSL)"}
+{"label":"CS_ABREVIATION","pattern":"SE"}
+{"label":"CS_ABREVIATION","pattern":"(SE)"}
+{"label":"CS_ABREVIATION","pattern":"SEI"}
+{"label":"CS_ABREVIATION","pattern":"(SEI)"}
+{"label":"CS_ABREVIATION","pattern":"SEO"}
+{"label":"CS_ABREVIATION","pattern":"(SEO)"}
+{"label":"CS_ABREVIATION","pattern":"SFTP"}
+{"label":"CS_ABREVIATION","pattern":"(SFTP)"}
+{"label":"CS_ABREVIATION","pattern":"SFTP"}
+{"label":"CS_ABREVIATION","pattern":"(SFTP)"}
+{"label":"CS_ABREVIATION","pattern":"SFTP"}
+{"label":"CS_ABREVIATION","pattern":"(SFTP)"}
+{"label":"CS_ABREVIATION","pattern":"SGI"}
+{"label":"CS_ABREVIATION","pattern":"(SGI)"}
+{"label":"CS_ABREVIATION","pattern":"SGML"}
+{"label":"CS_ABREVIATION","pattern":"(SGML)"}
+{"label":"CS_ABREVIATION","pattern":"SGR"}
+{"label":"CS_ABREVIATION","pattern":"(SGR)"}
+{"label":"CS_ABREVIATION","pattern":"SHA"}
+{"label":"CS_ABREVIATION","pattern":"(SHA)"}
+{"label":"CS_ABREVIATION","pattern":"SHDSL"}
+{"label":"CS_ABREVIATION","pattern":"(SHDSL)"}
+{"label":"CS_ABREVIATION","pattern":"SIEM"}
+{"label":"CS_ABREVIATION","pattern":"(SIEM)"}
+{"label":"CS_ABREVIATION","pattern":"SIGCAT"}
+{"label":"CS_ABREVIATION","pattern":"(SIGCAT)"}
+{"label":"CS_ABREVIATION","pattern":"SIGGRAPH"}
+{"label":"CS_ABREVIATION","pattern":"(SIGGRAPH)"}
+{"label":"CS_ABREVIATION","pattern":"SIMD"}
+{"label":"CS_ABREVIATION","pattern":"(SIMD)"}
+{"label":"CS_ABREVIATION","pattern":"SIM"}
+{"label":"CS_ABREVIATION","pattern":"(SIM)"}
+{"label":"CS_ABREVIATION","pattern":"SIMM"}
+{"label":"CS_ABREVIATION","pattern":"(SIMM)"}
+{"label":"CS_ABREVIATION","pattern":"SIP"}
+{"label":"CS_ABREVIATION","pattern":"(SIP)"}
+{"label":"CS_ABREVIATION","pattern":"SIP"}
+{"label":"CS_ABREVIATION","pattern":"(SIP)"}
+{"label":"CS_ABREVIATION","pattern":"SISD"}
+{"label":"CS_ABREVIATION","pattern":"(SISD)"}
+{"label":"CS_ABREVIATION","pattern":"SISO"}
+{"label":"CS_ABREVIATION","pattern":"(SISO)"}
+{"label":"CS_ABREVIATION","pattern":"SLA"}
+{"label":"CS_ABREVIATION","pattern":"(SLA)"}
+{"label":"CS_ABREVIATION","pattern":"SLED"}
+{"label":"CS_ABREVIATION","pattern":"(SLED)"}
+{"label":"CS_ABREVIATION","pattern":"SLES"}
+{"label":"CS_ABREVIATION","pattern":"(SLES)"}
+{"label":"CS_ABREVIATION","pattern":"SLI"}
+{"label":"CS_ABREVIATION","pattern":"(SLI)"}
+{"label":"CS_ABREVIATION","pattern":"SLIP"}
+{"label":"CS_ABREVIATION","pattern":"(SLIP)"}
+{"label":"CS_ABREVIATION","pattern":"SLM"}
+{"label":"CS_ABREVIATION","pattern":"(SLM)"}
+{"label":"CS_ABREVIATION","pattern":"SLOC"}
+{"label":"CS_ABREVIATION","pattern":"(SLOC)"}
+{"label":"CS_ABREVIATION","pattern":"SME"}
+{"label":"CS_ABREVIATION","pattern":"(SME)"}
+{"label":"CS_ABREVIATION","pattern":"SMF"}
+{"label":"CS_ABREVIATION","pattern":"(SMF)"}
+{"label":"CS_ABREVIATION","pattern":"SPM"}
+{"label":"CS_ABREVIATION","pattern":"(SPM)"}
+{"label":"CS_ABREVIATION","pattern":"SPMD"}
+{"label":"CS_ABREVIATION","pattern":"(SPMD)"}
+{"label":"CS_ABREVIATION","pattern":"SPOF"}
+{"label":"CS_ABREVIATION","pattern":"(SPOF)"}
+{"label":"CS_ABREVIATION","pattern":"SMA"}
+{"label":"CS_ABREVIATION","pattern":"(SMA)"}
+{"label":"CS_ABREVIATION","pattern":"SMB"}
+{"label":"CS_ABREVIATION","pattern":"(SMB)"}
+{"label":"CS_ABREVIATION","pattern":"SMBIOS"}
+{"label":"CS_ABREVIATION","pattern":"(SMBIOS)"}
+{"label":"CS_ABREVIATION","pattern":"SMIL"}
+{"label":"CS_ABREVIATION","pattern":"(SMIL)"}
+{"label":"CS_ABREVIATION","pattern":"S/MIME"}
+{"label":"CS_ABREVIATION","pattern":"(S/MIME)"}
+{"label":"CS_ABREVIATION","pattern":"SMP"}
+{"label":"CS_ABREVIATION","pattern":"(SMP)"}
+{"label":"CS_ABREVIATION","pattern":"SMP"}
+{"label":"CS_ABREVIATION","pattern":"(SMP)"}
+{"label":"CS_ABREVIATION","pattern":"SMPS"}
+{"label":"CS_ABREVIATION","pattern":"(SMPS)"}
+{"label":"CS_ABREVIATION","pattern":"SMS"}
+{"label":"CS_ABREVIATION","pattern":"(SMS)"}
+{"label":"CS_ABREVIATION","pattern":"SMS"}
+{"label":"CS_ABREVIATION","pattern":"(SMS)"}
+{"label":"CS_ABREVIATION","pattern":"SMT"}
+{"label":"CS_ABREVIATION","pattern":"(SMT)"}
+{"label":"CS_ABREVIATION","pattern":"SMTP"}
+{"label":"CS_ABREVIATION","pattern":"(SMTP)"}
+{"label":"CS_ABREVIATION","pattern":"SNA"}
+{"label":"CS_ABREVIATION","pattern":"(SNA)"}
+{"label":"CS_ABREVIATION","pattern":"SNMP"}
+{"label":"CS_ABREVIATION","pattern":"(SNMP)"}
+{"label":"CS_ABREVIATION","pattern":"SNTP"}
+{"label":"CS_ABREVIATION","pattern":"(SNTP)"}
+{"label":"CS_ABREVIATION","pattern":"SOA"}
+{"label":"CS_ABREVIATION","pattern":"(SOA)"}
+{"label":"CS_ABREVIATION","pattern":"SOAP"}
+{"label":"CS_ABREVIATION","pattern":"(SOAP)"}
+{"label":"CS_ABREVIATION","pattern":"SOAP"}
+{"label":"CS_ABREVIATION","pattern":"(SOAP)"}
+{"label":"CS_ABREVIATION","pattern":"SOPA"}
+{"label":"CS_ABREVIATION","pattern":"(SOPA)"}
+{"label":"CS_ABREVIATION","pattern":"SoC"}
+{"label":"CS_ABREVIATION","pattern":"(SoC)"}
+{"label":"CS_ABREVIATION","pattern":"SO-DIMM"}
+{"label":"CS_ABREVIATION","pattern":"(SO-DIMM)"}
+{"label":"CS_ABREVIATION","pattern":"SOE"}
+{"label":"CS_ABREVIATION","pattern":"(SOE)"}
+{"label":"CS_ABREVIATION","pattern":"SOHO"}
+{"label":"CS_ABREVIATION","pattern":"(SOHO)"}
+{"label":"CS_ABREVIATION","pattern":"SOI"}
+{"label":"CS_ABREVIATION","pattern":"(SOI)"}
+{"label":"CS_ABREVIATION","pattern":"SP"}
+{"label":"CS_ABREVIATION","pattern":"(SP)"}
+{"label":"CS_ABREVIATION","pattern":"SPA"}
+{"label":"CS_ABREVIATION","pattern":"(SPA)"}
+{"label":"CS_ABREVIATION","pattern":"SPF"}
+{"label":"CS_ABREVIATION","pattern":"(SPF)"}
+{"label":"CS_ABREVIATION","pattern":"SPI"}
+{"label":"CS_ABREVIATION","pattern":"(SPI)"}
+{"label":"CS_ABREVIATION","pattern":"SPI"}
+{"label":"CS_ABREVIATION","pattern":"(SPI)"}
+{"label":"CS_ABREVIATION","pattern":"SPARC"}
+{"label":"CS_ABREVIATION","pattern":"(SPARC)"}
+{"label":"CS_ABREVIATION","pattern":"SQL"}
+{"label":"CS_ABREVIATION","pattern":"(SQL)"}
+{"label":"CS_ABREVIATION","pattern":"SRAM"}
+{"label":"CS_ABREVIATION","pattern":"(SRAM)"}
+{"label":"CS_ABREVIATION","pattern":"SSA"}
+{"label":"CS_ABREVIATION","pattern":"(SSA)"}
+{"label":"CS_ABREVIATION","pattern":"SSD"}
+{"label":"CS_ABREVIATION","pattern":"(SSD)"}
+{"label":"CS_ABREVIATION","pattern":"SSD"}
+{"label":"CS_ABREVIATION","pattern":"(SSD)"}
+{"label":"CS_ABREVIATION","pattern":"SSDP"}
+{"label":"CS_ABREVIATION","pattern":"(SSDP)"}
+{"label":"CS_ABREVIATION","pattern":"SSE"}
+{"label":"CS_ABREVIATION","pattern":"(SSE)"}
+{"label":"CS_ABREVIATION","pattern":"SSH"}
+{"label":"CS_ABREVIATION","pattern":"(SSH)"}
+{"label":"CS_ABREVIATION","pattern":"SSI"}
+{"label":"CS_ABREVIATION","pattern":"(SSI)"}
+{"label":"CS_ABREVIATION","pattern":"SSI"}
+{"label":"CS_ABREVIATION","pattern":"(SSI)"}
+{"label":"CS_ABREVIATION","pattern":"SSI"}
+{"label":"CS_ABREVIATION","pattern":"(SSI)"}
+{"label":"CS_ABREVIATION","pattern":"SSID"}
+{"label":"CS_ABREVIATION","pattern":"(SSID)"}
+{"label":"CS_ABREVIATION","pattern":"SSL"}
+{"label":"CS_ABREVIATION","pattern":"(SSL)"}
+{"label":"CS_ABREVIATION","pattern":"SSO"}
+{"label":"CS_ABREVIATION","pattern":"(SSO)"}
+{"label":"CS_ABREVIATION","pattern":"SSP"}
+{"label":"CS_ABREVIATION","pattern":"(SSP)"}
+{"label":"CS_ABREVIATION","pattern":"SSSE"}
+{"label":"CS_ABREVIATION","pattern":"(SSSE)"}
+{"label":"CS_ABREVIATION","pattern":"SSSP"}
+{"label":"CS_ABREVIATION","pattern":"(SSSP)"}
+{"label":"CS_ABREVIATION","pattern":"SSTP"}
+{"label":"CS_ABREVIATION","pattern":"(SSTP)"}
+{"label":"CS_ABREVIATION","pattern":"su"}
+{"label":"CS_ABREVIATION","pattern":"(su)"}
+{"label":"CS_ABREVIATION","pattern":"SUS"}
+{"label":"CS_ABREVIATION","pattern":"(SUS)"}
+{"label":"CS_ABREVIATION","pattern":"SUSE"}
+{"label":"CS_ABREVIATION","pattern":"(SUSE)"}
+{"label":"CS_ABREVIATION","pattern":"SVC"}
+{"label":"CS_ABREVIATION","pattern":"(SVC)"}
+{"label":"CS_ABREVIATION","pattern":"SVG"}
+{"label":"CS_ABREVIATION","pattern":"(SVG)"}
+{"label":"CS_ABREVIATION","pattern":"SVGA"}
+{"label":"CS_ABREVIATION","pattern":"(SVGA)"}
+{"label":"CS_ABREVIATION","pattern":"SVD"}
+{"label":"CS_ABREVIATION","pattern":"(SVD)"}
+{"label":"CS_ABREVIATION","pattern":"SWF"}
+{"label":"CS_ABREVIATION","pattern":"(SWF)"}
+{"label":"CS_ABREVIATION","pattern":"SWT"}
+{"label":"CS_ABREVIATION","pattern":"(SWT)"}
+{"label":"CS_ABREVIATION","pattern":"Sysop"}
+{"label":"CS_ABREVIATION","pattern":"(Sysop)"}
+{"label":"CS_ABREVIATION","pattern":"SOLID"}
+{"label":"CS_ABREVIATION","pattern":"(SOLID)"}
+{"label":"CS_ABREVIATION","pattern":"TAO"}
+{"label":"CS_ABREVIATION","pattern":"(TAO)"}
+{"label":"CS_ABREVIATION","pattern":"TAPI"}
+{"label":"CS_ABREVIATION","pattern":"(TAPI)"}
+{"label":"CS_ABREVIATION","pattern":"TASM"}
+{"label":"CS_ABREVIATION","pattern":"(TASM)"}
+{"label":"CS_ABREVIATION","pattern":"TB"}
+{"label":"CS_ABREVIATION","pattern":"(TB)"}
+{"label":"CS_ABREVIATION","pattern":"Tcl"}
+{"label":"CS_ABREVIATION","pattern":"(Tcl)"}
+{"label":"CS_ABREVIATION","pattern":"TCP"}
+{"label":"CS_ABREVIATION","pattern":"(TCP)"}
+{"label":"CS_ABREVIATION","pattern":"TCP/IP"}
+{"label":"CS_ABREVIATION","pattern":"(TCP/IP)"}
+{"label":"CS_ABREVIATION","pattern":"TCU"}
+{"label":"CS_ABREVIATION","pattern":"(TCU)"}
+{"label":"CS_ABREVIATION","pattern":"TDMA"}
+{"label":"CS_ABREVIATION","pattern":"(TDMA)"}
+{"label":"CS_ABREVIATION","pattern":"TFT"}
+{"label":"CS_ABREVIATION","pattern":"(TFT)"}
+{"label":"CS_ABREVIATION","pattern":"TFTP"}
+{"label":"CS_ABREVIATION","pattern":"(TFTP)"}
+{"label":"CS_ABREVIATION","pattern":"TI"}
+{"label":"CS_ABREVIATION","pattern":"(TI)"}
+{"label":"CS_ABREVIATION","pattern":"TIFF"}
+{"label":"CS_ABREVIATION","pattern":"(TIFF)"}
+{"label":"CS_ABREVIATION","pattern":"TLA"}
+{"label":"CS_ABREVIATION","pattern":"(TLA)"}
+{"label":"CS_ABREVIATION","pattern":"TLD"}
+{"label":"CS_ABREVIATION","pattern":"(TLD)"}
+{"label":"CS_ABREVIATION","pattern":"TLS"}
+{"label":"CS_ABREVIATION","pattern":"(TLS)"}
+{"label":"CS_ABREVIATION","pattern":"TLS"}
+{"label":"CS_ABREVIATION","pattern":"(TLS)"}
+{"label":"CS_ABREVIATION","pattern":"TLV"}
+{"label":"CS_ABREVIATION","pattern":"(TLV)"}
+{"label":"CS_ABREVIATION","pattern":"tmp"}
+{"label":"CS_ABREVIATION","pattern":"(tmp)"}
+{"label":"CS_ABREVIATION","pattern":"TNC"}
+{"label":"CS_ABREVIATION","pattern":"(TNC)"}
+{"label":"CS_ABREVIATION","pattern":"TNC"}
+{"label":"CS_ABREVIATION","pattern":"(TNC)"}
+{"label":"CS_ABREVIATION","pattern":"TPF"}
+{"label":"CS_ABREVIATION","pattern":"(TPF)"}
+{"label":"CS_ABREVIATION","pattern":"TPM"}
+{"label":"CS_ABREVIATION","pattern":"(TPM)"}
+{"label":"CS_ABREVIATION","pattern":"TROFF"}
+{"label":"CS_ABREVIATION","pattern":"(TROFF)"}
+{"label":"CS_ABREVIATION","pattern":"TRON"}
+{"label":"CS_ABREVIATION","pattern":"(TRON)"}
+{"label":"CS_ABREVIATION","pattern":"TRON"}
+{"label":"CS_ABREVIATION","pattern":"(TRON)"}
+{"label":"CS_ABREVIATION","pattern":"TRSDOS"}
+{"label":"CS_ABREVIATION","pattern":"(TRSDOS)"}
+{"label":"CS_ABREVIATION","pattern":"TSO"}
+{"label":"CS_ABREVIATION","pattern":"(TSO)"}
+{"label":"CS_ABREVIATION","pattern":"TSP"}
+{"label":"CS_ABREVIATION","pattern":"(TSP)"}
+{"label":"CS_ABREVIATION","pattern":"TSR"}
+{"label":"CS_ABREVIATION","pattern":"(TSR)"}
+{"label":"CS_ABREVIATION","pattern":"TTA"}
+{"label":"CS_ABREVIATION","pattern":"(TTA)"}
+{"label":"CS_ABREVIATION","pattern":"TTF"}
+{"label":"CS_ABREVIATION","pattern":"(TTF)"}
+{"label":"CS_ABREVIATION","pattern":"TTL"}
+{"label":"CS_ABREVIATION","pattern":"(TTL)"}
+{"label":"CS_ABREVIATION","pattern":"TTL"}
+{"label":"CS_ABREVIATION","pattern":"(TTL)"}
+{"label":"CS_ABREVIATION","pattern":"TTS"}
+{"label":"CS_ABREVIATION","pattern":"(TTS)"}
+{"label":"CS_ABREVIATION","pattern":"TTY"}
+{"label":"CS_ABREVIATION","pattern":"(TTY)"}
+{"label":"CS_ABREVIATION","pattern":"TUCOWS"}
+{"label":"CS_ABREVIATION","pattern":"(TUCOWS)"}
+{"label":"CS_ABREVIATION","pattern":"TUG"}
+{"label":"CS_ABREVIATION","pattern":"(TUG)"}
+{"label":"CS_ABREVIATION","pattern":"TWAIN"}
+{"label":"CS_ABREVIATION","pattern":"(TWAIN)"}
+{"label":"CS_ABREVIATION","pattern":"UAAG"}
+{"label":"CS_ABREVIATION","pattern":"(UAAG)"}
+{"label":"CS_ABREVIATION","pattern":"UAC"}
+{"label":"CS_ABREVIATION","pattern":"(UAC)"}
+{"label":"CS_ABREVIATION","pattern":"UART"}
+{"label":"CS_ABREVIATION","pattern":"(UART)"}
+{"label":"CS_ABREVIATION","pattern":"UAT"}
+{"label":"CS_ABREVIATION","pattern":"(UAT)"}
+{"label":"CS_ABREVIATION","pattern":"UB"}
+{"label":"CS_ABREVIATION","pattern":"(UB)"}
+{"label":"CS_ABREVIATION","pattern":"UCS"}
+{"label":"CS_ABREVIATION","pattern":"(UCS)"}
+{"label":"CS_ABREVIATION","pattern":"UDDI"}
+{"label":"CS_ABREVIATION","pattern":"(UDDI)"}
+{"label":"CS_ABREVIATION","pattern":"UDMA"}
+{"label":"CS_ABREVIATION","pattern":"(UDMA)"}
+{"label":"CS_ABREVIATION","pattern":"UDP"}
+{"label":"CS_ABREVIATION","pattern":"(UDP)"}
+{"label":"CS_ABREVIATION","pattern":"UEFI"}
+{"label":"CS_ABREVIATION","pattern":"(UEFI)"}
+{"label":"CS_ABREVIATION","pattern":"UHF"}
+{"label":"CS_ABREVIATION","pattern":"(UHF)"}
+{"label":"CS_ABREVIATION","pattern":"UI"}
+{"label":"CS_ABREVIATION","pattern":"(UI)"}
+{"label":"CS_ABREVIATION","pattern":"UL"}
+{"label":"CS_ABREVIATION","pattern":"(UL)"}
+{"label":"CS_ABREVIATION","pattern":"ULA"}
+{"label":"CS_ABREVIATION","pattern":"(ULA)"}
+{"label":"CS_ABREVIATION","pattern":"ULSI"}
+{"label":"CS_ABREVIATION","pattern":"(ULSI)"}
+{"label":"CS_ABREVIATION","pattern":"UMA"}
+{"label":"CS_ABREVIATION","pattern":"(UMA)"}
+{"label":"CS_ABREVIATION","pattern":"UMB"}
+{"label":"CS_ABREVIATION","pattern":"(UMB)"}
+{"label":"CS_ABREVIATION","pattern":"UML"}
+{"label":"CS_ABREVIATION","pattern":"(UML)"}
+{"label":"CS_ABREVIATION","pattern":"UML"}
+{"label":"CS_ABREVIATION","pattern":"(UML)"}
+{"label":"CS_ABREVIATION","pattern":"UMPC"}
+{"label":"CS_ABREVIATION","pattern":"(UMPC)"}
+{"label":"CS_ABREVIATION","pattern":"UMTS"}
+{"label":"CS_ABREVIATION","pattern":"(UMTS)"}
+{"label":"CS_ABREVIATION","pattern":"UNC"}
+{"label":"CS_ABREVIATION","pattern":"(UNC)"}
+{"label":"CS_ABREVIATION","pattern":"UNIVAC"}
+{"label":"CS_ABREVIATION","pattern":"(UNIVAC)"}
+{"label":"CS_ABREVIATION","pattern":"UPS"}
+{"label":"CS_ABREVIATION","pattern":"(UPS)"}
+{"label":"CS_ABREVIATION","pattern":"URI"}
+{"label":"CS_ABREVIATION","pattern":"(URI)"}
+{"label":"CS_ABREVIATION","pattern":"URL"}
+{"label":"CS_ABREVIATION","pattern":"(URL)"}
+{"label":"CS_ABREVIATION","pattern":"URN"}
+{"label":"CS_ABREVIATION","pattern":"(URN)"}
+{"label":"CS_ABREVIATION","pattern":"USB"}
+{"label":"CS_ABREVIATION","pattern":"(USB)"}
+{"label":"CS_ABREVIATION","pattern":"usr"}
+{"label":"CS_ABREVIATION","pattern":"(usr)"}
+{"label":"CS_ABREVIATION","pattern":"USR"}
+{"label":"CS_ABREVIATION","pattern":"(USR)"}
+{"label":"CS_ABREVIATION","pattern":"UTC"}
+{"label":"CS_ABREVIATION","pattern":"(UTC)"}
+{"label":"CS_ABREVIATION","pattern":"UTF"}
+{"label":"CS_ABREVIATION","pattern":"(UTF)"}
+{"label":"CS_ABREVIATION","pattern":"UTP"}
+{"label":"CS_ABREVIATION","pattern":"(UTP)"}
+{"label":"CS_ABREVIATION","pattern":"UTRAN"}
+{"label":"CS_ABREVIATION","pattern":"(UTRAN)"}
+{"label":"CS_ABREVIATION","pattern":"UUCP"}
+{"label":"CS_ABREVIATION","pattern":"(UUCP)"}
+{"label":"CS_ABREVIATION","pattern":"UUID"}
+{"label":"CS_ABREVIATION","pattern":"(UUID)"}
+{"label":"CS_ABREVIATION","pattern":"UUN"}
+{"label":"CS_ABREVIATION","pattern":"(UUN)"}
+{"label":"CS_ABREVIATION","pattern":"UVC"}
+{"label":"CS_ABREVIATION","pattern":"(UVC)"}
+{"label":"CS_ABREVIATION","pattern":"UWP"}
+{"label":"CS_ABREVIATION","pattern":"(UWP)"}
+{"label":"CS_ABREVIATION","pattern":"UX"}
+{"label":"CS_ABREVIATION","pattern":"(UX)"}
+{"label":"CS_ABREVIATION","pattern":"var"}
+{"label":"CS_ABREVIATION","pattern":"(var)"}
+{"label":"CS_ABREVIATION","pattern":"VoLTE"}
+{"label":"CS_ABREVIATION","pattern":"(VoLTE)"}
+{"label":"CS_ABREVIATION","pattern":"VAX"}
+{"label":"CS_ABREVIATION","pattern":"(VAX)"}
+{"label":"CS_ABREVIATION","pattern":"VCPI"}
+{"label":"CS_ABREVIATION","pattern":"(VCPI)"}
+{"label":"CS_ABREVIATION","pattern":"VB"}
+{"label":"CS_ABREVIATION","pattern":"(VB)"}
+{"label":"CS_ABREVIATION","pattern":"VBA"}
+{"label":"CS_ABREVIATION","pattern":"(VBA)"}
+{"label":"CS_ABREVIATION","pattern":"VBS"}
+{"label":"CS_ABREVIATION","pattern":"(VBS)"}
+{"label":"CS_ABREVIATION","pattern":"VDI"}
+{"label":"CS_ABREVIATION","pattern":"(VDI)"}
+{"label":"CS_ABREVIATION","pattern":"VDU"}
+{"label":"CS_ABREVIATION","pattern":"(VDU)"}
+{"label":"CS_ABREVIATION","pattern":"VDM"}
+{"label":"CS_ABREVIATION","pattern":"(VDM)"}
+{"label":"CS_ABREVIATION","pattern":"VDSL"}
+{"label":"CS_ABREVIATION","pattern":"(VDSL)"}
+{"label":"CS_ABREVIATION","pattern":"VESA"}
+{"label":"CS_ABREVIATION","pattern":"(VESA)"}
+{"label":"CS_ABREVIATION","pattern":"VFAT"}
+{"label":"CS_ABREVIATION","pattern":"(VFAT)"}
+{"label":"CS_ABREVIATION","pattern":"VHD"}
+{"label":"CS_ABREVIATION","pattern":"(VHD)"}
+{"label":"CS_ABREVIATION","pattern":"VFS"}
+{"label":"CS_ABREVIATION","pattern":"(VFS)"}
+{"label":"CS_ABREVIATION","pattern":"VG"}
+{"label":"CS_ABREVIATION","pattern":"(VG)"}
+{"label":"CS_ABREVIATION","pattern":"VGA"}
+{"label":"CS_ABREVIATION","pattern":"(VGA)"}
+{"label":"CS_ABREVIATION","pattern":"VHF"}
+{"label":"CS_ABREVIATION","pattern":"(VHF)"}
+{"label":"CS_ABREVIATION","pattern":"VIRUS"}
+{"label":"CS_ABREVIATION","pattern":"(VIRUS)"}
+{"label":"CS_ABREVIATION","pattern":"VLAN"}
+{"label":"CS_ABREVIATION","pattern":"(VLAN)"}
+{"label":"CS_ABREVIATION","pattern":"VLSM"}
+{"label":"CS_ABREVIATION","pattern":"(VLSM)"}
+{"label":"CS_ABREVIATION","pattern":"VLB"}
+{"label":"CS_ABREVIATION","pattern":"(VLB)"}
+{"label":"CS_ABREVIATION","pattern":"VLF"}
+{"label":"CS_ABREVIATION","pattern":"(VLF)"}
+{"label":"CS_ABREVIATION","pattern":"VLIW"}
+{"label":"CS_ABREVIATION","pattern":"(VLIW)"}
+{"label":"CS_ABREVIATION","pattern":"VLSI"}
+{"label":"CS_ABREVIATION","pattern":"(VLSI)"}
+{"label":"CS_ABREVIATION","pattern":"VM"}
+{"label":"CS_ABREVIATION","pattern":"(VM)"}
+{"label":"CS_ABREVIATION","pattern":"VM"}
+{"label":"CS_ABREVIATION","pattern":"(VM)"}
+{"label":"CS_ABREVIATION","pattern":"VMM"}
+{"label":"CS_ABREVIATION","pattern":"(VMM)"}
+{"label":"CS_ABREVIATION","pattern":"VNC"}
+{"label":"CS_ABREVIATION","pattern":"(VNC)"}
+{"label":"CS_ABREVIATION","pattern":"VOD"}
+{"label":"CS_ABREVIATION","pattern":"(VOD)"}
+{"label":"CS_ABREVIATION","pattern":"VoIP"}
+{"label":"CS_ABREVIATION","pattern":"(VoIP)"}
+{"label":"CS_ABREVIATION","pattern":"VPN"}
+{"label":"CS_ABREVIATION","pattern":"(VPN)"}
+{"label":"CS_ABREVIATION","pattern":"VPS"}
+{"label":"CS_ABREVIATION","pattern":"(VPS)"}
+{"label":"CS_ABREVIATION","pattern":"VPU"}
+{"label":"CS_ABREVIATION","pattern":"(VPU)"}
+{"label":"CS_ABREVIATION","pattern":"VR"}
+{"label":"CS_ABREVIATION","pattern":"(VR)"}
+{"label":"CS_ABREVIATION","pattern":"VRML"}
+{"label":"CS_ABREVIATION","pattern":"(VRML)"}
+{"label":"CS_ABREVIATION","pattern":"VSAM"}
+{"label":"CS_ABREVIATION","pattern":"(VSAM)"}
+{"label":"CS_ABREVIATION","pattern":"VSAT"}
+{"label":"CS_ABREVIATION","pattern":"(VSAT)"}
+{"label":"CS_ABREVIATION","pattern":"VT"}
+{"label":"CS_ABREVIATION","pattern":"(VT)"}
+{"label":"CS_ABREVIATION","pattern":"VTL"}
+{"label":"CS_ABREVIATION","pattern":"(VTL)"}
+{"label":"CS_ABREVIATION","pattern":"VTAM"}
+{"label":"CS_ABREVIATION","pattern":"(VTAM)"}
+{"label":"CS_ABREVIATION","pattern":"VRAM"}
+{"label":"CS_ABREVIATION","pattern":"(VRAM)"}
+{"label":"CS_ABREVIATION","pattern":"W3C"}
+{"label":"CS_ABREVIATION","pattern":"(W3C)"}
+{"label":"CS_ABREVIATION","pattern":"WWDC"}
+{"label":"CS_ABREVIATION","pattern":"(WWDC)"}
+{"label":"CS_ABREVIATION","pattern":"WAFS"}
+{"label":"CS_ABREVIATION","pattern":"(WAFS)"}
+{"label":"CS_ABREVIATION","pattern":"WAI"}
+{"label":"CS_ABREVIATION","pattern":"(WAI)"}
+{"label":"CS_ABREVIATION","pattern":"WAIS"}
+{"label":"CS_ABREVIATION","pattern":"(WAIS)"}
+{"label":"CS_ABREVIATION","pattern":"WAN"}
+{"label":"CS_ABREVIATION","pattern":"(WAN)"}
+{"label":"CS_ABREVIATION","pattern":"WAP"}
+{"label":"CS_ABREVIATION","pattern":"(WAP)"}
+{"label":"CS_ABREVIATION","pattern":"WAP"}
+{"label":"CS_ABREVIATION","pattern":"(WAP)"}
+{"label":"CS_ABREVIATION","pattern":"WASM"}
+{"label":"CS_ABREVIATION","pattern":"(WASM)"}
+{"label":"CS_ABREVIATION","pattern":"WBEM"}
+{"label":"CS_ABREVIATION","pattern":"(WBEM)"}
+{"label":"CS_ABREVIATION","pattern":"WCAG"}
+{"label":"CS_ABREVIATION","pattern":"(WCAG)"}
+{"label":"CS_ABREVIATION","pattern":"WCF"}
+{"label":"CS_ABREVIATION","pattern":"(WCF)"}
+{"label":"CS_ABREVIATION","pattern":"WDM"}
+{"label":"CS_ABREVIATION","pattern":"(WDM)"}
+{"label":"CS_ABREVIATION","pattern":"WebDAV"}
+{"label":"CS_ABREVIATION","pattern":"(WebDAV)"}
+{"label":"CS_ABREVIATION","pattern":"WEP"}
+{"label":"CS_ABREVIATION","pattern":"(WEP)"}
+{"label":"CS_ABREVIATION","pattern":"WFI"}
+{"label":"CS_ABREVIATION","pattern":"(WFI)"}
+{"label":"CS_ABREVIATION","pattern":"Wi-Fi"}
+{"label":"CS_ABREVIATION","pattern":"(Wi-Fi)"}
+{"label":"CS_ABREVIATION","pattern":"WiMAX"}
+{"label":"CS_ABREVIATION","pattern":"(WiMAX)"}
+{"label":"CS_ABREVIATION","pattern":"WinFS"}
+{"label":"CS_ABREVIATION","pattern":"(WinFS)"}
+{"label":"CS_ABREVIATION","pattern":"WinRT"}
+{"label":"CS_ABREVIATION","pattern":"(WinRT)"}
+{"label":"CS_ABREVIATION","pattern":"WINS"}
+{"label":"CS_ABREVIATION","pattern":"(WINS)"}
+{"label":"CS_ABREVIATION","pattern":"WLAN"}
+{"label":"CS_ABREVIATION","pattern":"(WLAN)"}
+{"label":"CS_ABREVIATION","pattern":"WMA"}
+{"label":"CS_ABREVIATION","pattern":"(WMA)"}
+{"label":"CS_ABREVIATION","pattern":"WMI"}
+{"label":"CS_ABREVIATION","pattern":"(WMI)"}
+{"label":"CS_ABREVIATION","pattern":"WMV"}
+{"label":"CS_ABREVIATION","pattern":"(WMV)"}
+{"label":"CS_ABREVIATION","pattern":"WNS"}
+{"label":"CS_ABREVIATION","pattern":"(WNS)"}
+{"label":"CS_ABREVIATION","pattern":"WOL"}
+{"label":"CS_ABREVIATION","pattern":"(WOL)"}
+{"label":"CS_ABREVIATION","pattern":"WOR"}
+{"label":"CS_ABREVIATION","pattern":"(WOR)"}
+{"label":"CS_ABREVIATION","pattern":"WORA"}
+{"label":"CS_ABREVIATION","pattern":"(WORA)"}
+{"label":"CS_ABREVIATION","pattern":"WORE"}
+{"label":"CS_ABREVIATION","pattern":"(WORE)"}
+{"label":"CS_ABREVIATION","pattern":"WORM"}
+{"label":"CS_ABREVIATION","pattern":"(WORM)"}
+{"label":"CS_ABREVIATION","pattern":"WPA"}
+{"label":"CS_ABREVIATION","pattern":"(WPA)"}
+{"label":"CS_ABREVIATION","pattern":"WPAD"}
+{"label":"CS_ABREVIATION","pattern":"(WPAD)"}
+{"label":"CS_ABREVIATION","pattern":"WPAN"}
+{"label":"CS_ABREVIATION","pattern":"(WPAN)"}
+{"label":"CS_ABREVIATION","pattern":"WPF"}
+{"label":"CS_ABREVIATION","pattern":"(WPF)"}
+{"label":"CS_ABREVIATION","pattern":"WS-D"}
+{"label":"CS_ABREVIATION","pattern":"(WS-D)"}
+{"label":"CS_ABREVIATION","pattern":"WSDL"}
+{"label":"CS_ABREVIATION","pattern":"(WSDL)"}
+{"label":"CS_ABREVIATION","pattern":"WSFL"}
+{"label":"CS_ABREVIATION","pattern":"(WSFL)"}
+{"label":"CS_ABREVIATION","pattern":"WUSB"}
+{"label":"CS_ABREVIATION","pattern":"(WUSB)"}
+{"label":"CS_ABREVIATION","pattern":"WWAN"}
+{"label":"CS_ABREVIATION","pattern":"(WWAN)"}
+{"label":"CS_ABREVIATION","pattern":"WWID"}
+{"label":"CS_ABREVIATION","pattern":"(WWID)"}
+{"label":"CS_ABREVIATION","pattern":"WWN"}
+{"label":"CS_ABREVIATION","pattern":"(WWN)"}
+{"label":"CS_ABREVIATION","pattern":"WWW"}
+{"label":"CS_ABREVIATION","pattern":"(WWW)"}
+{"label":"CS_ABREVIATION","pattern":"WYSIWYG"}
+{"label":"CS_ABREVIATION","pattern":"(WYSIWYG)"}
+{"label":"CS_ABREVIATION","pattern":"WZC"}
+{"label":"CS_ABREVIATION","pattern":"(WZC)"}
+{"label":"CS_ABREVIATION","pattern":"XAG"}
+{"label":"CS_ABREVIATION","pattern":"(XAG)"}
+{"label":"CS_ABREVIATION","pattern":"XAML"}
+{"label":"CS_ABREVIATION","pattern":"(XAML)"}
+{"label":"CS_ABREVIATION","pattern":"XDM"}
+{"label":"CS_ABREVIATION","pattern":"(XDM)"}
+{"label":"CS_ABREVIATION","pattern":"XDMCP"}
+{"label":"CS_ABREVIATION","pattern":"(XDMCP)"}
+{"label":"CS_ABREVIATION","pattern":"XCBL"}
+{"label":"CS_ABREVIATION","pattern":"(XCBL)"}
+{"label":"CS_ABREVIATION","pattern":"XHTML"}
+{"label":"CS_ABREVIATION","pattern":"(XHTML)"}
+{"label":"CS_ABREVIATION","pattern":"XILP"}
+{"label":"CS_ABREVIATION","pattern":"(XILP)"}
+{"label":"CS_ABREVIATION","pattern":"XML"}
+{"label":"CS_ABREVIATION","pattern":"(XML)"}
+{"label":"CS_ABREVIATION","pattern":"XMMS"}
+{"label":"CS_ABREVIATION","pattern":"(XMMS)"}
+{"label":"CS_ABREVIATION","pattern":"XMPP"}
+{"label":"CS_ABREVIATION","pattern":"(XMPP)"}
+{"label":"CS_ABREVIATION","pattern":"XMS"}
+{"label":"CS_ABREVIATION","pattern":"(XMS)"}
+{"label":"CS_ABREVIATION","pattern":"XNS"}
+{"label":"CS_ABREVIATION","pattern":"(XNS)"}
+{"label":"CS_ABREVIATION","pattern":"XP"}
+{"label":"CS_ABREVIATION","pattern":"(XP)"}
+{"label":"CS_ABREVIATION","pattern":"XP"}
+{"label":"CS_ABREVIATION","pattern":"(XP)"}
+{"label":"CS_ABREVIATION","pattern":"XPCOM"}
+{"label":"CS_ABREVIATION","pattern":"(XPCOM)"}
+{"label":"CS_ABREVIATION","pattern":"XPI"}
+{"label":"CS_ABREVIATION","pattern":"(XPI)"}
+{"label":"CS_ABREVIATION","pattern":"XPIDL"}
+{"label":"CS_ABREVIATION","pattern":"(XPIDL)"}
+{"label":"CS_ABREVIATION","pattern":"XPS"}
+{"label":"CS_ABREVIATION","pattern":"(XPS)"}
+{"label":"CS_ABREVIATION","pattern":"XSD"}
+{"label":"CS_ABREVIATION","pattern":"(XSD)"}
+{"label":"CS_ABREVIATION","pattern":"XSL"}
+{"label":"CS_ABREVIATION","pattern":"(XSL)"}
+{"label":"CS_ABREVIATION","pattern":"XSL-FO"}
+{"label":"CS_ABREVIATION","pattern":"(XSL-FO)"}
+{"label":"CS_ABREVIATION","pattern":"XSLT"}
+{"label":"CS_ABREVIATION","pattern":"(XSLT)"}
+{"label":"CS_ABREVIATION","pattern":"XSS"}
+{"label":"CS_ABREVIATION","pattern":"(XSS)"}
+{"label":"CS_ABREVIATION","pattern":"XTF"}
+{"label":"CS_ABREVIATION","pattern":"(XTF)"}
+{"label":"CS_ABREVIATION","pattern":"XTF"}
+{"label":"CS_ABREVIATION","pattern":"(XTF)"}
+{"label":"CS_ABREVIATION","pattern":"XUL"}
+{"label":"CS_ABREVIATION","pattern":"(XUL)"}
+{"label":"CS_ABREVIATION","pattern":"XVGA"}
+{"label":"CS_ABREVIATION","pattern":"(XVGA)"}
+{"label":"CS_ABREVIATION","pattern":"Y2K"}
+{"label":"CS_ABREVIATION","pattern":"(Y2K)"}
+{"label":"CS_ABREVIATION","pattern":"YAAF"}
+{"label":"CS_ABREVIATION","pattern":"(YAAF)"}
+{"label":"CS_ABREVIATION","pattern":"YACC"}
+{"label":"CS_ABREVIATION","pattern":"(YACC)"}
+{"label":"CS_ABREVIATION","pattern":"YAGNI"}
+{"label":"CS_ABREVIATION","pattern":"(YAGNI)"}
+{"label":"CS_ABREVIATION","pattern":"YAML"}
+{"label":"CS_ABREVIATION","pattern":"(YAML)"}
+{"label":"CS_ABREVIATION","pattern":"YARN"}
+{"label":"CS_ABREVIATION","pattern":"(YARN)"}
+{"label":"CS_ABREVIATION","pattern":"YaST"}
+{"label":"CS_ABREVIATION","pattern":"(YaST)"}
+{"label":"CS_ABREVIATION","pattern":"ZCAV"}
+{"label":"CS_ABREVIATION","pattern":"(ZCAV)"}
+{"label":"CS_ABREVIATION","pattern":"ZCS"}
+{"label":"CS_ABREVIATION","pattern":"(ZCS)"}
+{"label":"CS_ABREVIATION","pattern":"ZIF"}
+{"label":"CS_ABREVIATION","pattern":"(ZIF)"}
+{"label":"CS_ABREVIATION","pattern":"ZIFS"}
+{"label":"CS_ABREVIATION","pattern":"(ZIFS)"}
+{"label":"CS_ABREVIATION","pattern":"ZIP"}
+{"label":"CS_ABREVIATION","pattern":"(ZIP)"}
+{"label":"CS_ABREVIATION","pattern":"ZISC"}
+{"label":"CS_ABREVIATION","pattern":"(ZISC)"}
+{"label":"CS_ABREVIATION","pattern":"ZOI"}
+{"label":"CS_ABREVIATION","pattern":"(ZOI)"}
+{"label":"CS_ABREVIATION","pattern":"ZOPE"}
+{"label":"CS_ABREVIATION","pattern":"(ZOPE)"}
+{"label":"CS_ABREVIATION","pattern":"ZMA"}
+{"label":"CS_ABREVIATION","pattern":"(ZMA)"}
+{"label":"CS_ABREVIATION","pattern":"ZPL"}
+{"label":"CS_ABREVIATION","pattern":"(ZPL)"}
+{"label":"JAVA_TERM","pattern":"abstract"}
+{"label":"JAVA_TERM","pattern":"abstract class"}
+{"label":"JAVA_TERM","pattern":"abstract method"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit (AWT)"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit AWT"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit"}
+{"label":"JAVA_TERM","pattern":"access control"}
+{"label":"JAVA_TERM","pattern":"ACID"}
+{"label":"JAVA_TERM","pattern":"actual parameter list"}
+{"label":"JAVA_TERM","pattern":"API"}
+{"label":"JAVA_TERM","pattern":"applet"}
+{"label":"JAVA_TERM","pattern":"argument"}
+{"label":"JAVA_TERM","pattern":"array"}
+{"label":"JAVA_TERM","pattern":"ASCII"}
+{"label":"JAVA_TERM","pattern":"atomic"}
+{"label":"JAVA_TERM","pattern":"authentication"}
+{"label":"JAVA_TERM","pattern":"authorization"}
+{"label":"JAVA_TERM","pattern":"autoboxing"}
+{"label":"JAVA_TERM","pattern":"bean"}
+{"label":"JAVA_TERM","pattern":"binary operator"}
+{"label":"JAVA_TERM","pattern":"bit"}
+{"label":"JAVA_TERM","pattern":"bitwise operator"}
+{"label":"JAVA_TERM","pattern":"block"}
+{"label":"JAVA_TERM","pattern":"boolean"}
+{"label":"JAVA_TERM","pattern":"break"}
+{"label":"JAVA_TERM","pattern":"byte"}
+{"label":"JAVA_TERM","pattern":"bytecode"}
+{"label":"JAVA_TERM","pattern":"case"}
+{"label":"JAVA_TERM","pattern":"casting"}
+{"label":"JAVA_TERM","pattern":"catch"}
+{"label":"JAVA_TERM","pattern":"char"}
+{"label":"JAVA_TERM","pattern":"class"}
+{"label":"JAVA_TERM","pattern":"class method"}
+{"label":"JAVA_TERM","pattern":"class variable"}
+{"label":"JAVA_TERM","pattern":"classpath"}
+{"label":"JAVA_TERM","pattern":"client"}
+{"label":"JAVA_TERM","pattern":"codebase"}
+{"label":"JAVA_TERM","pattern":"comment"}
+{"label":"JAVA_TERM","pattern":"commit"}
+{"label":"JAVA_TERM","pattern":"compilation unit"}
+{"label":"JAVA_TERM","pattern":"compiler"}
+{"label":"JAVA_TERM","pattern":"compositing"}
+{"label":"JAVA_TERM","pattern":"constructor"}
+{"label":"JAVA_TERM","pattern":"const"}
+{"label":"JAVA_TERM","pattern":"continue"}
+{"label":"JAVA_TERM","pattern":"conversational state"}
+{"label":"JAVA_TERM","pattern":"CORBA"}
+{"label":"JAVA_TERM","pattern":"core class"}
+{"label":"JAVA_TERM","pattern":"core packages"}
+{"label":"JAVA_TERM","pattern":"credentials"}
+{"label":"JAVA_TERM","pattern":"critical section"}
+{"label":"JAVA_TERM","pattern":"declaration"}
+{"label":"JAVA_TERM","pattern":"default"}
+{"label":"JAVA_TERM","pattern":"definition"}
+{"label":"JAVA_TERM","pattern":"delegation"}
+{"label":"JAVA_TERM","pattern":"deprecation"}
+{"label":"JAVA_TERM","pattern":"derived from"}
+{"label":"JAVA_TERM","pattern":"distributed"}
+{"label":"JAVA_TERM","pattern":"distributed application"}
+{"label":"JAVA_TERM","pattern":"do"}
+{"label":"JAVA_TERM","pattern":"DOM"}
+{"label":"JAVA_TERM","pattern":"double"}
+{"label":"JAVA_TERM","pattern":"double precision"}
+{"label":"JAVA_TERM","pattern":"DTD"}
+{"label":"JAVA_TERM","pattern":"else"}
+{"label":"JAVA_TERM","pattern":"EmbeddedJava Technology"}
+{"label":"JAVA_TERM","pattern":"encapsulation"}
+{"label":"JAVA_TERM","pattern":"enum"}
+{"label":"JAVA_TERM","pattern":"enumerated type"}
+{"label":"JAVA_TERM","pattern":"exception"}
+{"label":"JAVA_TERM","pattern":"exception handler"}
+{"label":"JAVA_TERM","pattern":"executable content"}
+{"label":"JAVA_TERM","pattern":"extends"}
+{"label":"JAVA_TERM","pattern":"field"}
+{"label":"JAVA_TERM","pattern":"final"}
+{"label":"JAVA_TERM","pattern":"finally"}
+{"label":"JAVA_TERM","pattern":"float"}
+{"label":"JAVA_TERM","pattern":"for"}
+{"label":"JAVA_TERM","pattern":"FTP"}
+{"label":"JAVA_TERM","pattern":"formal parameter list"}
+{"label":"JAVA_TERM","pattern":"garbage collection"}
+{"label":"JAVA_TERM","pattern":"generic"}
+{"label":"JAVA_TERM","pattern":"goto"}
+{"label":"JAVA_TERM","pattern":"group"}
+{"label":"JAVA_TERM","pattern":"GUI"}
+{"label":"JAVA_TERM","pattern":"hexadecimal"}
+{"label":"JAVA_TERM","pattern":"hierarchy"}
+{"label":"JAVA_TERM","pattern":"HTML"}
+{"label":"JAVA_TERM","pattern":"HTTP"}
+{"label":"JAVA_TERM","pattern":"HTTPS"}
+{"label":"JAVA_TERM","pattern":"IDL"}
+{"label":"JAVA_TERM","pattern":"identifier"}
+{"label":"JAVA_TERM","pattern":"IIOP"}
+{"label":"JAVA_TERM","pattern":"if"}
+{"label":"JAVA_TERM","pattern":"impersonation"}
+{"label":"JAVA_TERM","pattern":"implements"}
+{"label":"JAVA_TERM","pattern":"import"}
+{"label":"JAVA_TERM","pattern":"inheritance"}
+{"label":"JAVA_TERM","pattern":"instance"}
+{"label":"JAVA_TERM","pattern":"instance method"}
+{"label":"JAVA_TERM","pattern":"instance variable"}
+{"label":"JAVA_TERM","pattern":"instanceof"}
+{"label":"JAVA_TERM","pattern":"int"}
+{"label":"JAVA_TERM","pattern":"interface"}
+{"label":"JAVA_TERM","pattern":"Internet"}
+{"label":"JAVA_TERM","pattern":"IP"}
+{"label":"JAVA_TERM","pattern":"interpreter"}
+{"label":"JAVA_TERM","pattern":"JAIN"}
+{"label":"JAVA_TERM","pattern":"JAR"}
+{"label":"JAVA_TERM","pattern":"Java"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition (J2EE platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition J2EE platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition (J2ME platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition J2ME platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition (J2SE platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition J2SE platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 SDK, Standard Edition"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks (JAIN)"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks JAIN"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks JAIN"}
+{"label":"JAVA_TERM","pattern":"Java Card API"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit (JCK)"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit JCK"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit JCK"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity (JDBC)"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity JDBC"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit (JDK)"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit JDK"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes (JFC)"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes JFC"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes"}
+{"label":"JAVA_TERM","pattern":"Java IDL"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language (IDL)"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language IDL"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language"}
+{"label":"JAVA_TERM","pattern":"Java Media APIs"}
+{"label":"JAVA_TERM","pattern":"Java Media Framework"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface (JNDI)"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface JNDI"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface"}
+{"label":"JAVA_TERM","pattern":"Java Native Interface"}
+{"label":"JAVA_TERM","pattern":"Java Platform"}
+{"label":"JAVA_TERM","pattern":"Java Platform Editions"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation (RMI)"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation RMI"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment (JRE)"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment JRE"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment"}
+{"label":"JAVA_TERM","pattern":"Java virtual machine    1"}
+{"label":"JAVA_TERM","pattern":"JavaBeans"}
+{"label":"JAVA_TERM","pattern":"JavaCheck"}
+{"label":"JAVA_TERM","pattern":"JavaSafe"}
+{"label":"JAVA_TERM","pattern":"JavaScript"}
+{"label":"JAVA_TERM","pattern":"JavaSpaces"}
+{"label":"JAVA_TERM","pattern":"JDBC"}
+{"label":"JAVA_TERM","pattern":"JDK"}
+{"label":"JAVA_TERM","pattern":"JFC"}
+{"label":"JAVA_TERM","pattern":"Jini Technology"}
+{"label":"JAVA_TERM","pattern":"JNDI"}
+{"label":"JAVA_TERM","pattern":"JNI"}
+{"label":"JAVA_TERM","pattern":"JRE"}
+{"label":"JAVA_TERM","pattern":"Just-in-time (JIT) Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time (JIT) Compiler"}
+{"label":"JAVA_TERM","pattern":"Just-in-time JIT Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time JIT Compiler"}
+{"label":"JAVA_TERM","pattern":"Just-in-time  Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time  Compiler"}
+{"label":"JAVA_TERM","pattern":"JVM"}
+{"label":"JAVA_TERM","pattern":"keyword"}
+{"label":"JAVA_TERM","pattern":"lexical"}
+{"label":"JAVA_TERM","pattern":"linker"}
+{"label":"JAVA_TERM","pattern":"literal"}
+{"label":"JAVA_TERM","pattern":"local variable"}
+{"label":"JAVA_TERM","pattern":"long"}
+{"label":"JAVA_TERM","pattern":"member"}
+{"label":"JAVA_TERM","pattern":"method"}
+{"label":"JAVA_TERM","pattern":"multithreaded"}
+{"label":"JAVA_TERM","pattern":"native"}
+{"label":"JAVA_TERM","pattern":"new"}
+{"label":"JAVA_TERM","pattern":"null"}
+{"label":"JAVA_TERM","pattern":"object"}
+{"label":"JAVA_TERM","pattern":"object-oriented design"}
+{"label":"JAVA_TERM","pattern":"object oriented design"}
+{"label":"JAVA_TERM","pattern":"octal"}
+{"label":"JAVA_TERM","pattern":"optional packages"}
+{"label":"JAVA_TERM","pattern":"ORB"}
+{"label":"JAVA_TERM","pattern":"OS principal"}
+{"label":"JAVA_TERM","pattern":"OTS"}
+{"label":"JAVA_TERM","pattern":"overloading"}
+{"label":"JAVA_TERM","pattern":"overriding"}
+{"label":"JAVA_TERM","pattern":"package"}
+{"label":"JAVA_TERM","pattern":"peer"}
+{"label":"JAVA_TERM","pattern":"persistence"}
+{"label":"JAVA_TERM","pattern":"pixel"}
+{"label":"JAVA_TERM","pattern":"POA"}
+{"label":"JAVA_TERM","pattern":"primary key"}
+{"label":"JAVA_TERM","pattern":"primitive type"}
+{"label":"JAVA_TERM","pattern":"principal"}
+{"label":"JAVA_TERM","pattern":"private"}
+{"label":"JAVA_TERM","pattern":"privilege"}
+{"label":"JAVA_TERM","pattern":"process"}
+{"label":"JAVA_TERM","pattern":"property"}
+{"label":"JAVA_TERM","pattern":"profiles"}
+{"label":"JAVA_TERM","pattern":"protected"}
+{"label":"JAVA_TERM","pattern":"public"}
+{"label":"JAVA_TERM","pattern":"raster"}
+{"label":"JAVA_TERM","pattern":"realm"}
+{"label":"JAVA_TERM","pattern":"reference"}
+{"label":"JAVA_TERM","pattern":"return"}
+{"label":"JAVA_TERM","pattern":"RMI"}
+{"label":"JAVA_TERM","pattern":"rollback"}
+{"label":"JAVA_TERM","pattern":"root"}
+{"label":"JAVA_TERM","pattern":"RPC"}
+{"label":"JAVA_TERM","pattern":"runtime system"}
+{"label":"JAVA_TERM","pattern":"SAX"}
+{"label":"JAVA_TERM","pattern":"sandbox"}
+{"label":"JAVA_TERM","pattern":"scope"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer (SSL)"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer SSL"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer"}
+{"label":"JAVA_TERM","pattern":"security attributes"}
+{"label":"JAVA_TERM","pattern":"security context"}
+{"label":"JAVA_TERM","pattern":"security policy domain"}
+{"label":"JAVA_TERM","pattern":"security technology domain"}
+{"label":"JAVA_TERM","pattern":"serialization"}
+{"label":"JAVA_TERM","pattern":"short"}
+{"label":"JAVA_TERM","pattern":"single precision"}
+{"label":"JAVA_TERM","pattern":"SGML"}
+{"label":"JAVA_TERM","pattern":"SOAP"}
+{"label":"JAVA_TERM","pattern":"SQL"}
+{"label":"JAVA_TERM","pattern":"static"}
+{"label":"JAVA_TERM","pattern":"static field"}
+{"label":"JAVA_TERM","pattern":"static method"}
+{"label":"JAVA_TERM","pattern":"stream"}
+{"label":"JAVA_TERM","pattern":"subarray"}
+{"label":"JAVA_TERM","pattern":"subclass"}
+{"label":"JAVA_TERM","pattern":"subtype"}
+{"label":"JAVA_TERM","pattern":"superclass"}
+{"label":"JAVA_TERM","pattern":"super"}
+{"label":"JAVA_TERM","pattern":"supertype"}
+{"label":"JAVA_TERM","pattern":"switch"}
+{"label":"JAVA_TERM","pattern":"Swing"}
+{"label":"JAVA_TERM","pattern":"synchronized"}
+{"label":"JAVA_TERM","pattern":"TCP/IP"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit (TCK)"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit TCK"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit TCK"}
+{"label":"JAVA_TERM","pattern":"thin client"}
+{"label":"JAVA_TERM","pattern":"this"}
+{"label":"JAVA_TERM","pattern":"thread"}
+{"label":"JAVA_TERM","pattern":"throw"}
+{"label":"JAVA_TERM","pattern":"throws"}
+{"label":"JAVA_TERM","pattern":"transaction"}
+{"label":"JAVA_TERM","pattern":"transaction isolation level"}
+{"label":"JAVA_TERM","pattern":"transaction manager"}
+{"label":"JAVA_TERM","pattern":"transient"}
+{"label":"JAVA_TERM","pattern":"try"}
+{"label":"JAVA_TERM","pattern":"type"}
+{"label":"JAVA_TERM","pattern":"Unicode"}
+{"label":"JAVA_TERM","pattern":"URI"}
+{"label":"JAVA_TERM","pattern":"URL"}
+{"label":"JAVA_TERM","pattern":"URN"}
+{"label":"JAVA_TERM","pattern":"variable"}
+{"label":"JAVA_TERM","pattern":"virtual machine"}
+{"label":"JAVA_TERM","pattern":"void"}
+{"label":"JAVA_TERM","pattern":"volatile"}
+{"label":"JAVA_TERM","pattern":"Web server"}
+{"label":"JAVA_TERM","pattern":"while"}
+{"label":"JAVA_TERM","pattern":"world readable files"}
+{"label":"JAVA_TERM","pattern":"wrapper"}

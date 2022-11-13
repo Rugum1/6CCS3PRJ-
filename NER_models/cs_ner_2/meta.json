@@ -18,7 +18,9 @@
   },
   "labels":{
     "entity_ruler":[
-      "CS_TERM"
+      "CS_ABREVIATION",
+      "CS_TERM",
+      "JAVA_TERM"
     ]
   },
   "pipeline":[
