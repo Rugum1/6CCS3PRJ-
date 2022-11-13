@@ -7,34 +7,50 @@ import spacy
 import json
 from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
+from database_functions import DbFunctions
 
-# url = "https://en.wikipedia.org/wiki/Glossary_of_computer_science#instruction"
-# file = "./data/computer_science_glossary.json"
-# scraper = DataScraper(url)
-# sources = scraper.get_specific_tags("dfn")
+# url = "https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations"
 #
-# scraper.write_to_json_file_key_value_pair(file,sources)
+file = "./data/computer_science_abreviations.csv"
+# scraper = DataScraper(url)
+# sources = scraper.get_specific_tags("li")
+# #
+
+# scraper.write_to_json_file(file,sources)
+# db = DbFunctions()
+#
+#
+#
+# sql ='''CREATE TABLE CS_ABREVIATION(
+#    NAME CHAR(100) NOT NULL,
+#    DESCRIPTION VARCHAR NOT NULL
+# )'''
+# db.create_new_table(sql)
+#
+# #
+# db.insert_elements_in_database("CS_ABREVIATION",file)
 
 
 
 # header = ["name","description"]
-# scraper.write_to_csv_file(file,sources,header)
+# scraper.write_to_csv_file_v2(file,sources,header)
 
 
-# with open("./data/computer_science_glossary.csv") as file_obj:
+
+# f = "./data/computer_science_.csv"
+# out = "./data/computer_science_glossary_v2.csv"
 #
-#     # Create reader object by passing the file
-#     # object to DictReader method
-#     reader_obj = csv.DictReader(file_obj)
-#
-#     # Iterate over each row in the csv file
-#     # using reader object
-#     x= 0
-#     for row in reader_obj:
-#         x = x + 1
-#         print(row["name"])
-#         print()
-#     print(x)
+with open(file,'r') as file_obj:
+
+    # Create reader object by passing the file
+    # object to DictReader method
+    reader_obj = csv.DictReader(file_obj)
+
+
+    for row in reader_obj:
+        if row["name"] in (None, ""):
+            print(row["description"])
+
 
 
 # nlp = spacy.load("NER_models/abreviation_ner")

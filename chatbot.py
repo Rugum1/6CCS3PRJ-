@@ -13,8 +13,11 @@ bot = ChatBot(
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
         {
-            'import_path': 'adapters.CsTermsAdapter',
+            'import_path': 'adapters.CSTermsAdapter',
         },
+        {
+            'import_path': 'adapters.CSAbreviationAdapter',
+        }
 
     ],
     database_uri='sqlite:///database.sqlite3'
@@ -29,12 +32,13 @@ while True:
         user_input = input()
         bot_response = bot.get_response(user_input)
 
+
         print(bot_response)
         print()
 
     # Press ctrl-c or ctrl-d on the keyboard to exit
-    except Exception as e:
-           bot_response = "I do not understand what you mean"
-           print(bot_response)
+    # except Exception as e:
+    #        bot_response = "I do not understand what you mean"
+    #        print(e)
     except (KeyboardInterrupt, EOFError, SystemExit):
         break

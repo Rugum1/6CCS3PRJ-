@@ -1,0 +1,1492 @@
+name,description
+1GL,1GL—First-Generation Programming Language
+1NF,1NF—First Normal Form
+10B2,10B2—10BASE-2
+10B5,10B5—10BASE-5
+10B-F,10B-F—10BASE-F
+10B-FB,10B-FB—10BASE-FB
+10B-FL,10B-FL—10BASE-FL
+10B-FP,10B-FP—10BASE-FP
+10B-T,10B-T—10BASE-T
+100B-FX,100B-FX—100BASE-FX
+100B-TX,100B-TX—100BASE-TX
+100BVG,100BVG—100BASE-VG
+286,286—Intel 80286 processor
+2B1Q,2B1Q—2 Binary 1 Quaternary
+2FA,2FA—Two-factor authentication
+2GL,2GL—Second-Generation Programming Language
+2NF,2NF—Second Normal Form
+3GL,3GL—Third-Generation Programming Language
+3GPP,3GPP—3rd Generation Partnership Project-'3G comms
+3GPP2,3GPP2—3rd Generation Partnership Project 2
+3NF,3NF—Third Normal Form
+386,386—Intel 80386 processor
+486,486—Intel 80486 processor
+4B5B,4B5BLF—4 Byte 5 Byte Local Fiber
+4GL,4GL—Fourth-Generation Programming Language
+4NF,4NF—Fourth Normal Form
+5GL,5GL—Fifth-Generation Programming Language
+5NF,5NF—Fifth Normal Form
+6NF,6NF—Sixth Normal Form
+8B10BLF,8B10BLF—8 Byte 10 Byte Local Fiber
+802.11,802.11—Wireless LAN
+AAA,AAA—Authentication Authorization Accounting
+AABB,AABB—Axis Aligned Bounding Box
+AAC,AAC—Advanced Audio Coding
+AAL,AAL—ATM Adaptation Layer
+AALC,AALC—ATM Adaptation Layer Connection
+AARP,AARP—AppleTalk Address Resolution Protocol
+ABAC,ABAC—Attribute-Based Access Control
+ABCL,ABCL—Actor-Based Concurrent Language
+ABI,ABI—Application Binary Interface
+ABM,ABM—Asynchronous Balanced Mode
+ABR,ABR—Area Border Router
+ABR,ABR—Auto Baud-Rate detection
+ABR,ABR—Available Bitrate
+ABR,ABR—Average Bitrate
+AC,AC—Acoustic Coupler
+AC,AC—Alternating Current
+ACD,ACD—Automatic Call Distributor
+ACE,ACE—Advanced Computing Environment
+ACID,ACID—Atomicity Consistency Isolation Durability
+ACK,ACK—ACKnowledgement
+ACK,ACK—Amsterdam Compiler Kit
+ACL,ACL—Access Control List
+ACL,ACL—Active Current Loop
+ACM,ACM—Association for Computing Machinery
+ACME,ACME—Automated Classification of Medical Entities
+ACP,ACP—Airline Control Program
+ACPI,ACPI—Advanced Configuration and Power Interface
+ACR,ACR—Allowed Cell Rate
+ACR,ACR—Attenuation to Crosstalk Ratio
+AD,AD—Active Directory
+AD,AD—Administrative Domain
+ADC,ADC—Analog-to-Digital Converter
+ADC,ADC—Apple Display Connector
+ADB,ADB—Apple Desktop Bus
+ADCCP,ADCCP—Advanced Data Communications Control Procedures
+ADO,ADO—ActiveX Data Objects
+ADSL,ADSL—Asymmetric Digital Subscriber Line
+ADT,ADT—Abstract Data Type
+AE,AE—Adaptive Equalizer
+AES,AES—Advanced Encryption Standard
+AF,AF—Anisotropic Filtering
+AFP,AFP—Apple Filing Protocol
+AGP,AGP—Accelerated Graphics Port
+AH,AH—Active Hub
+AI,AI—Artificial Intelligence
+AIX,AIX—Advanced Interactive eXecutive
+Ajax,Ajax—Asynchronous JavaScript and XML
+AL,AL—Active Link
+AL,AL—Access List
+ALAC,ALAC—Apple Lossless Audio Codec
+ALGOL,ALGOL—Algorithmic Language
+ALSA,ALSA—Advanced Linux Sound Architecture
+ALU,ALU—Arithmetic and Logical Unit
+AM,AM—Access Method
+AM,AM—Active Matrix
+AMOLED,AMOLED—Active-Matrix Organic Light-Emitting Diode
+AM,AM—Active Monitor
+AM,AM—Allied Mastercomputer
+AM,AM—Amplitude Modulation
+AMD,AMD—Advanced Micro Devices
+AMQP,AMQP—Advanced Message Queuing Protocol
+AMR,AMR—Audio Modem Riser
+ANN,ANN—Artificial Neural Network
+ANSI,ANSI—American National Standards Institute
+ANT,ANT—Another Neat Tool
+AoE,AoE—ATA over Ethernet
+AOP,AOP—Aspect-Oriented Programming
+APCI,APCI—Application-Layer Protocol Control Information
+API,API—Application Programming Interface
+APIC,APIC—Advanced Programmable Interrupt Controller
+APIPA,APIPA—Automatic Private IP Addressing
+APL,APL—A Programming Language
+APR,APR—Apache Portable Runtime
+ARC,ARC—Adaptive Replacement Cache
+ARC,ARC—Advanced RISC Computing
+ARIN,ARIN—American Registry for Internet Numbers
+ARM,ARM—Advanced RISC Machines
+AROS,AROS—AROS Research Operating System
+ARP,ARP—Address Resolution Protocol
+ARPA,ARPA—Address and Routing Parameter Area
+ARPA,ARPA—Advanced Research Projects Agency
+ARPANET,ARPANET—Advanced Research Projects Agency Network
+AS,AS—Access Server
+ASCII,ASCII—American Standard Code for Information Interchange
+AuthIP,AuthIP—Authenticated Internet Protocol
+ASG,ASG—Abstract Semantic Graph
+ASIC,ASIC—Application-Specific Integrated Circuit
+ASIMO,ASIMO—Advanced Step in Innovative Mobility
+ASLR,ASLR—Address Space Layout Randomization
+ASM,ASM—Algorithmic State Machine
+ASMP,ASMP—Asymmetric Multiprocessing
+ASN.1,ASN.1—Abstract Syntax Notation 1
+ASP,ASP—Active Server Pages
+ASP,ASP—Application Service Provider
+ASR,ASR—Asynchronous Signal Routine
+AST,AST—Abstract Syntax Tree
+AT,AT—Advanced Technology
+AT,AT—Access Time
+AT,AT—Active Terminator
+ATA,ATA—Advanced Technology Attachment
+ATAG,ATAG—Authoring Tool Accessibility Guidelines
+ATAPI,ATAPI—Advanced Technology Attachment Packet Interface
+ATM,ATM—Asynchronous Transfer Mode
+AuthN,AuthN—Authentication
+AuthZ,AuthZ—Authorization
+AV,AV—Antivirus
+AVC,AVC—Advanced Video Coding
+AVI,AVI—Audio Video Interleaved
+AWK,AWK—Aho Weinberger Kernighan
+AWS,AWS—Amazon Web Services
+AWT,AWT—Abstract Window Toolkit
+B2B,B2B—Business-to-Business
+B2C,B2C—Business-to-Consumer
+B2E,B2E—Business-to-Employee
+BAL,BAL—Basic Assembly Language
+BAM,BAM—Block Availability Map
+Bash,Bash—Bourne-again shell
+BASIC,BASIC—Beginner's All-Purpose Symbolic Instruction Code
+BBP,BBP—Baseband Processor
+BBS,BBS—Bulletin Board System
+BC,BC—Business Continuity
+BCC,BCC—Blind Carbon Copy
+BCD,BCD—Binary Coded Decimal
+BCD,BCD—Boot Configuration Data
+BCNF,BCNF—Boyce–Codd normal form
+BCP,BCP—Business Continuity Planning
+BE,BE—Backend
+BEEP,BEEP—Blocks Extensible Exchange Protocol
+BER,BER—Bit Error Rate
+BFD,BFD—Bidirectional Forwarding Detection
+BFD,BFD—Binary File Descriptor
+BFS,BFS—Breadth-First Search
+BFT,BFT—Byzantine Fault Tolerant
+BGP,BGP—Border Gateway Protocol
+BI,BI—Business Intelligence
+BiDi,BiDi—Bi-Directional
+bin,bin—binary
+BINAC,BINAC—Binary Automatic Computer
+BIND,BIND—Berkeley Internet Name Domain
+BIOS,BIOS—Basic Input Output System
+BJT,BJT—Bipolar Junction Transistor
+bit,bit—binary digit
+Blob,Blob—Binary large object
+Blog,Blog—Web Log
+BMP,BMP—Basic Multilingual Plane
+BNC,BNC—Baby Neill Constant
+BOINC,BOINC—Berkeley Open Infrastructure for Network Computing
+BOM,BOM—Byte Order Mark
+BOOTP,BOOTP—Bootstrap Protocol
+BPDU,BPDU—Bridge Protocol Data Unit
+BPEL,BPEL—Business Process Execution Language
+BPL,BPL—Broadband over Power Lines
+BPM,BPM—Business Process Management
+BPM,BPM—Business Process Modeling
+bps,bps—bits per second
+BRM,BRM—Business Reference Model
+BRMS,BRMS—Business Rule Management System
+BRR,BRR—Business Readiness Rating
+BRS,BRS—Broadband Radio Service
+BSA,BSA—Business Software Alliance
+BSB,BSB—Backside Bus
+BSD,BSD—Berkeley Software Distribution
+BSoD,BSoD—Blue Screen of Death
+BSS,BSS—Block Started by Symbol
+BT,BT—BitTorrent
+BT,BT—Bluetooth
+B TAM,B TAM—Basic Telecommunications Access Method
+BW,BW—Bandwidth
+BYOD,BYOD—Bring Your Own Device
+Byte,Byte—By eight (group of 8 bits)
+CA,CA—Computer Accountancy
+CAD,CAD—Computer-Aided Design
+CAE,CAE—Computer-Aided Engineering
+CAID,CAID—Computer-Aided Industrial Design
+CAI,CAI—Computer-Aided Instruction
+CAM,CAM—Computer-Aided Manufacturing
+CAP,CAP—Consistency Availability Partition tolerance (theorem)
+CAPTCHA,CAPTCHA—Completely Automated Public Turing Test to tell Computers and Humans Apart
+CAT,CAT—Computer-Aided Translation
+CAQ,CAQ—Computer-Aided Quality Assurance
+CASE,CASE—Computer-Aided Software Engineering
+cc,cc—C Compiler
+CC,CC—Carbon Copy
+CD,CD—Compact Disc
+CDE,CDE—Common Desktop Environment
+CDFS,CDFS—Compact Disk File System
+CDMA,CDMA—Code-Division Multiple Access
+CDN,CDN—Content Delivery Network
+CDP,CDP—Cisco Discovery Protocol
+CDP,CDP—Continuous Data Protection
+CD-R,CD-R—CD-Recordable
+CD-ROM,CD-ROM—CD Read-Only Memory
+CD-RW,CD-RW—CD-Rewritable
+CDSA,CDSA—Common Data Security Architecture
+CERT,CERT—Computer Emergency Response Team
+CES,CES—Consumer Electronics Show
+CF,CF—Compact Flash
+CFD,CFD—Computational Fluid Dynamics
+CFG,CFG—Context-Free Grammar
+CFG,CFG—Control-Flow Graph
+CG,CG—Computer Graphics
+CGA,CGA—Color Graphics Array
+CGI,CGI—Common Gateway Interface
+CGI,CGI—Computer-Generated Imagery
+CGT,CGT—Computational Graph Theory
+CHAP,CHAP—Challenge-Handshake Authentication Protocol
+CHS,CHS—Cylinder-Head-Sector
+CIDR,CIDR—Classless Inter-Domain Routing
+CIFS,CIFS—Common Internet Filesystem
+CIM,CIM—Common Information Model
+CIM,CIM—Computationally Independent Model
+CIO,CIO—Chief Information Officer
+CIR,CIR—Committed information rate
+CISC,CISC—Complex Instruction Set Computer
+CJK,CJK—Chinese Japanese and Korean
+CJKV,CJKV—Chinese Japanese Korean and Vietnamese
+CLI,CLI—Command Line Interface
+CLR,CLR—Common Language Runtime
+CM,CM—Configuration Management
+CM,CM—Content Management
+CMDB,CMDB—Configuration Management Database
+CMMI,CMMI—Capability Maturity Model Integration
+CMOS,CMOS—Complementary Metal-Oxide Semiconductor
+CMO,CMO—Current Mode of Operation
+CMS,CMS—Content Management System
+CN,CN—Canonical Name
+CN,CN—Common Name
+CNC,CNC—Computer Numerical Control
+CNG,CNG—Cryptographic Next Generation
+CNG,CNG—Cryptography Next Generation
+CNR,CNR—Communications and Networking Riser
+COBOL,COBOL—Common Business-Oriented Language
+COM,COM—Component Object Model or communication
+CORBA,CORBA—Common Object Request Broker Architecture
+CORS,CORS—Cross-Origin Resource Sharing
+COTS,COTS—Commercial Off-The-Shelf
+CPA,CPA—Cell Processor Architecture
+CPAN,CPAN—Comprehensive Perl Archive Network
+CP/M,CP/M—Control Program/Monitor
+CPRI,CPRI—Common Public Radio Interface
+CPS,CPS—characters per second
+CPU,CPU—Central Processing Unit
+CQS,CQS—Command–query separation
+CQRS,CQRS—Command Query Responsibility Segregation
+CR,CR—Carriage Return
+CRAN,CRAN—Comprehensive R Archive Network
+CRC,CRC—Cyclic Redundancy Check
+CRLF,CRLF—Carriage Return Line Feeds
+CRM,CRM—Customer Relationship Management
+CRS,CRS—Computer Reservations System
+CRT,CRT—Cathode-Ray Tube
+CRUD,CRUD—Create Read Update and Delete
+CS,CS—Cable Select
+CS,CS—Computer Science
+CSE,CSE—Computer Science and Engineering
+CSI,CSI—Common System Interface
+CSM,CSM—Compatibility Support Module
+CSMA/CD,CSMA/CD—Carrier-sense multiple access with collision detection
+CSP,CSP—Cloud Service Provider
+CSP,CSP—Communicating Sequential Processes
+CSRF,CSRF—Cross-Site Request Forgery
+CSS,CSS—Cascading Style Sheets
+CSS,CSS—Content-Scrambling System
+CSS,CSS—Closed Source Software
+CSS,CSS—Cross-Site Scripting
+CSV,CSV—Comma-Separated Values
+CT,CT—Computerized Tomography
+CTAN,CTAN—Comprehensive TeX Archive Network
+CTCP,CTCP—Client-To-Client Protocol
+CTI,CTI—Computer Telephony Integration
+CTFE,CTFE—Compile-time function execution
+CTL,CTL—Computational Tree Logic
+CTM,CTM—Close To Metal
+CTS,CTS—Clear To Send
+CTSS,CTSS—Compatible Time-Sharing System
+CUA,CUA—Common User Access
+CVE,CVE—Common Vulnerabilities and Exposures
+CVS,CVS—Concurrent Versioning System
+CX,CX—Customer Experience
+DAC,DAC—Digital-To-Analog Converter
+DAC,DAC—Discretionary Access Control
+DAL,DAL—Database Abstraction Layer
+DAO,DAO—Data Access Object
+DAO,DAO—Data Access Objects
+DAO,DAO—Disk-At-Once
+DAP,DAP—Directory Access Protocol
+DARPA,DARPA—Defense Advanced Research Projects Agency
+DAS,DAS—Direct Attached Storage
+DAT,DAT—Digital Audio Tape
+DB,DB—Database
+DSKT,DSKT—Desktop
+DBA,DBA—Database Administrator
+DBCS,DBCS—Double Byte Character Set
+DBMS,DBMS—Database Management System
+DCC,DCC—Direct Client-to-Client
+DCCP,DCCP—Datagram Congestion Control Protocol
+DCCA,DCCA—Debian Common Core Alliance
+DCL,DCL—Data Control Language
+DCS,DCS—Distributed Control System
+DCMI,DCMI—Dublin Core Metadata Initiative
+DCOM,DCOM—Distributed Component Object Model
+DD,DD—Double Density
+DDE,DDE—Dynamic Data Exchange
+DDI,DDI—DNS DHCP & IP Address management
+DDL,DDL—Data Definition Language
+DDoS,DDoS—Distributed Denial of Service
+DDR,DDR—Double Data Rate
+DEC,DEC—Digital Equipment Corporation
+DES,DES—Data Encryption Standard
+dev,dev—development
+DFA,DFA—Deterministic Finite Automaton
+DFD,DFD—Data Flow Diagram
+DFS,DFS—Depth-First Search
+DFS,DFS—Distributed File System
+DGD,DGD—Dworkin's Game Driver
+DHCP,DHCP—Dynamic Host Configuration Protocol
+DHTML,DHTML—Dynamic Hypertext Markup Language
+DIF,DIF—Data Integrity Field
+DIMM,DIMM—Dual Inline Memory Module
+DIN,DIN—Deutsches Institut für Normung
+DIP,DIP—Dual In-line Package
+DISM,DISM—Deployment Image and Service Management Tool
+DIVX,DIVX—Digital Video Express
+DKIM,DKIM—Domain Keys Identified Mail
+DL,DL—Download
+DLL,DLL—Dynamic Link Library
+DLNA,DLNA—Digital Living Network Alliance
+DMA,DMA—Direct Memory Access
+DMCA,DMCA—Digital Millennium Copyright Act
+DMI,DMI—Direct Media Interface
+DML,DML—Data Manipulation Language
+DML,DML—Definitive Media Library
+DMR,DMR—Dennis M. Ritchie
+DMZ,DMZ—Demilitarized Zone
+DN,DN—Distinguished Name
+DND,DND—Drag-and-Drop
+DNS,DNS—Domain Name System
+DOA,DOA—Dead on Arrival
+DOCSIS,DOCSIS—Data Over Cable Service Interface Specification
+DOM,DOM—Document Object Model
+DoS,DoS—Denial of Service
+DOS,DOS—Disk Operating System
+DP,DP—Dot Pitch
+DPC,DPC—Deferred Procedure Call
+DPI,DPI—Deep Packet Inspection
+DPI,DPI—Dots Per Inch
+DPMI,DPMI—DOS Protected Mode Interface
+DPMS,DPMS—Display Power Management Signaling
+DR,DR—Disaster Recovery
+DRAM,DRAM—Dynamic Random-Access Memory
+DR-DOS,DR-DOS—Digital Research - Disk Operating System
+DRI,DRI—Direct Rendering Infrastructure
+DRM,DRM—Digital Rights Management
+DRM,DRM—Direct Rendering Manager
+DSA,DSA—Digital Signature Algorithm
+DSDL,DSDL—Document Schema Definition Languages
+DSDM,DSDM—Dynamic Systems Development Method
+DSL,DSL—Digital Subscriber Line
+DSL,DSL—Domain-Specific Language
+DSLAM,DSLAM—Digital Subscriber Line Access Multiplexer
+DSN,DSN—Database Source Name
+DSN,DSN—Data Set Name
+DSP,DSP—Digital Signal Processor
+DSSSL,DSSSL—Document Style Semantics and Specification Language
+DTD,DTD—Document Type Definition
+DTE,DTE—Data Terminal Equipment or data transfer rate
+DTO,DTO—Data Transfer Object
+DTP,DTP—Desktop Publishing
+DTR,DTR—Data Terminal Ready or Data transfer rate
+DVD,DVD—Digital Versatile Disc or Digital Video Disc
+DVD-R,DVD-R—DVD-Recordable
+DVD-ROM,DVD-ROM—DVD-Read Only Memory
+DVD-RW,DVD-RW—DVD-Rewritable
+DVI,DVI—Digital Visual Interface
+DVR,DVR—Digital Video Recorder
+DW,DW—Data Warehouse
+EAI,EAI—Enterprise Application Integration
+EAP,EAP—Extensible Authentication Protocol
+EAS,EAS—Exchange ActiveSync
+EBCDIC,EBCDIC—Extended Binary Coded Decimal Interchange Code
+EBML,EBML—Extensible Binary Meta Language
+ECC,ECC—Elliptic Curve Cryptography
+ECMA,ECMA—European Computer Manufacturers Association
+ECN,ECN—Explicit Congestion Notification
+ECOS,ECOS—Embedded Configurable Operating System
+ECRS,ECRS—Expense and Cost Recovery System
+ECS,ECS—Entity-Component-System
+EDA,EDA—Electronic Design Automation
+EDGE,EDGE—Enhanced Data rates for GSM Evolution
+EDI,EDI—Electronic Data Interchange
+EDO,EDO—Extended Data Out
+EDSAC,EDSAC—Electronic Delay Storage Automatic Calculator
+EDVAC,EDVAC—Electronic Discrete Variable Automatic Computer
+EEPROM,EEPROM—Electronically Erasable Programmable Read-Only Memory
+EFF,EFF—Electronic Frontier Foundation
+EFI,EFI—Extensible Firmware Interface
+EFM,EFM—Eight-to-Fourteen Modulation
+EFM,EFM—Ethernet in the First Mile
+EFS,EFS—Encrypting File System
+EGA,EGA—Enhanced Graphics Array
+E-mail,E-mail—Electronic mail
+EGP,EGP—Exterior Gateway Protocol
+eID,eID—electronic ID card
+EIDE,EIDE—Enhanced IDE
+EIGRP,EIGRP—Enhanced Interior Gateway Routing Protocol
+EISA,EISA—Extended Industry Standard Architecture
+ELF,ELF—Extremely Low Frequency
+ELF,ELF—Executable and Linkable Format
+ELM,ELM—ELectronic Mail
+EMACS,EMACS—Editor MACroS
+EMS,EMS—Expanded Memory Specification
+ENIAC,ENIAC—Electronic Numerical Integrator And Computer
+EOD,EOD—End of Day
+EOF,EOF—End of File
+EOL,EOL—End of Line
+EOM,EOM—End of Message
+EOS,EOS—End of Support
+EPIC,EPIC—Explicitly Parallel Instruction Computing
+EPROM,EPROM—Erasable Programmable Read-Only Memory
+ERD,ERD—Entity-Relationship Diagram
+ERM,ERM—Entity-Relationship Model
+ERP,ERP—Enterprise Resource Planning
+eSATA,eSATA—external SATA
+ESB,ESB—Enterprise service bus
+ESCON,ESCON—Enterprise Systems Connection
+ESD,ESD—Electrostatic Discharge
+ESI,ESI—Electronically Stored Information
+ESR,ESR—Eric Steven Raymond
+ETL,ETL—Extract Transform Load
+ETW,ETW—Event Tracing for Windows
+EUC,EUC—Extended Unix Code
+EULA,EULA—End User License Agreement
+EWM,EWM—Enterprise Work Management
+EWMH,EWMH—Extended Window Manager Hints
+EXT,EXT—EXTended file system
+ETA,ETA—Estimated Time of Arrival
+FAP,FAP—FORTRAN Assembly Program
+FASM,FASM—Flat ASseMbler
+FAT,FAT—File Allocation Table
+FAQ,FAQ—Frequently Asked Questions
+FBDIMM,FBDIMM—Fully Buffered Dual Inline Memory Module
+FC-AL,FC-AL—Fibre Channel Arbitrated Loop
+FCB,FCB—File Control Block
+FCS,FCS—Frame Check Sequence
+FDC,FDC—Floppy-Disk Controller
+FDS,FDS—Fedora Directory Server
+FDD,FDD—Frequency-Division Duplexing
+FDD,FDD—Floppy Disk Drive
+FDDI,FDDI—Fiber Distributed Data Interface
+FDM,FDM—Frequency-Division Multiplexing
+FDMA,FDMA—Frequency-Division Multiple Access
+FE,FE—Frontend
+FEC,FEC—Forward Error Correction
+FEMB,FEMB—Front-End Motherboard
+FET,FET—Field Effect Transistor
+FHS,FHS—Filesystem Hierarchy Standard
+FICON,FICON—FIber CONnectivity
+FIFO,FIFO—First In First Out
+FIPS,FIPS—Federal Information Processing Standards
+FL,FL—Function Level
+FLAC,FLAC—Free Lossless Audio Codec
+FLOPS,FLOPS—FLoating-Point Operations Per Second
+FLOSS,FLOSS—Free/Libre/Open-Source Software
+FMC,"FMC—Fixed Mobile Convergence ""Mobile UC or Unified Communications over Wireless"""
+FMO,FMO—Future Mode of Operation
+FOLDOC,FOLDOC—Free On-line Dictionary of Computing
+FORTRAN,FORTRAN—Formula Translation
+FOSDEM,FOSDEM—Free and Open-source Software Developers' European Meeting
+FOSI,FOSI—Formatted Output Specification Instance
+FOSS,FOSS—Free and Open-Source Software
+FP,FP—Function Programming
+FP,FP—Functional Programming
+FPGA,FPGA—Field Programmable Gate Array
+FPS,FPS—Floating Point Systems
+FPU,FPU—Floating-Point Unit
+FRU,FRU—Field-Replaceable Unit
+FS,FS—File System
+FSB,FSB—Front-Side Bus
+fsck,fsck—File System Check
+FSF,FSF—Free Software Foundation
+FSM,FSM—Finite State Machine
+FTTA,FTTA—Fiber To The Antenna
+FTTC,FTTC—Fiber To The Curb
+FTTH,FTTH—Fiber To The Home
+FTTP,FTTP—Fiber To The Premises
+FTP,FTP—File Transfer Protocol
+FQDN,FQDN—Fully Qualified Domain Name
+FUD,FUD—Fear Uncertainty Doubt
+FWS,FWS—Folding White Space
+FXP,FXP—File eXchange Protocol
+FYI,FYI—For Your Information
+FVEK,FVEK—Full Volume Encryption Key
+G11N,G11N—Globalization
+Gas,Gas—GNU Assembler
+Gb,Gb—Gigabit
+GB,GB—Gigabyte
+Gbps,Gbps—Gigabits per second
+GCC,GCC—GNU Compiler Collection
+GCJ,GCJ—GNU Compiler for Java
+GCP,GCP—Google Cloud Platform
+GCR,GCR—Group Coded Recording
+GDB,GDB—GNU Debugger
+GDI,GDI—Graphics Device Interface
+GFDL,GFDL—GNU Free Documentation License
+GIF,GIF—Graphics Interchange Format
+GIGO,GIGO—Garbage In Garbage Out
+GIMP,GIMP—GNU Image Manipulation Program
+GIMPS,GIMPS—Great Internet Mersenne Prime Search
+GIS,GIS—Geographic Information System
+GLUT,GLUT—OpenGL Utility Toolkit
+GML,GML—Geography Markup Language
+GNOME,GNOME—GNU Network Object Model Environment
+GNU,GNU—GNU's Not Unix
+GOMS,GOMS—Goals Operators Methods and Selection rules
+GPASM,GPASM—GNU PIC ASseMbler
+GPFS,GPFS—General Parallel File System
+GPG,GPG—GNU Privacy Guard
+GPGPU,GPGPU—General-Purpose Computing on Graphics Processing Units
+GPIB,GPIB—General-Purpose Instrumentation Bus
+GPL,GPL—General Public License
+GPL,GPL—General-Purpose Language
+GPRS,GPRS—General Packet Radio Service
+GPT,GPT—GUID Partition Table
+GPU,GPU—Graphics Processing Unit
+GRUB,GRUB—Grand Unified Boot-Loader
+GERAN,GERAN—GSM EDGE Radio Access Network
+GSM,GSM—Global System for Mobile Communications
+GTK+,GTK+—GIMP Toolkit
+GUI,GUI—Graphical User Interface
+GUID,GUID—Globally Unique IDentifier
+GWT,GWT—Google Web Toolkit
+GYR,GYR—IT Networking
+HA,HA—High availability
+HAL,HAL—Hardware Abstraction Layer
+HARD,HARD—HTML Application Rapid Development
+HASP,HASP—Houston Automatic Spooling Priority
+HBA,HBA—Host Bus Adapter
+HCI,HCI—Human—Computer Interaction
+HD,HD—High Density
+HDD,HDD—Hard Disk Drive
+HCL,HCL—Hardware Compatibility List
+HD DVD,HD DVD—High Definition DVD
+HDL,HDL—Hardware Description Language
+HDMI,HDMI—High-Definition Multimedia Interface
+HECI,HECI—Host Embedded Controller Interface
+HF,HF—High Frequency
+HFS,HFS—Hierarchical File System
+HHD,HHD—Hybrid Hard Drive
+HID,HID—Human Interface Device
+HIG,HIG—Human Interface Guidelines
+HIRD,HIRD—Hurd of Interfaces Representing Depth
+HLASM,HLASM—High Level ASseMbler
+HLS,HLS—HTTP Live Streaming
+HMA,HMA—High Memory Area
+HP,HP—Hewlett-Packard
+HPC,HPC—High-Performance Computing
+HPFS,HPFS—High Performance File System
+HSDPA,HSDPA—High-Speed Downlink Packet Access
+HTC,HTC—High-Throughput Computing
+HSM,HSM—Hierarchical Storage Management
+HT,HT—Hyper Threading
+HTM,HTM—Hierarchical Temporal Memory
+HTML,HTML—Hypertext Markup Language
+HTTP,HTTP—Hypertext Transfer Protocol
+HTTPd,HTTPd—Hypertext Transport Protocol Daemon
+HTTPS,HTTPS—HTTP Secure
+HTX,HTX—HyperTransport eXpansion
+HURD,HURD—Hird of Unix-Replacing Daemons
+HVD,HVD—Holographic Versatile Disc
+Hz,Hz—Hertz
+I²C,I²C—Inter-Integrated Circuit
+I²S,I²S—Integrated Interchip Sound
+I18N,I18N—Internationalization
+IANA,IANA—Internet Assigned Numbers Authority
+IaaS,IaaS—Infrastructure as a Service
+IaC,IaC—Infrastructure as Code
+iBCS,iBCS—Intel Binary Compatibility Standard
+IBM,IBM—International Business Machines
+IC,IC—Integrated Circuit
+ICANN,ICANN—Internet Corporation for Assigned Names and Numbers
+ICE,ICE—In-Circuit Emulator
+ICE,ICE—Intrusion Countermeasure Electronics
+ICH,ICH—I/O Controller Hub
+ICMP,ICMP—Internet Control Message Protocol
+ICP,ICP—Internet Cache Protocol
+ICS,ICS—Internet Connection Sharing
+ICT,ICT—Information and Communication Technology
+IDE,IDE—Integrated Development Environment
+IDE,IDE—Integrated Drive Electronics
+IDF,IDF—Intermediate Distribution Frame
+IDF,IDF—Intermediate Data Format
+IDL,IDL—Interactive Data Language
+IDL,IDL—Interface Definition Language
+IDS,IDS—Intrusion Detection System
+IE,IE—Internet Explorer
+IEC,IEC—International Electrotechnical Commission
+IEEE,IEEE—Institute of Electrical and Electronics Engineers
+IETF,IETF—Internet Engineering Task Force
+IFL,IFL—Integrated Facility for Linux
+IGMP,IGMP—Internet Group Management Protocol
+IGRP,IGRP—Interior Gateway Routing Protocol
+IHV,IHV—Independent Hardware Vendor
+IIOP,IIOP—Internet Inter-Orb Protocol
+IIS,IIS—Internet Information Services
+IKE,IKE—Internet Key Exchange
+IL,IL—Intermediate Language
+IM,IM—Instant Message or Instant Messaging
+IMAP,IMAP—Internet Message Access Protocol
+IME,IME—Input Method Editor
+IMR,IMR—Internet Monthly Report
+INFOSEC,INFOSEC—Information Systems Security
+I/O,I/O—Input/output
+IoT,IoT—Internet of Things
+IP,IP—Intellectual Property
+IP,IP—Internet Protocol
+IPAM,IPAM—IP Address Management
+IPC,IPC—Inter-Process Communication
+IPL,IPL—Initial Program Load
+IPMI,IPMI—Intelligent Platform Management Interface
+IPO,IPO—Inter Procedural Optimization
+IPP,IPP—Internet Printing Protocol
+IPS,IPS—In-Plane Switching
+IPS,IPS—Instructions Per Second
+IPS,IPS—Intrusion Prevention System
+IPsec,IPsec—Internet Protocol security
+IPTV,IPTV—Internet Protocol Television
+IPv4,IPv4—Internet Protocol version 4
+IPv6,IPv6—Internet Protocol version 6
+IPX,IPX—Internetwork Packet Exchange
+IR,IR—Intermediate Representation
+IRC,IRC—Internet Relay Chat
+IrDA,IrDA—Infrared Data Association
+IRI,IRI—Internationalized Resource Identifier
+IRP,IRP—I/O Request Packet
+IRQ,IRQ—Interrupt Request
+IS,IS—Information Systems
+IS-IS,IS-IS—Intermediate System to Intermediate System
+ISA,ISA—Industry Standard Architecture
+ISA,ISA—Instruction Set Architecture
+ISAM,ISAM—Indexed Sequential Access Method
+ISATAP,ISATAP—Intra-Site Automatic Tunnel Addressing Protocol
+ISC,ISC—Internet Storm Center
+iSCSI,iSCSI—Internet Small Computer System Interface
+ISDN,ISDN—Integrated Services Digital Network
+ISO,ISO—International Organization for Standardization
+iSNS,iSNS—Internet Storage Name Service
+ISP,ISP—Internet Service Provider
+ISPF,ISPF—Interactive System Productivity Facility
+ISR,ISR—Interrupt Service Routine
+ISV,ISV—Independent Software Vendor
+IT,IT—Information Technology
+ITIL,ITIL—Information Technology Infrastructure Library
+ITL,ITL—Interval Temporal Logic
+ITU,ITU—International Telecommunication Union
+IVRS,IVRS—Interactive Voice Response System
+IVCR,IVCR—Interactive Virtual Classroom
+ISDN,ISDN—Integrated service digital network
+J2EE,J2EE—Java 2 Enterprise Edition
+J2ME,J2ME—Java 2 Micro Edition
+J2SE,J2SE—Java 2 Standard Edition
+JAXB,JAXB—Java Architecture for XML Binding
+JAX-RPC,JAX-RPC—Java XML for Remote Procedure Calls
+JAXP,JAXP—Java API for XML Processing
+JBOD,JBOD—Just a Bunch of Disks
+JCE,JCE— Java Cryptography Extension
+JCL,JCL—Job Control Language
+JCP,JCP—Java Community Process
+JDBC,JDBC—Java Database Connectivity
+JDK,JDK—Java Development Kit
+JEE,JEE—Java Enterprise Edition
+JES,JES—Job Entry Subsystem
+JDS,JDS—Java Desktop System
+JFC,JFC—Java Foundation Classes
+JFET,JFET—Junction Field-Effect Transistor
+JFS,JFS—IBM Journaling File System
+JINI,JINI—Jini Is Not Initials
+JIT,JIT—Just-In-Time
+JME,JME—Java Micro Edition
+JMX,JMX—Java Management Extensions
+JMS,JMS—Java Message Service
+JNDI,JNDI—Java Naming and Directory Interface
+JNI,JNI—Java Native Interface
+JNZ,JNZ—Jump non-zero
+JPEG,JPEG—Joint Photographic Experts Group
+JRE,JRE—Java Runtime Environment
+JS,JS—JavaScript
+JSE,JSE—Java Standard Edition
+JSON,JSON—JavaScript Object Notation
+JSP,JSP—Jackson Structured Programming
+JSP,JSP—JavaServer Pages
+JTAG,JTAG—Joint Test Action Group
+JVM,JVM—Java Virtual Machine
+K&R,K&R—Kernighan and Ritchie
+KB,KB—Keyboard
+Kb,Kb—Kilobit
+KB,KB—Kilobyte
+KB,KB—Knowledge Base
+Kbps,Kbps—Kilobits per second
+KiB,KiB—Kibibyte
+KDE,KDE—K Desktop Environment
+kHz,kHz—Kilohertz
+KRL,KM—Knowledge Machine
+KRL,KRL—Knowledge Representation Language
+KVM,KVM—Keyboard Video Mouse
+L10N,L10N—Localization
+L2TP,L2TP—Layer two Tunneling Protocol
+LACP,LACP—Link Aggregation Control Protocol
+LAMP,LAMP—Linux Apache MySQL Perl
+LAMP,LAMP—Linux Apache MySQL PHP
+LAMP,LAMP—Linux Apache MySQL Python
+LAN,LAN—Local Area Network
+LBA,LBA—Logical Block Addressing
+LB,LB—Load Balancer
+LCD,LCD—Liquid Crystal Display
+LCR,LCR—Least Cost Routing
+LCOS,LCOS—Liquid Crystal On Silicon
+LDAP,LDAP—Lightweight Directory Access Protocol
+LE,LE—Logical Extents
+LED,LED—Light-Emitting Diode
+LF,LF—Line Feed
+LF,LF—Low Frequency
+LFS,LFS—Linux From Scratch
+LGPL,LGPL—Lesser General Public License
+LIB,LIB—LIBrary
+LIF,LIF—Low Insertion Force
+LIFO,LIFO—Last In First Out
+LILO,LILO—Linux Loader
+LISP,LIP—Loop Initialization Primitive
+LISP,LISP—LISt Processing
+LKML,LKML—Linux Kernel Mailing List
+LM,LM—Lan Manager
+LOC,LOC—Lines of Code
+LPC,LPC—Lars Pensjö C
+LPI,LPI—Lines Per Inch
+LPI,LPI—Linux Professional Institute
+LPT,LPT— Line Print Terminal
+LRU,LRU—Least Recently Used
+LSB,LSB—Least Significant Bit
+LSB,LSB—Linux Standard Base
+LSI,LSI—Large-Scale Integration
+LTE,LTE—Long Term Evolution
+LTL,LTL—Linear Temporal Logic
+LTR,LTR—Left-to-Right
+LUG,LUG—Linux User Group
+LUN,LUN—Logical Unit Number
+LV,LV—Logical Volume
+LVD,LVD—Low Voltage Differential
+LVM,LVM—Logical Volume Management
+LZW,LZW—Lempel-Ziv-Welch
+LGA,LGA—Land Grid Array
+MAC,MAC—Mandatory Access Control
+MAC,MAC—Media Access Control
+MANET,MANET—Mobile Ad-Hoc Network
+MAN,MAN—Metropolitan Area Network
+MAPI,MAPI—Messaging Application Programming Interface
+MBCS,MBCS—Multi Byte Character Set
+MBD,MBD—Model-Based Design
+MBR,MBR—Master Boot Record
+Mb,Mb—Megabit
+MB,MB—Megabyte
+Mbps,Mbps—Megabits per second
+MCAD,MCAD—Microsoft Certified Application Developer
+MCAS,MCAS—Microsoft Certified Application Specialist
+MCA,MCA—Micro Channel Architecture
+MCA,MCA—Microsoft Certified Architect
+MCDBA,MCDBA—Microsoft Certified DataBase Administrator
+MCDST,MCDST—Microsoft Certified Desktop Support Technician
+MCITP,MCITP—Microsoft Certified Information Technology Professional
+MCM,MCM—Microsoft Certified Master
+MCPC,MCPC—Multiple Channels Per Carrier
+MCPD,MCPD—Microsoft Certified Professional Developer
+MCP,MCP—Microsoft Certified Professional
+MCSA,MCSA—Microsoft Certified Systems Administrator
+MCSD,MCSD—Microsoft Certified Solution Developer
+MCSE,MCSE—Microsoft Certified Systems Engineer
+MCTS,MCTS—Microsoft Certified Technology Specialist
+MCT,MCT—Microsoft Certified Trainer
+MDA,MDA—Monochrome Display Adapter
+MDA,MDA—Mail Delivery Agent
+MDA,MDA—Model-Driven Architecture
+MDD/MDSD,MDD/MDSD—Model-Driven (Software) Development
+MDF,MDF—Main Distribution Frame
+MDI,MDI—Multiple-Document Interface
+MDM,MDM—Master Data Management
+ME,ME—Microsoft Edge
+ME,ME—[Windows] Millennium Edition
+MFA,MFA—Multi-factor authentication
+MFC,MFC—Microsoft Foundation Classes
+MFM,MFM—Modified Frequency Modulation
+MF,MF—Medium Frequency
+MGCP,MGCP—Media Gateway Control Protocol
+MHz,MHz—Megahertz
+MIB,MIB—Management Information Base
+MICR,MICR—Magnetic Ink Character Recognition or Magnetic Ink Character Reader
+MIDI,MIDI—Musical Instrument Digital Interface
+MIMD,MIMD—Multiple Instruction Multiple Data
+MIME,MIME—Multipurpose Internet Mail Extensions
+MIMO,MIMO—Multiple-Input Multiple-Output
+MINIX,MINIX—MIni-uNIX
+MIPS,MIPS—Microprocessor without Interlocked Pipeline Stages
+MIPS,MIPS—Million Instructions Per Second
+MISD,MISD—Multiple Instruction Single Data
+MIS,MIS—Management Information Systems
+MIT,MIT—Massachusetts Institute of Technology
+ML,ML—Machine Learning
+MMC,MMC—Microsoft Management Console
+MMDS,MMDS—Mortality Medical Data System
+MMDS,MMDS—Multichannel Multipoint Distribution Service
+MMF,MMF—Multi-Mode (optical) Fiber
+MMIO,MMIO—Memory-Mapped I/O
+MMI,MMI—Man Machine Interface.
+MMORPG,MMORPG—Massively Multiplayer Online Role-Playing Game
+MMS,MMS—Multimedia Message Service
+MMU,MMU—Memory Management Unit
+MMX,MMX—Multi-Media Extensions
+MNG,MNG—Multiple-image Network Graphics
+MoBo,MoBo—Motherboard
+MOM,MOM—Message-Oriented Middleware
+MOO,MOO—MUD Object Oriented
+MOP,MOP—Meta-Object Protocol
+MOSFET,MOSFET—Metal-Oxide Semiconductor Field Effect Transistor
+MOS,MOS—Microsoft Office Specialist
+MOTD,MOTD—Message Of The Day
+MOUS,MOUS—Microsoft Office User Specialist
+MOV,MOV—Apple QuickTime Multimedia File
+MPAA,MPAA—Motion Picture Association of America
+MPEG,MPEG—Motion Pictures Experts Group
+MPLS,MPLS—Multiprotocol Label Switching
+MPL,MPL—Mozilla Public License
+MPU,MPU—Microprocessor Unit
+MS-DOS,MS-DOS—Microsoft DOS
+MSA,MSA—Mail Submission Agent
+MSB,MSB—Most Significant Bit
+MSDN,MSDN—Microsoft Developer Network
+MSI,MSI—Medium-Scale Integration
+MSI,MSI—Message Signaled Interrupt
+MSI,MSI—Microsoft Installer
+MSN,MSN—Microsoft Network
+MS,MS—Microsoft
+MS,MS—Memory Stick
+MTA,MTA—Mail Transfer Agent
+MTA,MTA—Microsoft Technology Associate
+MTBF,MTBF—Mean Time Between Failures
+MTU,MTU—Maximum Transmission Unit
+MT,MT—Machine Translation
+MUA,MUA—Mail User Agent
+MUD,MUD—Multi-User Dungeon
+MU,MU—Memory Unit
+MVC,MVC—Model-View-Controller
+MVP,MVP—Most Valuable Professional
+MVS,MVS—Multiple Virtual Storage
+MWC,MWC—Mobile World Congress
+MXF,MXF—Material Exchange Format
+MX,MX—Mail exchange
+NAC,NAC—Network Access Control
+NACK,NACK—Negative ACKnowledgement
+NAK,NAK—Negative AcKnowledge Character
+NaN,NaN—Not a Number
+NAP,NAP—Network Access Protection
+NAS,NAS—Network-Attached Storage
+NASM,NASM—Netwide ASseMbler
+NAT,NAT—Network Address Translation
+NCP,NCP—NetWare Core Protocol
+NCQ,NCQ—Native Command Queuing
+NCSA,NCSA—National Center for Supercomputing Applications
+NDIS,NDIS—Network Driver Interface Specification
+NDPS,NDPS—Novell Distributed Print Services
+NDS,NDS—Novell Directory Services
+NEP,NEP—Network Equipment Provider
+NetBIOS,NetBIOS—Network Basic Input/Output System
+NetBT,NetBT—NetBIOS over TCP/IP
+NEXT,NEXT—Near-End CrossTalk
+NFA,NFA—Nondeterministic Finite Automaton
+NFC,NFC—Near-field communication
+NFS,NFS—Network File System
+NGSCB,NGL—aNGeL
+NGSCB,NGSCB—Next-Generation Secure Computing Base
+NI,NI—National Instruments
+NIC,NIC—Network Interface Controller or Network Interface Card
+NIM,NIM—No Internal Message
+NIO,NIO—Non-blocking I/O
+NIST,NIST—National Institute of Standards and Technology
+NLE,NLE—Non-Linear Editing system
+NLP,NLP—Natural Language Processing
+NLS,NLS—Native Language Support
+NMI,NMI—Non-Maskable Interrupt
+NNTP,NNTP—Network News Transfer Protocol
+NOC,NOC—Network Operations Center
+NOP,NOP—No OPeration
+NOS,NOS—Network Operating System
+NP,NP—Nondeterministic Polynomial time
+NPL,NPL—Netscape Public License
+NPTL,NPTL—Native POSIX Thread Library
+NPU,NPU—Network Processing Unit
+NS,NS—Netscape
+NSA,NSA—Network Security Appliance
+NSI,NSI—Network Service Interface
+NSPR,NSPR—Netscape Portable Runtime
+NSS,NSS—Novell Storage Service
+NSS,NSS—Network Security Services
+NSS,NSS—Name Service Switch
+NT,NT—New Technology
+NTFS,NTFS—NT Filesystem
+NTLM,NTLM—NT Lan Manager
+NTP,NTP—Network Time Protocol
+NUMA,NUMA—Non-Uniform Memory Access
+NURBS,NURBS—Non-Uniform Rational B-Spline
+NVR,NVR—Network Video Recorder
+NVRAM,NVRAM—Non-Volatile Random Access Memory
+OASIS,OASIS—Organization for the Advancement of Structured Information Standards
+OAT,OAT—Operational Acceptance Testing
+OBSAI,OBSAI—Open Base Station Architecture Initiative
+ODBC,ODBC—Open Database Connectivity
+OEM,OEM—Original Equipment Manufacturer
+OES,OES—Open Enterprise Server
+OFDM,OFDM—Orthogonal Frequency-Division Multiplexing
+OFTC,OFTC—Open and Free Technology Community
+OID,OID—Object Identifier
+OLAP,OLAP—Online Analytical Processing
+OLE,OLE—Object Linking and Embedding
+OLED,OLED—Organic Light Emitting Diode
+OLPC,OLPC—One Laptop per Child
+OLTP,OLTP—Online Transaction Processing
+OMF,OMF—Object Module Format
+OMG,OMG—Object Management Group
+OMR,OMR—Optical Mark Reader
+OO,OO—Object-Oriented
+OO,OO—OpenOffice
+OOE,OOE—Out-of-Order Execution
+OOM,OOM—Out Of Memory
+OOo,OOo—OpenOffice.org
+OoOE,OoOE—Out-of-Order Execution
+OOP,OOP—Object-Oriented Programming
+OOTB,OOTB—Out of the box
+OPML,OPML—Outline Processor Markup Language
+ORB,ORB—Object Request Broker
+ORM,ORM—Object-Relational Mapping
+OS,OS—Open Source
+OS,OS—Operating System
+OSCON,OSCON—O'Reilly Open Source CONvention
+OSDN,OSDN—Open Source Development Network
+OSI,OSI—Open Source Initiative
+OSI,OSI—Open Systems Interconnection
+OSPF,OSPF—Open Shortest Path First
+OSS,OSS—Open Sound System
+OSS,OSS—Open-Source Software
+OSS,OSS—Operations Support System
+OSTG,OSTG—Open Source Technology Group
+OTP,OTP—One-time password
+OUI,OUI—Organisationally Unique Identifier
+P2P,P2P—Peer-To-Peer
+PaaS,PaaS—Platform as a Service
+PAM,PAM—Privileged Access Management
+PAN,PAN—Personal Area Network
+PAP,PAP—Password Authentication Protocol
+PARC,PARC—Palo Alto Research Center
+PATA,PATA—Parallel ATA
+PBS,PBS—Portable Batch System
+PC,PC—Personal Computer
+PCB,PCB—Printed Circuit Board
+PCB,PCB—Process Control Block
+PC DOS,PC DOS—Personal Computer Disc Operating System
+PCI,PCI—Peripheral Component Interconnect
+PCIe,PCIe—PCI Express
+PCI-X,PCI-X—PCI Extended
+PCL,PCL—Printer Command Language
+PCMCIA,PCMCIA—Personal Computer Memory Card International Association
+PCM,PCM—Pulse-Code Modulation
+PCRE,PCRE—Perl Compatible Regular Expressions
+PD,PD—Public Domain
+PDA,PDA—Personal Digital Assistant
+PDF,PDF—Portable Document Format
+PDH,PDH—Plesiochronous Digital Hierarchy
+PDP,PDP—Programmed Data Processor
+PE,PE—Physical Extents
+PERL,PERL—Practical Extraction and Reporting Language
+PFA,PFA—Please Find Attachment
+PG,PG—Peripheral Gateway
+PGA,PGA—Pin Grid Array
+PGA,PGA—Programmable Gate Array
+PGO,PGO—Profile-Guided Optimization
+PGP,PGP—Pretty Good Privacy
+PHP,PHP—Hypertext Preprocessor
+PIC,PIC—Peripheral Interface Controller
+PIC,PIC—Programmable Interrupt Controller
+PID,PID—Proportional-Integral-Derivative
+PID,PID—Process ID
+PIM,PIM—Personal Information Manager
+PINE,PINE—Program for Internet News and Email
+PIM,PIM—Platform Independent Model
+PING,PING—Packet Internet Gopher
+PIO,PIO—Programmed Input/Output
+PKCS,PKCS—Public Key Cryptography Standards
+PKI,PKI—Public Key Infrastructure
+PLC,PLC—Power Line Communication
+PLC,PLC—Programmable Logic Controller
+PLD,PLD—Programmable Logic Device
+PL/I,PL/I—Programming Language One
+PL/M,PL/M—Programming Language for Microcomputers
+PL/P,PL/P—Programming Language for Prime
+PLT,PLT—Power Line Telecommunications
+PMM,PMM—POST Memory Manager
+PNG,PNG—Portable Network Graphics
+PnP,PnP—Plug-and-Play
+PNRP,PNRP—Peer Name Resolution Protocol
+PoE,PoE—Power over Ethernet
+PoS,PoS—Point of Sale
+POCO,POCO—Plain Old Class Object
+POID,POID—Persistent Object Identifier
+POJO,POJO—Plain Old Java Object
+POP,POP—Point of Presence
+POP3,POP3—Post Office Protocol v3
+POSIX,POSIX—Portable Operating System Interface formerly IEEE-IX
+POST,POST—Power-On Self Test
+PPC,PPC—PowerPC
+PPI,PPI—Pixels Per Inch
+PPM,PPM—Pages Per Minute
+PPP,PPP—Point-to-Point Protocol
+PPPoA,PPPoA—PPP over ATM
+PPPoE,PPPoE—PPP over Ethernet
+PPTP,PPTP—Point-to-Point Tunneling Protocol
+PR,PR—Pull Request
+PROM,PROM—Programmable Read-Only Memory
+PS,PS—PostScript
+PS/2,PS/2—Personal System/2
+PSA,PSA—Professional Services Automation
+PSM,PSM—Platform Specific Model
+PSTN,PSTN—Public Switched Telephone Network
+PSU,PSU—Power Supply Unit
+PSVI,PSVI—Post-Schema-Validation Infoset
+PTS-DOS,PTS-DOS—PhysTechSoft – Disk Operating System
+PV,PV—Physical Volume
+PVG,PVG—Physical Volume Group
+PVR,PVR—Personal Video Recorder
+PXE,PXE—Preboot Execution Environment
+PXI,PXI—PCI eXtensions for Instrumentation
+PRC,PRC—Procedure Remote Call
+QDR,QDR—Quad Data Rate
+QA,QA—Quality Assurance
+QFP,QFP—Quad Flat Package
+QoS,QoS—Quality of Service
+QOTD,QOTD—Quote of the Day
+Qt,Qt—Quasar Toolkit
+QTAM,QTAM—Queued Teleprocessing Access Method
+QSOP,QSOP—Quarter Small Outline Package
+qWave,qWave—Quality Windows Audio/Video Experience
+RACF,RACF—Resource Access Control Facility
+RAD,RAD—Rapid Application Development
+RADIUS,RADIUS—Remote Authentication Dial In User Service
+RAID,RAID—Redundant Array of Independent Disks
+RAII,RAII—Resource Acquisition Is Initialization
+RAIT,RAIT—Redundant Array of Inexpensive Tapes
+RAM,RAM—Random-Access Memory
+RARP,RARP—Reverse Address Resolution Protocol
+RAS,RAS—Reliability Availability and Serviceability
+RAS,RAS—Remote access service
+RC,RC—Region Code
+RC,RC—Release Candidate
+RC,RC—Run Commands
+RCA,RCA—Root Cause Analysis
+RCS,RCS—Revision Control System
+RD,RD—Remote Desktop
+rd,rd—remove directory
+RDBMS,RDBMS—Relational Database Management System
+RDC,RDC—Remote Desktop Connection
+RDF,RDF—Resource Description Framework
+RDM,RDM—Relational Data Model
+RDOS,RDOS—Real-time Disk Operating System
+RDP,RDP—Remote Desktop Protocol
+RDS,RDS—Remote Data Services
+REFAL,REFAL—Recursive Functions Algorithmic Language
+REST,REP—RAID Error Propagation
+REST,REST—Representational State Transfer
+regex,RESV—Reservation Message
+regex,regex—Regular Expression
+regexp,regexp—Regular Expression
+RF,RF—Radio Frequency
+RFC,RFC—Request For Comments
+RFI,RFI—Radio Frequency Interference
+RFID,RFID—Radio Frequency Identification
+RGB,RGB—Red Green Blue
+RHL,RGBA—Red Green Blue Alpha
+RHL,RHL—Red Hat Linux
+RHEL,RHEL—Red Hat Enterprise Linux
+RIA,RIA—Rich Internet Application
+RIAA,RIAA—Recording Industry Association of America
+RIP,RIP—Raster Image Processor
+RIP,RIP—Routing Information Protocol
+RIR,RIR—Regional Internet registry
+RISC,RISC—Reduced Instruction Set Computer
+RISC OS,RISC OS—Reduced Instruction Set Computer Operating System
+RJE,RJE—Remote Job Entry
+RLE,RLE—Run-Length Encoding
+RLL,RLL—Run-Length Limited
+rmdir,rmdir—remove directory
+RMI,RMI—Remote Method Invocation
+RMS,RMS—Richard Matthew Stallman
+ROM,ROM—Read-Only Memory
+ROMB,ROMB—Read-Out Motherboard
+ROM-DOS,ROM-DOS—Read-Only Memory - Disk Operating System
+RPA,RPA—Robotic Process Automation
+RPC,RPC—Remote Procedure Call
+RPG,RPG—Report Program Generator
+RPM,RPM—RPM Package Manager
+RRAS,RRAS—Routing and Remote Access Service
+RSA,RSA—Rivest Shamir Adleman
+RSI,RSI—Repetitive Strain Injury
+RSS,RSS—Radio Service Software
+RSS,RSS—Rich Site Summary RDF Site Summary or Really Simple Syndication
+RSVP,RSVP—Resource Reservation Protocol
+RTAI,RTAI—Real-Time Application Interface
+RTC,RTC—Real-Time Clock
+RTE,RTE—Real-Time Enterprise
+RTEMS,RTEMS—Real-Time Executive for Multiprocessor Systems
+RTF,RTF—Rich Text Format
+RTL,RTL—Right-to-Left
+RTMP,RTMP—Real Time Messaging Protocol
+RTOS,RTOS—Real-Time Operating System
+RTP,RTP—Real-time Transport Protocol
+RTS,RTS—Ready To Send
+RTSP,RTSP—Real Time Streaming Protocol
+RTTI,RTTI—Run-time Type Information
+RWD,RWD—Responsive Web Design
+SaaS,SaaS—Software as a Service
+SASS,SASS—Syntatically Awesome Style Sheets
+SAM,SAM—Security Account Manager
+SAN,SAN—Storage Area Network
+SAS,SAS—Serial attached SCSI
+SATA,SATA—Serial ATA
+SAX,SAX—Simple API for XML
+SBOD,SBOD—Spinning Beachball of Death
+SBP-2,SBP-2—Serial Bus Protocol 2
+sbin,sbin—superuser binary
+sbs,sbs—Small Business Server
+SBU,SBU—Standard Build Unit
+SCADA,SCADA—Supervisory Control And Data Acquisition
+SCID,SCID—Source Code in Database
+SCM,SCM—Software Configuration Management
+SCM,SCM—Source Code Management
+SCP,SCP—Secure Copy
+SCPC,SCPC—Single Channel Per Carrier
+SCPI,SCPI—Standard Commands for Programmable Instrumentation
+SCSA,SCSA—Secure Content Storage Association
+SCSI,SCSI—Small Computer System Interface
+SCTP,SCTP—Stream Control Transmission Protocol
+SD,SD—Secure Digital
+SDDL,SDDL—Security Descriptor Definition Language
+SDH,SDH—Synchronous Digital Hierarchy
+SDI,SDI—Single-Document Interface
+SEC,SEC—Single Edge Contact
+SDIO,SDIO—Secure Digital Input Output
+SDK,SDK—Software Development Kit
+SDL,SDL—Simple DirectMedia Layer
+SDN,SDN—Service Delivery Network
+SDP,SDP—Session Description Protocol
+SDR,SDR—Software-Defined Radio
+SDRAM,SDRAM—Synchronous Dynamic Random Access Memory
+SDSL,SDSL—Symmetric DSL
+SE,SE—Single Ended
+SEI,SEI—Software Engineering Institute
+SEO,SEO—Search Engine Optimization
+SFTP,SFTP—Secure FTP
+SFTP,SFTP—Simple File Transfer Protocol
+SFTP,SFTP—SSH File Transfer Protocol
+SGI,SGI—Silicon Graphics Incorporated
+SGML,SGML—Standard Generalized Markup Language
+SGR,SGR—Select Graphic Rendition
+SHA,SHA—Secure Hash Algorithm
+SHDSL,SHDSL—Single-pair High-speed Digital Subscriber Line
+SIEM,SIEM—Security information and event management
+SIGCAT,SIGCAT—Special Interest Group on CD-ROM Applications and Technology
+SIGGRAPH,SIGGRAPH—Special Interest Group on Graphics
+SIMD,SIMD—Single Instruction Multiple Data
+SIM,SIM—Subscriber Identification Module
+SIMM,SIMM—Single Inline Memory Module
+SIP,SIP—Session Initiation Protocol
+SIP,SIP—Supplementary Ideographic Plane
+SISD,SISD—Single Instruction Single Data
+SISO,SISO—Single-Input and Single-Output
+SLA,SLA—Service Level Agreement
+SLED,SLED—SUSE Linux Enterprise Desktop
+SLES,SLES—SUSE Linux Enterprise Server
+SLI,SLI—Scalable Link Interface
+SLIP,SLIP—Serial Line Internet Protocol
+SLM,SLM—Service Level Management
+SLOC,SLOC—Source Lines of Code
+SME,SME—Subject Matter Expert
+SMF,SMF—Single-Mode (optical) Fiber
+SPM,SPM—Software project management
+SPMD,SPMD—Single Program Multiple Data
+SPOF,SPOF—Single point of failure
+SMA,SMA—SubMiniature version A
+SMB,SMB—Server Message Block
+SMBIOS,SMBIOS—System Management BIOS
+SMIL,SMIL—Synchronized Multimedia Integration Language
+S/MIME,S/MIME—Secure/Multipurpose Internet Mail Extensions
+SMP,SMP—Supplementary Multilingual Plane
+SMP,SMP—Symmetric Multi-Processing
+SMPS,SMPS—Switch Mode Power Supply
+SMS,SMS—Short Message Service
+SMS,SMS—System Management Server
+SMT,SMT—Simultaneous Multithreading
+SMTP,SMTP—Simple Mail Transfer Protocol
+SNA,SNA—Systems Network Architecture
+SNMP,SNMP—Simple Network Management Protocol
+SNTP,SNTP—Simple Network Time Protocol
+SOA,SOA—Service-Oriented Architecture
+SOAP,SOAP—Simple Object Access Protocol
+SOAP,SOAP—Symbolic Optimal Assembly Program
+SOPA,SOPA—Stop Online Piracy Act
+SoC,SoC—System-on-a-Chip
+SO-DIMM,SO-DIMM—Small Outline DIMM
+SOE,SOE—Standard Operating Environment
+SOHO,SOHO—Small Office/Home Office
+SOI,SOI—Silicon On Insulator
+SP,SP—Service Pack
+SPA,SPA—Single Page Application
+SPF,SPF—Sender Policy Framework
+SPI,SPI—Serial Peripheral Interface
+SPI,SPI—Stateful Packet Inspection
+SPARC,SPARC—Scalable Processor Architecture
+SQL,SQL—Structured Query Language
+SRAM,SRAM—Static Random Access Memory
+SSA,SSA—Static Single Assignment
+SSD,SSD—Software Specification Document
+SSD,SSD—Solid-State Drive
+SSDP,SSDP—Simple Service Discovery Protocol
+SSE,SSE—Streaming SIMD Extensions
+SSH,SSH—Secure Shell
+SSI,SSI—Server Side Includes
+SSI,SSI—Single-System Image
+SSI,SSI—Small-Scale Integration
+SSID,SSID—Service Set Identifier
+SSL,SSL—Secure Socket Layer
+SSO,SSO—Single Sign On
+SSP,SSP—Supplementary Special-purpose Plane
+SSSE,SSSE—Supplementary Streaming SIMD Extensions
+SSSP,SSSP—Single Source Shortest Path
+SSTP,SSTP—Secure Socket Tunneling Protocol
+su,su—superuser
+SUS,SUS—Single UNIX Specification
+SUSE,SUSE—Software und System-Entwicklung
+SVC,SVC—Scalable Video Coding
+SVG,SVG—Scalable Vector Graphics
+SVGA,SVGA—Super Video Graphics Array
+SVD,SVD—Structured VLSI Design
+SWF,SWF—Shock Wave Flash
+SWT,SWT—Standard Widget Toolkit
+Sysop,Sysop—System operator
+SOLID,SOLID—Single-responsibility Principle Open-closed Principle Liskov substitution principle Interface segregation principle Dependency Inversion principle
+TAO,TAO—Track-At-Once
+TAPI,TAPI—Telephony Application Programming Interface
+TASM,TASM—Turbo ASseMbler
+TB,TB—TeraByte
+Tcl,Tcl—Tool Command Language
+TCP,TCP—Transmission Control Protocol
+TCP/IP,TCP/IP—Transmission Control Protocol/Internet Protocol
+TCU,TCU—Telecommunication Control Unit
+TDMA,TDMA—Time-Division Multiple Access
+TFT,TFT—Thin-Film Transistor
+TFTP,TFTP—Trivial File Transfer Protocol
+TI,TI—Texas Instruments
+TIFF,TIFF—Tagged Image File Format
+TLA,TLA—Three-Letter Acronym
+TLD,TLD—Top-Level Domain
+TLS,TLS—Thread-Local Storage
+TLS,TLS—Transport Layer Security
+TLV,TLV—Type—length—value
+tmp,tmp—temporary
+TNC,TNC—Terminal Node Controller
+TNC,TNC—Threaded Neill-Concelman connector
+TPF,TPF—Transaction Processing Facility
+TPM,TPM—Trusted Platform Module
+TROFF,TROFF—Trace Off
+TRON,TRON—Trace On
+TRON,TRON—The Real-time Operating system Nucleus
+TRSDOS,TRSDOS—Tandy Radio Shack - Disk Operating System
+TSO,TSO—Time Sharing Option
+TSP,TSP—Traveling Salesman Problem
+TSR,TSR—Terminate and Stay Resident
+TTA,TTA—True Tap Audio
+TTF,TTF—TrueType Font
+TTL,TTL—Transistor—Transistor Logic
+TTL,TTL—Time To Live
+TTS,TTS—Text-to-Speech
+TTY,TTY—Teletype
+TUCOWS,TUCOWS—The Ultimate Collection of Winsock Software
+TUG,TUG—TeX Users Group
+TWAIN,TWAIN—Technology Without An Interesting Name
+UAAG,UAAG—User Agent Accessibility Guidelines
+UAC,UAC—User Account Control
+UART,UART—Universal Asynchronous Receiver/Transmitter
+UAT,UAT—User Acceptance Testing
+UB,UB—Undefined Behavior
+UCS,UCS—Universal Character Set
+UDDI,UDDI—Universal Description Discovery and Integration
+UDMA,UDMA—Ultra DMA
+UDP,UDP—User Datagram Protocol
+UEFI,UEFI—Unified Extensible Firmware Interface
+UHF,UHF—Ultra High Frequency
+UI,UI—User Interface
+UL,UL—Upload
+ULA,ULA—Uncommitted Logic Array
+ULSI,ULSI—Ultra Large Scale Integration
+UMA,UMA—Upper Memory Area
+UMB,UMB—Upper Memory Block
+UML,UML—Unified Modeling Language
+UML,UML—User-Mode Linux
+UMPC,UMPC—Ultra-Mobile Personal Computer
+UMTS,UMTS—Universal Mobile Telecommunications System
+UNC,UNC—Universal Naming Convention
+UNIVAC,UNIVAC—Universal Automatic Computer (By MKS)
+UPS,UPS—Uninterruptible Power Supply or Uninterrupted Power Supply
+URI,URI—Uniform Resource Identifier
+URL,URL—Uniform Resource Locator
+URN,URN—Uniform Resource Name
+USB,USB—Universal Serial Bus
+usr,usr—User System Resources
+USR,USR—U.S. Robotics
+UTC,UTC—Coordinated Universal Time
+UTF,UTF—Unicode Transformation Format
+UTP,UTP—Unshielded Twisted Pair
+UTRAN,UTRAN—Universal Terrestrial Radio Access Network
+UUCP,UUCP—Unix to Unix Copy
+UUID,UUID—Universally Unique Identifier
+UUN,UUN—Universal User Name
+UVC,UVC—Universal Virtual Computer
+UWP,UWP—Universal Windows Platform
+UX,UX—User Experience
+var,var—variable
+VoLTE,VoLTE—Voice Over Long Term Evolution
+VAX,VAX—Virtual Address eXtension
+VCPI,VCPI—Virtual Control Program Interface
+VB,VB—Visual Basic
+VBA,VBA—Visual Basic for Applications
+VBS,VBS—Visual Basic Script
+VDI,VDI—Virtual Desktop Infrastructure
+VDU,VDU—Visual Display Unit
+VDM,VDM—Virtual DOS machine
+VDSL,VDSL—Very High Bitrate Digital Subscriber Line
+VESA,VESA—Video Electronics Standards Association
+VFAT,VFAT—Virtual FAT
+VHD,VHD—Virtual Hard Disk
+VFS,VFS—Virtual File System
+VG,VG—Volume Group
+VGA,VGA—Video Graphics Array
+VHF,VHF—Very High Frequency
+VIRUS,VIRUS—Vital Information Resource Under Seize
+VLAN,VLAN—Virtual Local Area Network
+VLSM,VLSM—Variable Length Subnet Mask
+VLB,VLB—Vesa Local Bus
+VLF,VLF—Very Low Frequency
+VLIW,VLIW—Very Long Instruction Word
+VLSI,VLSI—Very-Large-Scale Integration
+VM,VM—Virtual Machine
+VM,VM—Virtual Memory
+VMM,VMM—Virtual Machine Monitor
+VNC,VNC—Virtual Network Computing
+VOD,VOD—Video On Demand
+VoIP,VoIP—Voice over Internet Protocol
+VPN,VPN—Virtual Private Network
+VPS,VPS—Virtual Private Server
+VPU,VPU—Visual Processing Unit
+VR,VR—Virtual Reality
+VRML,VRML—Virtual Reality Modeling Language
+VSAM,VSAM—Virtual Storage Access Method
+VSAT,VSAT—Very Small Aperture Terminal
+VT,VT—Video Terminal
+VTL,VTL—Virtual Tape Library
+VTAM,VTAM—Virtual Telecommunications Access Method
+VRAM,VRAM—Video Random Access Memory
+W3C,W3C—World Wide Web Consortium
+WWDC,WWDC—Apple World Wide Developer Conference
+WAFS,WAFS—Wide Area File Services
+WAI,WAI—Web Accessibility Initiative
+WAIS,WAIS—Wide Area Information Server
+WAN,WAN—Wide Area Network
+WAP,WAP—Wireless Access Point
+WAP,WAP—Wireless Application Protocol
+WASM,WASM—Watcom ASseMbler
+WBEM,WBEM—Web-Based Enterprise Management
+WCAG,WCAG—Web Content Accessibility Guidelines
+WCF,WCF—Windows Communication Foundation
+WDM,WDM—Wavelength-Division Multiplexing
+WebDAV,WebDAV—WWW Distributed Authoring and Versioning
+WEP,WEP—Wired Equivalent Privacy
+WFI,WFI—Wait For Interrupt
+Wi-Fi,Wi-Fi—Wireless Fidelity
+WiMAX,WiMAX—Worldwide Interoperability for Microwave Access
+WinFS,WinFS—Windows Future Storage
+WinRT,WinRT—Windows RunTime
+WINS,WINS—Windows Internet Name Service
+WLAN,WLAN—Wireless Local Area Network
+WMA,WMA—Windows Media Audio
+WMI,WMI—Windows Management Instrumentation
+WMV,WMV—Windows Media Video
+WNS,WNS—Windows Push Notification Service
+WOL,WOL—Wake-on-LAN
+WOR,WOR—Wake-on-Ring
+WORA,WORA—Write once run anywhere
+WORE,WORE—Write once run everywhere
+WORM,WORM—Write Once Read Many
+WPA,WPA—Wi-Fi Protected Access
+WPAD,WPAD—Web Proxy Autodiscovery Protocol
+WPAN,WPAN—Wireless Personal Area Network
+WPF,WPF—Windows Presentation Foundation
+WS-D,WS-D—Web Services-Discovery
+WSDL,WSDL—Web Services Description Language
+WSFL,WSFL—Web Services Flow Language
+WUSB,WUSB—Wireless Universal Serial Bus
+WWAN,WWAN—Wireless Wide Area Network
+WWID,WWID—World Wide Identifier
+WWN,WWN—World Wide Name
+WWW,WWW—World Wide Web
+WYSIWYG,WYSIWYG—What You See Is What You Get
+WZC,WZC—Wireless Zero Configuration
+XAG,XAG—XML Accessibility Guidelines
+XAML,XAML—eXtensible Application Markup Language
+XDM,XDM—X Window Display Manager
+XDMCP,XDMCP—X Display Manager Control Protocol
+XCBL,XCBL—XML Common Business Library
+XHTML,XHTML—eXtensible Hypertext Markup Language
+XILP,XILP—X Interactive ListProc
+XML,XML—eXtensible Markup Language
+XMMS,XMMS—X Multimedia System
+XMPP,XMPP—eXtensible Messaging and Presence Protocol
+XMS,XMS—Extended Memory Specification
+XNS,XNS—Xerox Network Systems
+XP,XP—Cross-Platform
+XP,XP—Extreme Programming
+XPCOM,XPCOM—Cross Platform Component Object Model
+XPI,XPI—XPInstall
+XPIDL,XPIDL—Cross-Platform IDL
+XPS,XPS—XML Paper Specification
+XSD,XSD—XML Schema Definition
+XSL,XSL—eXtensible Stylesheet Language
+XSL-FO,XSL-FO—eXtensible Stylesheet Language Formatting Objects
+XSLT,XSLT—eXtensible Stylesheet Language Transformations
+XSS,XSS—Cross-Site Scripting
+XTF,XTF—eXtensible Tag Framework
+XTF,XTF—eXtended Triton Format
+XUL,XUL—XML User Interface Language
+XVGA,XVGA—Extended Video Graphics Adapter
+Y2K,Y2K—Year Two Thousand
+YAAF,YAAF—Yet Another Application Framework
+YACC,YACC—Yet Another Compiler Compiler
+YAGNI,YAGNI—You Aren't Gonna Need It
+YAML,YAML—YAML Ain't Markup Language
+YARN,YARN—Yet Another Resource Negotiator
+YaST,YaST—Yet another Setup Tool
+ZCAV,ZCAV—Zone Constant Angular Velocity
+ZCS,ZCS—Zero Code Suppression
+ZIF,ZIF—Zero Insertion Force
+ZIFS,ZIFS—Zero Insertion Force Socket
+ZIP,ZIP—ZIP file archive
+ZISC,ZISC—Zero Instruction Set Computer
+ZOI,ZOI—Zero One Infinity
+ZOPE,ZOPE—Z Object Publishing Environment
+ZMA,ZMA—Zone Multicast Address
+ZPL,ZPL—Z-level Programming Language

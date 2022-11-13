@@ -15,11 +15,6 @@ class NERCreator:
         self.file = file
         self.ner_name = ner_name
 
-    def create_custom_NER_model(self):
-        patterns = create_training_data(self.file, self.type)
-        generate_rules(patterns,self.ner_name)
-        print("The NER model has been created succesfully")
-
     def load_data(self,file):
         with open(file , "r", encoding ="utf-8") as f:
             data = json.load(f)
@@ -28,7 +23,7 @@ class NERCreator:
 
     #This method was taken from Python tutorials for digital humanities
     def create_training_data(self,file,type):
-        data = load_data(file)
+        data = self.load_data(file)
         patterns = []
         for cs_term in data:
             pattern = {
@@ -38,8 +33,14 @@ class NERCreator:
             patterns.append(pattern)
         return (patterns)
 
+    #This method was taken from Python tutorials for digital humanities
     def generate_rules(self,patterns,ner_name):
         nlp = English()
         ruler = nlp.add_pipe("entity_ruler")
         ruler.add_patterns(patterns)
         nlp.to_disk(ner_name)
+
+    def create_custom_NER_model(self):
+        patterns = self.create_training_data(self.file, self.type)
+        self.generate_rules(patterns,self.ner_name)
+        print("The NER model has been created succesfully")

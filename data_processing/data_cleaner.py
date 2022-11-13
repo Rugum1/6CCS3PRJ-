@@ -10,13 +10,10 @@ class DataCleaner:
         return(data)
 
     def remove_special_charachters(data,special_charchters):
-        clean_data = []
         for term in data:
             for charachter in special_charchters:
-                term = term.replace(special_charchters,"")
-            if term not in data:
-                clean_data.append(cs_term)
-        return clean_data
+                term = term.replace(charachter,"")
+        return term
 
     def remove_dashes(data):
         clean_data =[]

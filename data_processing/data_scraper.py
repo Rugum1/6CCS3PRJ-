@@ -25,12 +25,23 @@ class DataScraper:
     def get_next_tag(self,source,tag):
         return source.findNext(tag)
 
-    def write_to_json_file(self,file):
+    def write_to_json_file(self,file,data):
         with open(file,'w',encoding = "utf-8") as f:
-            for cs_term in list_of_cs_terms:
-                f.write(json.dumps(cs_term) + ",\n")
+            for term in data:
+                input_text = term.findNext("a")
+                f.write(json.dumps(input_text.get_text()) + ",\n")
+                f.write(json.dumps(("(" + input_text.get_text()+ ")" ))+ ",\n")
 
-    def write_to_json_file_key_value_pair(self,file,sources):
+    def write_to_csv_file_v2(self,file,sources,header):
+         with open(file,'w',encoding ="utf-8", newline ='') as f:
+             writer = csv.writer(f)
+             writer.writerow(header)
+             writer.writerow(header)
+             for source in sources:
+                 writer.writerow([source.findNext("a").get_text(),source.get_text().replace(",","")])
+
+
+    def write_to_json_file_v2(self,file,sources):
          with open(file,'w',encoding = "utf-8") as f:
              cleaner = DataCleaner()
              for source in sources:
