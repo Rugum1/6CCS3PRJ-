@@ -20,6 +20,7 @@ class CSTermsSpellChecker():
 
 
     def check_spelling(self,text):
+        text = text.strip()
         spell = SpellChecker(distance = 2)
         spell.word_frequency.load_words(self.load_file("./data/computer_science_abreviations.json"))
         spell.word_frequency.load_words(self.process_data_from_file("./data/computer_science_glossary.json"))

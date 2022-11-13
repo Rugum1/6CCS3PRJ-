@@ -53,7 +53,7 @@ class CSAbreviationAdapter(LogicAdapter):
 
     def can_process(self, statement):
         spell = CSTermsSpellChecker()
-        # text_input = spell.check_spelling(statement.text)
+        text_input = spell.check_spelling(statement.text)
         nlp = spacy.load("NER_models/abreviation_ner")
         doc = nlp(statement.text)
         for ent in doc.ents:
