@@ -25,14 +25,14 @@ db = DbFunctions()
 
 
 
-sql ='''CREATE TABLE JAVA_TERM(
-   NAME CHAR(100) NOT NULL,
-   DESCRIPTION VARCHAR NOT NULL
-)'''
-db.create_new_table(sql)
-#
+# sql ='''CREATE TABLE JAVA_TERM(
+#    NAME CHAR(100) NOT NULL,
+#    DESCRIPTION VARCHAR NOT NULL
+# )'''
+# db.create_new_table(sql)
 # #
-db.insert_elements_in_database("JAVA_TERM",file)
+# # #
+# db.insert_elements_in_database("JAVA_TERM",file)
 
 
 
@@ -60,14 +60,10 @@ db.insert_elements_in_database("JAVA_TERM",file)
 #
 # scraper.write_to_json_file("./data/java_glossary.json",data)
 
-# nlp = spacy.load("NER_models/abreviation_ner")
-# doc = nlp("My bike is OOP")
+
+
+# file_dict = {"./data/java_glossary.json" : "JAVA_TERM"}
 #
-# if len(doc.ents) >  0 :
-#     print(doc.ents)
-#
-# file_dict = {"./data/computer_science_glossary.json" : "CS_TERM", "./data/computer_science_abreviations.json" : "CS_ABREVIATION","./data/java_glossary.json" : "JAVA_TERM"}
-#
-# ner = NERCreator(file_dict,"cs_ner_2")
+# ner = NERCreator(file_dict,"java_ner")
 #
 # ner.create_custom_NER_model()

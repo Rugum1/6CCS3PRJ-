@@ -1,0 +1,277 @@
+{"label":"JAVA_TERM","pattern":"abstract"}
+{"label":"JAVA_TERM","pattern":"abstract class"}
+{"label":"JAVA_TERM","pattern":"abstract method"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit (AWT)"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit AWT"}
+{"label":"JAVA_TERM","pattern":"Abstract Window Toolkit"}
+{"label":"JAVA_TERM","pattern":"access control"}
+{"label":"JAVA_TERM","pattern":"ACID"}
+{"label":"JAVA_TERM","pattern":"actual parameter list"}
+{"label":"JAVA_TERM","pattern":"API"}
+{"label":"JAVA_TERM","pattern":"applet"}
+{"label":"JAVA_TERM","pattern":"argument"}
+{"label":"JAVA_TERM","pattern":"array"}
+{"label":"JAVA_TERM","pattern":"ASCII"}
+{"label":"JAVA_TERM","pattern":"atomic"}
+{"label":"JAVA_TERM","pattern":"authentication"}
+{"label":"JAVA_TERM","pattern":"authorization"}
+{"label":"JAVA_TERM","pattern":"autoboxing"}
+{"label":"JAVA_TERM","pattern":"bean"}
+{"label":"JAVA_TERM","pattern":"binary operator"}
+{"label":"JAVA_TERM","pattern":"bit"}
+{"label":"JAVA_TERM","pattern":"bitwise operator"}
+{"label":"JAVA_TERM","pattern":"block"}
+{"label":"JAVA_TERM","pattern":"boolean"}
+{"label":"JAVA_TERM","pattern":"break"}
+{"label":"JAVA_TERM","pattern":"byte"}
+{"label":"JAVA_TERM","pattern":"bytecode"}
+{"label":"JAVA_TERM","pattern":"case"}
+{"label":"JAVA_TERM","pattern":"casting"}
+{"label":"JAVA_TERM","pattern":"catch"}
+{"label":"JAVA_TERM","pattern":"char"}
+{"label":"JAVA_TERM","pattern":"class"}
+{"label":"JAVA_TERM","pattern":"class method"}
+{"label":"JAVA_TERM","pattern":"class variable"}
+{"label":"JAVA_TERM","pattern":"classpath"}
+{"label":"JAVA_TERM","pattern":"client"}
+{"label":"JAVA_TERM","pattern":"codebase"}
+{"label":"JAVA_TERM","pattern":"comment"}
+{"label":"JAVA_TERM","pattern":"commit"}
+{"label":"JAVA_TERM","pattern":"compilation unit"}
+{"label":"JAVA_TERM","pattern":"compiler"}
+{"label":"JAVA_TERM","pattern":"compositing"}
+{"label":"JAVA_TERM","pattern":"constructor"}
+{"label":"JAVA_TERM","pattern":"const"}
+{"label":"JAVA_TERM","pattern":"continue"}
+{"label":"JAVA_TERM","pattern":"conversational state"}
+{"label":"JAVA_TERM","pattern":"CORBA"}
+{"label":"JAVA_TERM","pattern":"core class"}
+{"label":"JAVA_TERM","pattern":"core packages"}
+{"label":"JAVA_TERM","pattern":"credentials"}
+{"label":"JAVA_TERM","pattern":"critical section"}
+{"label":"JAVA_TERM","pattern":"declaration"}
+{"label":"JAVA_TERM","pattern":"default"}
+{"label":"JAVA_TERM","pattern":"definition"}
+{"label":"JAVA_TERM","pattern":"delegation"}
+{"label":"JAVA_TERM","pattern":"deprecation"}
+{"label":"JAVA_TERM","pattern":"derived from"}
+{"label":"JAVA_TERM","pattern":"distributed"}
+{"label":"JAVA_TERM","pattern":"distributed application"}
+{"label":"JAVA_TERM","pattern":"do"}
+{"label":"JAVA_TERM","pattern":"DOM"}
+{"label":"JAVA_TERM","pattern":"double"}
+{"label":"JAVA_TERM","pattern":"double precision"}
+{"label":"JAVA_TERM","pattern":"DTD"}
+{"label":"JAVA_TERM","pattern":"else"}
+{"label":"JAVA_TERM","pattern":"EmbeddedJava Technology"}
+{"label":"JAVA_TERM","pattern":"encapsulation"}
+{"label":"JAVA_TERM","pattern":"enum"}
+{"label":"JAVA_TERM","pattern":"enumerated type"}
+{"label":"JAVA_TERM","pattern":"exception"}
+{"label":"JAVA_TERM","pattern":"exception handler"}
+{"label":"JAVA_TERM","pattern":"executable content"}
+{"label":"JAVA_TERM","pattern":"extends"}
+{"label":"JAVA_TERM","pattern":"field"}
+{"label":"JAVA_TERM","pattern":"final"}
+{"label":"JAVA_TERM","pattern":"finally"}
+{"label":"JAVA_TERM","pattern":"float"}
+{"label":"JAVA_TERM","pattern":"for"}
+{"label":"JAVA_TERM","pattern":"FTP"}
+{"label":"JAVA_TERM","pattern":"formal parameter list"}
+{"label":"JAVA_TERM","pattern":"garbage collection"}
+{"label":"JAVA_TERM","pattern":"generic"}
+{"label":"JAVA_TERM","pattern":"goto"}
+{"label":"JAVA_TERM","pattern":"group"}
+{"label":"JAVA_TERM","pattern":"GUI"}
+{"label":"JAVA_TERM","pattern":"hexadecimal"}
+{"label":"JAVA_TERM","pattern":"hierarchy"}
+{"label":"JAVA_TERM","pattern":"HTML"}
+{"label":"JAVA_TERM","pattern":"HTTP"}
+{"label":"JAVA_TERM","pattern":"HTTPS"}
+{"label":"JAVA_TERM","pattern":"IDL"}
+{"label":"JAVA_TERM","pattern":"identifier"}
+{"label":"JAVA_TERM","pattern":"IIOP"}
+{"label":"JAVA_TERM","pattern":"if"}
+{"label":"JAVA_TERM","pattern":"impersonation"}
+{"label":"JAVA_TERM","pattern":"implements"}
+{"label":"JAVA_TERM","pattern":"import"}
+{"label":"JAVA_TERM","pattern":"inheritance"}
+{"label":"JAVA_TERM","pattern":"instance"}
+{"label":"JAVA_TERM","pattern":"instance method"}
+{"label":"JAVA_TERM","pattern":"instance variable"}
+{"label":"JAVA_TERM","pattern":"instanceof"}
+{"label":"JAVA_TERM","pattern":"int"}
+{"label":"JAVA_TERM","pattern":"interface"}
+{"label":"JAVA_TERM","pattern":"Internet"}
+{"label":"JAVA_TERM","pattern":"IP"}
+{"label":"JAVA_TERM","pattern":"interpreter"}
+{"label":"JAVA_TERM","pattern":"JAIN"}
+{"label":"JAVA_TERM","pattern":"JAR"}
+{"label":"JAVA_TERM","pattern":"Java"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition (J2EE platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition J2EE platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Enterprise Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition (J2ME platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition J2ME platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Micro Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition (J2SE platform)"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition J2SE platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 Platform, Standard Edition  platform"}
+{"label":"JAVA_TERM","pattern":"Java 2 SDK, Standard Edition"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks (JAIN)"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks JAIN"}
+{"label":"JAVA_TERM","pattern":"Java APIs for Integrated Networks JAIN"}
+{"label":"JAVA_TERM","pattern":"Java Card API"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit (JCK)"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit JCK"}
+{"label":"JAVA_TERM","pattern":"Java Compatibility Kit JCK"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity (JDBC)"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity JDBC"}
+{"label":"JAVA_TERM","pattern":"Java Database Connectivity"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit (JDK)"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit JDK"}
+{"label":"JAVA_TERM","pattern":"Java Development Kit"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes (JFC)"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes JFC"}
+{"label":"JAVA_TERM","pattern":"Java Foundation Classes"}
+{"label":"JAVA_TERM","pattern":"Java IDL"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language (IDL)"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language IDL"}
+{"label":"JAVA_TERM","pattern":"Java Interface Definition Language"}
+{"label":"JAVA_TERM","pattern":"Java Media APIs"}
+{"label":"JAVA_TERM","pattern":"Java Media Framework"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface (JNDI)"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface JNDI"}
+{"label":"JAVA_TERM","pattern":"Java Naming and Directory Interface"}
+{"label":"JAVA_TERM","pattern":"Java Native Interface"}
+{"label":"JAVA_TERM","pattern":"Java Platform"}
+{"label":"JAVA_TERM","pattern":"Java Platform Editions"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation (RMI)"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation RMI"}
+{"label":"JAVA_TERM","pattern":"Java Remote Method Invocation"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment (JRE)"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment JRE"}
+{"label":"JAVA_TERM","pattern":"Java Runtime Environment"}
+{"label":"JAVA_TERM","pattern":"Java virtual machine    1"}
+{"label":"JAVA_TERM","pattern":"JavaBeans"}
+{"label":"JAVA_TERM","pattern":"JavaCheck"}
+{"label":"JAVA_TERM","pattern":"JavaSafe"}
+{"label":"JAVA_TERM","pattern":"JavaScript"}
+{"label":"JAVA_TERM","pattern":"JavaSpaces"}
+{"label":"JAVA_TERM","pattern":"JDBC"}
+{"label":"JAVA_TERM","pattern":"JDK"}
+{"label":"JAVA_TERM","pattern":"JFC"}
+{"label":"JAVA_TERM","pattern":"Jini Technology"}
+{"label":"JAVA_TERM","pattern":"JNDI"}
+{"label":"JAVA_TERM","pattern":"JNI"}
+{"label":"JAVA_TERM","pattern":"JRE"}
+{"label":"JAVA_TERM","pattern":"Just-in-time (JIT) Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time (JIT) Compiler"}
+{"label":"JAVA_TERM","pattern":"Just-in-time JIT Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time JIT Compiler"}
+{"label":"JAVA_TERM","pattern":"Just-in-time  Compiler"}
+{"label":"JAVA_TERM","pattern":"Just in time  Compiler"}
+{"label":"JAVA_TERM","pattern":"JVM"}
+{"label":"JAVA_TERM","pattern":"keyword"}
+{"label":"JAVA_TERM","pattern":"lexical"}
+{"label":"JAVA_TERM","pattern":"linker"}
+{"label":"JAVA_TERM","pattern":"literal"}
+{"label":"JAVA_TERM","pattern":"local variable"}
+{"label":"JAVA_TERM","pattern":"long"}
+{"label":"JAVA_TERM","pattern":"member"}
+{"label":"JAVA_TERM","pattern":"method"}
+{"label":"JAVA_TERM","pattern":"multithreaded"}
+{"label":"JAVA_TERM","pattern":"native"}
+{"label":"JAVA_TERM","pattern":"new"}
+{"label":"JAVA_TERM","pattern":"null"}
+{"label":"JAVA_TERM","pattern":"object"}
+{"label":"JAVA_TERM","pattern":"object-oriented design"}
+{"label":"JAVA_TERM","pattern":"object oriented design"}
+{"label":"JAVA_TERM","pattern":"octal"}
+{"label":"JAVA_TERM","pattern":"optional packages"}
+{"label":"JAVA_TERM","pattern":"ORB"}
+{"label":"JAVA_TERM","pattern":"OS principal"}
+{"label":"JAVA_TERM","pattern":"OTS"}
+{"label":"JAVA_TERM","pattern":"overloading"}
+{"label":"JAVA_TERM","pattern":"overriding"}
+{"label":"JAVA_TERM","pattern":"package"}
+{"label":"JAVA_TERM","pattern":"peer"}
+{"label":"JAVA_TERM","pattern":"persistence"}
+{"label":"JAVA_TERM","pattern":"pixel"}
+{"label":"JAVA_TERM","pattern":"POA"}
+{"label":"JAVA_TERM","pattern":"primary key"}
+{"label":"JAVA_TERM","pattern":"primitive type"}
+{"label":"JAVA_TERM","pattern":"principal"}
+{"label":"JAVA_TERM","pattern":"private"}
+{"label":"JAVA_TERM","pattern":"privilege"}
+{"label":"JAVA_TERM","pattern":"process"}
+{"label":"JAVA_TERM","pattern":"property"}
+{"label":"JAVA_TERM","pattern":"profiles"}
+{"label":"JAVA_TERM","pattern":"protected"}
+{"label":"JAVA_TERM","pattern":"public"}
+{"label":"JAVA_TERM","pattern":"raster"}
+{"label":"JAVA_TERM","pattern":"realm"}
+{"label":"JAVA_TERM","pattern":"reference"}
+{"label":"JAVA_TERM","pattern":"return"}
+{"label":"JAVA_TERM","pattern":"RMI"}
+{"label":"JAVA_TERM","pattern":"rollback"}
+{"label":"JAVA_TERM","pattern":"root"}
+{"label":"JAVA_TERM","pattern":"RPC"}
+{"label":"JAVA_TERM","pattern":"runtime system"}
+{"label":"JAVA_TERM","pattern":"SAX"}
+{"label":"JAVA_TERM","pattern":"sandbox"}
+{"label":"JAVA_TERM","pattern":"scope"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer (SSL)"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer SSL"}
+{"label":"JAVA_TERM","pattern":"Secure Socket Layer"}
+{"label":"JAVA_TERM","pattern":"security attributes"}
+{"label":"JAVA_TERM","pattern":"security context"}
+{"label":"JAVA_TERM","pattern":"security policy domain"}
+{"label":"JAVA_TERM","pattern":"security technology domain"}
+{"label":"JAVA_TERM","pattern":"serialization"}
+{"label":"JAVA_TERM","pattern":"short"}
+{"label":"JAVA_TERM","pattern":"single precision"}
+{"label":"JAVA_TERM","pattern":"SGML"}
+{"label":"JAVA_TERM","pattern":"SOAP"}
+{"label":"JAVA_TERM","pattern":"SQL"}
+{"label":"JAVA_TERM","pattern":"static"}
+{"label":"JAVA_TERM","pattern":"static field"}
+{"label":"JAVA_TERM","pattern":"static method"}
+{"label":"JAVA_TERM","pattern":"stream"}
+{"label":"JAVA_TERM","pattern":"subarray"}
+{"label":"JAVA_TERM","pattern":"subclass"}
+{"label":"JAVA_TERM","pattern":"subtype"}
+{"label":"JAVA_TERM","pattern":"superclass"}
+{"label":"JAVA_TERM","pattern":"super"}
+{"label":"JAVA_TERM","pattern":"supertype"}
+{"label":"JAVA_TERM","pattern":"switch"}
+{"label":"JAVA_TERM","pattern":"Swing"}
+{"label":"JAVA_TERM","pattern":"synchronized"}
+{"label":"JAVA_TERM","pattern":"TCP/IP"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit (TCK)"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit TCK"}
+{"label":"JAVA_TERM","pattern":"Technology Compatibility Kit TCK"}
+{"label":"JAVA_TERM","pattern":"thin client"}
+{"label":"JAVA_TERM","pattern":"this"}
+{"label":"JAVA_TERM","pattern":"thread"}
+{"label":"JAVA_TERM","pattern":"throw"}
+{"label":"JAVA_TERM","pattern":"throws"}
+{"label":"JAVA_TERM","pattern":"transaction"}
+{"label":"JAVA_TERM","pattern":"transaction isolation level"}
+{"label":"JAVA_TERM","pattern":"transaction manager"}
+{"label":"JAVA_TERM","pattern":"transient"}
+{"label":"JAVA_TERM","pattern":"try"}
+{"label":"JAVA_TERM","pattern":"type"}
+{"label":"JAVA_TERM","pattern":"Unicode"}
+{"label":"JAVA_TERM","pattern":"URI"}
+{"label":"JAVA_TERM","pattern":"URL"}
+{"label":"JAVA_TERM","pattern":"URN"}
+{"label":"JAVA_TERM","pattern":"variable"}
+{"label":"JAVA_TERM","pattern":"virtual machine"}
+{"label":"JAVA_TERM","pattern":"void"}
+{"label":"JAVA_TERM","pattern":"volatile"}
+{"label":"JAVA_TERM","pattern":"Web server"}
+{"label":"JAVA_TERM","pattern":"while"}
+{"label":"JAVA_TERM","pattern":"world readable files"}
+{"label":"JAVA_TERM","pattern":"wrapper"}
