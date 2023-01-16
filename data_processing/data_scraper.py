@@ -35,7 +35,6 @@ class DataScraper:
          with open(file,'w',encoding ="utf-8", newline ='') as f:
              writer = csv.writer(f)
              writer.writerow(header)
-             writer.writerow(header)
              for source in sources:
                  writer.writerow([source.findNext("a").get_text(),source.get_text().replace(",","")])
 

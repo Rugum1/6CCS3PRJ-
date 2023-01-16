@@ -1,7 +1,8 @@
-import json
+import csv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
+from top2vec import Top2Vec
 
 
 xPath ="//dfn[contains(@class, 'glossary')]/a"
@@ -18,19 +19,29 @@ for option in all_options:
 
 paragraph_list = []
 xPath2 =  "//p"
-for i in range(2) :
-    print(link_list[i])
-    driver.get(link_list[i])
+for link in link_list:
+    driver.get(link)
     all_paragraphs = driver.find_elements(By.XPATH, xPath2)
     for paragraph in all_paragraphs:
+        print(paragraph.text)
+        print()
         paragraph_list.append(paragraph.text)
 
-file = "./data/computer_science_dataset.json"
+file = "./data/computer_science_dataset.csv"
 j = 0
-with open(file,'w',encoding = "utf-8") as f:
-    for paragraph in paragraph_list:
-        f.write(json.dumps({j:paragraph })+ ",\\n")
-        j+= 1
+header=["number","paragraph"]
+with open(file,'w',encoding ="utf-8", newline ='') as f:
+     writer = csv.writer(f)
+     writer.writerow(header)
+     for paragraph in paragraph_list:
+         paragraph=paragraph.strip()
+         paragraph=paragraph.replace("(","").replace(")","").replace("{","").replace("}","")
+         paragraph = paragraph.replace("[","").replace("]","")
+         paragraph = ' '.join(paragraph.split())
+         if paragraph != "" and len(paragraph.split()) > 5:
+              writer.writerow([j,paragraph])
+              j+= 1
+
 
 
 print(len(paragraph_list))
