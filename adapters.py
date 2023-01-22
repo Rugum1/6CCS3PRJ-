@@ -4,8 +4,12 @@ import spacy
 from helper_methods_for_adapters import CsTermsAdapterHelpers
 from  spell_checker import CSTermsSpellChecker
 from database_functions import DbFunctions
+import helpers
 
 class CSTermsAdapter(LogicAdapter):
+
+    model = helpers.load_bm25_model("BM25/model2.pkl")
+    corpus = helpers.load_corpus("./data2/processed_computer_science_index.csv")
 
 
     def __init__(self, chatbot, **kwargs):

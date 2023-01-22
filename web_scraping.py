@@ -3,44 +3,60 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from top2vec import Top2Vec
+from transformers import pipeline
+import pandas as pd
 
 
-xPath ="//dfn[contains(@class, 'glossary')]/a"
+summarizer = pipeline("summarization", model="philschmid/bart-large-cnn-samsum")
+
+xPath ="//div[contains(@style, 'width:46%; float:left; margin:0; padding:10px;')]//ul//li//a"
+# "//div[contains(@class, 'mw-content-container')]/a"
 
 driver = webdriver.Safari()
-driver.get("https://en.wikipedia.org/wiki/Glossary_of_computer_science")
+driver.get("https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles")
 all_options = driver.find_elements(By.XPATH, xPath)
+df2 = pd.read_csv("./data2/links.csv")
 
-link_list = []
-
-for option in all_options:
-    link_list.append(option.get_attribute("href"))
-
+# link_list = []
+# i = 0
+# for option in all_options:
+#
+#     if i < 20:
+#         link_list.append(option.get_attribute("href"))
+#         i+=1
+#
 
 paragraph_list = []
 xPath2 =  "//p"
-for link in link_list:
-    driver.get(link)
+for i in range(len(df2)):
+    driver.get(df2.iloc[i]["link"])
     all_paragraphs = driver.find_elements(By.XPATH, xPath2)
+    article = ""
     for paragraph in all_paragraphs:
+        # print(paragraph.text)
         print(paragraph.text)
         print()
         paragraph_list.append(paragraph.text)
 
-file = "./data/computer_science_dataset.csv"
+
+
+file = "./data2/computer_science_index.csv"
 j = 0
-header=["number","paragraph"]
+header=["paragraph"]
 with open(file,'w',encoding ="utf-8", newline ='') as f:
      writer = csv.writer(f)
      writer.writerow(header)
      for paragraph in paragraph_list:
+         print(paragraph)
          paragraph=paragraph.strip()
          paragraph=paragraph.replace("(","").replace(")","").replace("{","").replace("}","")
          paragraph = paragraph.replace("[","").replace("]","")
          paragraph = ' '.join(paragraph.split())
          if paragraph != "" and len(paragraph.split()) > 5:
-              writer.writerow([j,paragraph])
-              j+= 1
+              writer.writerow([paragraph])
+
+
+
 
 
 
