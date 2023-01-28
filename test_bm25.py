@@ -7,15 +7,15 @@ from transformers import AutoTokenizer
 from transformers import pipeline
 
 
-df = pd.read_csv("./data2/processed_computer_science_index.csv")
+df = pd.read_csv("./data2/concatenated_data_2.csv")
 
-file_name = "BM25/model2.pkl"
+file_name = "BM25/model6.pkl"
 # load  model
 with open(file_name, 'rb') as file:
     model = pickle.load(file)
 
 
-query = "object oriented programming"
+query = "user interface"
 nlp = spacy.load("en_core_web_sm")
 doc = nlp(query)
 
@@ -34,24 +34,24 @@ corpus = []
 for index in range(0,len(df)):
     corpus.append(df.iloc[index]["paragraph"])
 
-answer_list = model.get_top_n(tokenized_query, corpus, n=5)
+answer_list = model.get_top_n(["agile software development"], corpus, n=10)
 
 for element in answer_list:
     print(element)
     print()
 
 
-context = ""
-for answer in answer_list:
-    context += answer
+# context = ""
+# for answer in answer_list:
+#     context += answer
 
 
-model = BertForQuestionAnswering.from_pretrained('deepset/bert-base-cased-squad2')
+# model = BertForQuestionAnswering.from_pretrained('deepset/bert-base-cased-squad2')
 
-tokenizer = AutoTokenizer.from_pretrained('deepset/bert-base-cased-squad2')
-tokenizer.encode(query,truncation = True, padding=True)
+# tokenizer = AutoTokenizer.from_pretrained('deepset/bert-base-cased-squad2')
+# tokenizer.encode(query,truncation = True, padding=True)
 
-nlp2 = pipeline('question-answering', model = model, tokenizer = tokenizer)
+# nlp2 = pipeline('question-answering', model = model, tokenizer = tokenizer)
 
 
-print(nlp2({ 'question' : "What is an accesor method?",'context' : context}))
+# print(nlp2({ 'question' : "What is an accesor method?",'context' : context}))

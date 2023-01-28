@@ -1,0 +1,127 @@
+{"label":"CS_TERM","pattern":"abstract type"}
+{"label":"CS_TERM","pattern":"method"}
+{"label":"CS_TERM","pattern":"variable"}
+{"label":"CS_TERM","pattern":"overriding"}
+{"label":"CS_TERM","pattern":"overloading"}
+{"label":"CS_TERM","pattern":"accessor method"}
+{"label":"CS_TERM","pattern":"mutator method"}
+{"label":"CS_TERM","pattern":"manager methods"}
+{"label":"CS_TERM","pattern":"constructor"}
+{"label":"CS_TERM","pattern":"destructor"}
+{"label":"CS_TERM","pattern":"abstract method"}
+{"label":"CS_TERM","pattern":"class method"}
+{"label":"CS_TERM","pattern":"static method"}
+{"label":"CS_TERM","pattern":"access modifier"}
+{"label":"CS_TERM","pattern":"abstraction"}
+{"label":"CS_TERM","pattern":"data abstraction"}
+{"label":"CS_TERM","pattern":"type conversion"}
+{"label":"CS_TERM","pattern":"type casting"}
+{"label":"CS_TERM","pattern":"type coercion"}
+{"label":"CS_TERM","pattern":"type juggling"}
+{"label":"CS_TERM","pattern":"implicit type conversion"}
+{"label":"CS_TERM","pattern":"type promotion"}
+{"label":"CS_TERM","pattern":"explicit type conversion"}
+{"label":"CS_TERM","pattern":"class"}
+{"label":"CS_TERM","pattern":"class interface"}
+{"label":"CS_TERM","pattern":"member accessibility"}
+{"label":"CS_TERM","pattern":"abstract class"}
+{"label":"CS_TERM","pattern":"abstract base class"}
+{"label":"CS_TERM","pattern":"concrete class"}
+{"label":"CS_TERM","pattern":"non-subclassable class"}
+{"label":"CS_TERM","pattern":"uninstantiable class"}
+{"label":"CS_TERM","pattern":"partial class"}
+{"label":"CS_TERM","pattern":"open class"}
+{"label":"CS_TERM","pattern":"metaclasses"}
+{"label":"CS_TERM","pattern":"class-private"}
+{"label":"CS_TERM","pattern":"class-protected"}
+{"label":"CS_TERM","pattern":"public"}
+{"label":"CS_TERM","pattern":"subclass"}
+{"label":"CS_TERM","pattern":"superclass"}
+{"label":"CS_TERM","pattern":"inheritance"}
+{"label":"CS_TERM","pattern":"single inheritance"}
+{"label":"CS_TERM","pattern":"multiple inheritance"}
+{"label":"CS_TERM","pattern":"multilevel inheritance"}
+{"label":"CS_TERM","pattern":"hierarchical inheritance"}
+{"label":"CS_TERM","pattern":"subtyping"}
+{"label":"CS_TERM","pattern":"object-oriented programming"}
+{"label":"CS_TERM","pattern":"object oriented programming"}
+{"label":"CS_TERM","pattern":"immutable object"}
+{"label":"CS_TERM","pattern":"multiple dispatch"}
+{"label":"CS_TERM","pattern":"single dispatch"}
+{"label":"CS_TERM","pattern":"logical cohesion"}
+{"label":"CS_TERM","pattern":"temporal cohesion"}
+{"label":"CS_TERM","pattern":"coincidental cohesion"}
+{"label":"CS_TERM","pattern":"procedural cohesion"}
+{"label":"CS_TERM","pattern":"sequential cohesion"}
+{"label":"CS_TERM","pattern":"functional cohesion"}
+{"label":"CS_TERM","pattern":"perfect cohesion"}
+{"label":"CS_TERM","pattern":"cohesion"}
+{"label":"CS_TERM","pattern":"object composition"}
+{"label":"CS_TERM","pattern":"object aggregation"}
+{"label":"CS_TERM","pattern":"aggregation"}
+{"label":"CS_TERM","pattern":"composition"}
+{"label":"CS_TERM","pattern":"default constructor"}
+{"label":"CS_TERM","pattern":"parameterized constructor"}
+{"label":"CS_TERM","pattern":"copy constructor"}
+{"label":"CS_TERM","pattern":"conversion constructor"}
+{"label":"CS_TERM","pattern":"move constructor"}
+{"label":"CS_TERM","pattern":"coupling"}
+{"label":"CS_TERM","pattern":"content coupling"}
+{"label":"CS_TERM","pattern":"common coupling"}
+{"label":"CS_TERM","pattern":"external coupling"}
+{"label":"CS_TERM","pattern":"control coupling"}
+{"label":"CS_TERM","pattern":"stamp coupling"}
+{"label":"CS_TERM","pattern":"data coupling"}
+{"label":"CS_TERM","pattern":"subclass coupling"}
+{"label":"CS_TERM","pattern":"temporal coupling"}
+{"label":"CS_TERM","pattern":"dynamic coupling"}
+{"label":"CS_TERM","pattern":"semantic coupling"}
+{"label":"CS_TERM","pattern":"logical coupling"}
+{"label":"CS_TERM","pattern":"tight coupling"}
+{"label":"CS_TERM","pattern":"destructor"}
+{"label":"CS_TERM","pattern":"dynamic dispatch"}
+{"label":"CS_TERM","pattern":"encapsulation"}
+{"label":"CS_TERM","pattern":"information hiding"}
+{"label":"CS_TERM","pattern":"exception handling"}
+{"label":"CS_TERM","pattern":"immutable variables"}
+{"label":"CS_TERM","pattern":"weak immutability"}
+{"label":"CS_TERM","pattern":"strong immutability"}
+{"label":"CS_TERM","pattern":"referencing"}
+{"label":"CS_TERM","pattern":"instance"}
+{"label":"CS_TERM","pattern":"instance variable"}
+{"label":"CS_TERM","pattern":"interface"}
+{"label":"CS_TERM","pattern":"diamond problem"}
+{"label":"CS_TERM","pattern":"multiple inheritance"}
+{"label":"CS_TERM","pattern":"boxing"}
+{"label":"CS_TERM","pattern":"autoboxing"}
+{"label":"CS_TERM","pattern":"wrapping"}
+{"label":"CS_TERM","pattern":"automatic unboxing"}
+{"label":"CS_TERM","pattern":"unboxing"}
+{"label":"CS_TERM","pattern":"primitive data types"}
+{"label":"CS_TERM","pattern":"integer"}
+{"label":"CS_TERM","pattern":"floating-point numbers"}
+{"label":"CS_TERM","pattern":"boolean"}
+{"label":"CS_TERM","pattern":"scope"}
+{"label":"CS_TERM","pattern":"dynamic scope"}
+{"label":"CS_TERM","pattern":"lexical scope"}
+{"label":"CS_TERM","pattern":"expression scope"}
+{"label":"CS_TERM","pattern":"block scope"}
+{"label":"CS_TERM","pattern":"function scope"}
+{"label":"CS_TERM","pattern":"file scope"}
+{"label":"CS_TERM","pattern":"module scope"}
+{"label":"CS_TERM","pattern":"global scope"}
+{"label":"CS_TERM","pattern":"ad hoc polymorphism"}
+{"label":"CS_TERM","pattern":"subtyping"}
+{"label":"CS_TERM","pattern":"dynamic polymorphism"}
+{"label":"CS_TERM","pattern":"static polymorphism"}
+{"label":"CS_TERM","pattern":"polymorphism"}
+{"label":"CS_TERM","pattern":"type system"}
+{"label":"CS_TERM","pattern":"static type checking"}
+{"label":"CS_TERM","pattern":"type checking"}
+{"label":"CS_TERM","pattern":"dynamic type checking"}
+{"label":"CS_TERM","pattern":"weak type system"}
+{"label":"CS_TERM","pattern":"strong type system"}
+{"label":"CS_TERM","pattern":"implicit declaration"}
+{"label":"CS_TERM","pattern":"explicit declaration"}
+{"label":"CS_TERM","pattern":"unified type system"}
+{"label":"CS_TERM","pattern":"object"}

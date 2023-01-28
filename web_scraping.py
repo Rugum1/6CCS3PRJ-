@@ -27,33 +27,31 @@ df2 = pd.read_csv("./data2/links.csv")
 #
 
 paragraph_list = []
-xPath2 =  "//p"
+xPath2 =  "//a"
+xPath3 = "//span[@class= 'mw-headline']/following-sibling::*"
 for i in range(len(df2)):
     driver.get(df2.iloc[i]["link"])
     all_paragraphs = driver.find_elements(By.XPATH, xPath2)
     article = ""
+    combined_paragraphs =""
     for paragraph in all_paragraphs:
-        # print(paragraph.text)
-        print(paragraph.text)
-        print()
         paragraph_list.append(paragraph.text)
 
 
-
-file = "./data2/computer_science_index.csv"
+file = "./data2/object_oriented_terms.csv"
 j = 0
 header=["paragraph"]
 with open(file,'w',encoding ="utf-8", newline ='') as f:
      writer = csv.writer(f)
      writer.writerow(header)
      for paragraph in paragraph_list:
-         print(paragraph)
-         paragraph=paragraph.strip()
-         paragraph=paragraph.replace("(","").replace(")","").replace("{","").replace("}","")
-         paragraph = paragraph.replace("[","").replace("]","")
-         paragraph = ' '.join(paragraph.split())
-         if paragraph != "" and len(paragraph.split()) > 5:
-              writer.writerow([paragraph])
+        #  print(paragraph)
+        #  paragraph=paragraph.strip()
+        #  paragraph=paragraph.replace("(","").replace(")","").replace("{","").replace("}","")
+        #  paragraph = paragraph.replace("[","").replace("]","")
+        #  paragraph = ' '.join(paragraph.split())
+        #  if paragraph != "" and len(paragraph.split()) > 5:
+        writer.writerow([paragraph])
 
 
 

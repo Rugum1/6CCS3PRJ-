@@ -31,6 +31,7 @@ class NERCreator:
                 patterns.append(pattern)
         return (patterns)
 
+
     #This method was taken from Python tutorials for digital humanities
     def generate_rules(self,patterns,ner_name):
         nlp = English()
