@@ -5,17 +5,18 @@ import spacy
 from transformers import BertForQuestionAnswering
 from transformers import AutoTokenizer
 from transformers import pipeline
+from pandarallel import pandarallel
 
 
-df = pd.read_csv("./data2/whole_page_indexed.csv")
+df = pd.read_csv("./data2/concatenated_data_2.csv")
 
-file_name = "BM25/model3.pkl"
+file_name = "BM25/model8(BM25+).pkl"
 # load  model
 with open(file_name, 'rb') as file:
     model = pickle.load(file)
 
 
-query = "scope"
+query = "user interface"
 nlp = spacy.load("en_core_web_sm")
 doc = nlp(query)
 
@@ -34,25 +35,27 @@ corpus = []
 for index in range(0,len(df)):
     corpus.append(df.iloc[index]["paragraph"])
 
-answer_list = model.get_top_n(tokenized_query, corpus, n=1)
+answer_list = model.get_top_n(["abstract type","implement"], corpus, n=10)
 
-print(answer_list[0])
-
-# for element in answer_list:
-#     print(element)
-#     print()
+for element in answer_list:
+    print(element)
+    print()
 
 
-context = ""
-for answer in answer_list:
-    context += answer
 
 
-model = BertForQuestionAnswering.from_pretrained("deepset/bert-large-uncased-whole-word-masking-squad2")
 
-tokenizer = AutoTokenizer.from_pretrained('deepset/bert-large-uncased-whole-word-masking-squad2')
+# context = ""
+# for answer in answer_list:
+#     context += answer
 
-nlp2 = pipeline('question-answering', model = model, tokenizer = tokenizer)
+
+# model = BertForQuestionAnswering.from_pretrained('deepset/bert-base-cased-squad2')
+
+# tokenizer = AutoTokenizer.from_pretrained('deepset/bert-base-cased-squad2')
+# tokenizer.encode(query,truncation = True, padding=True)
+
+# nlp2 = pipeline('question-answering', model = model, tokenizer = tokenizer)
 
 
-print(nlp2({ 'question' : "what is scope?",'context' : answer_list[0]}))
+# print(nlp2({ 'question' : "What is an accesor method?",'context' : context}))

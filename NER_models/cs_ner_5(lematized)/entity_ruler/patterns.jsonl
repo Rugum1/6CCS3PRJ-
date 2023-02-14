@@ -1,0 +1,512 @@
+{"label":"CS_term","pattern":"abstract datum type adt"}
+{"label":"CS_term","pattern":"abstract datum type adt"}
+{"label":"CS_term","pattern":"abstract datum type"}
+{"label":"CS_term","pattern":"abstract method"}
+{"label":"CS_term","pattern":"abstraction"}
+{"label":"CS_term","pattern":"agent architecture"}
+{"label":"CS_term","pattern":"agent base model abm"}
+{"label":"CS_term","pattern":"agent base model abm"}
+{"label":"CS_term","pattern":"agent base model abm"}
+{"label":"CS_term","pattern":"agent base model abm"}
+{"label":"CS_term","pattern":"agent base model"}
+{"label":"CS_term","pattern":"agent base model"}
+{"label":"CS_term","pattern":"aggregate function"}
+{"label":"CS_term","pattern":"agile software development"}
+{"label":"CS_term","pattern":"algorithm"}
+{"label":"CS_term","pattern":"algorithm design"}
+{"label":"CS_term","pattern":"algorithmic efficiency"}
+{"label":"CS_term","pattern":"american standard code for information interchange ascii"}
+{"label":"CS_term","pattern":"american standard code for information interchange ascii"}
+{"label":"CS_term","pattern":"american standard code for information interchange"}
+{"label":"CS_term","pattern":"application programming interface api"}
+{"label":"CS_term","pattern":"application programming interface api"}
+{"label":"CS_term","pattern":"application programming interface"}
+{"label":"CS_term","pattern":"application software"}
+{"label":"CS_term","pattern":"array data structure"}
+{"label":"CS_term","pattern":"artifact"}
+{"label":"CS_term","pattern":"artificial intelligence ai"}
+{"label":"CS_term","pattern":"artificial intelligence ai"}
+{"label":"CS_term","pattern":"artificial intelligence"}
+{"label":"CS_term","pattern":"ascii"}
+{"label":"CS_term","pattern":"assertion"}
+{"label":"CS_term","pattern":"associative array"}
+{"label":"CS_term","pattern":"automata theory"}
+{"label":"CS_term","pattern":"automate reasoning"}
+{"label":"CS_term","pattern":"bandwidth"}
+{"label":"CS_term","pattern":"bayesian programming"}
+{"label":"CS_term","pattern":"benchmark"}
+{"label":"CS_term","pattern":"well bad and average case"}
+{"label":"CS_term","pattern":"big datum"}
+{"label":"CS_term","pattern":"big o notation"}
+{"label":"CS_term","pattern":"binary number"}
+{"label":"CS_term","pattern":"binary search algorithm"}
+{"label":"CS_term","pattern":"binary tree"}
+{"label":"CS_term","pattern":"bioinformatic"}
+{"label":"CS_term","pattern":"bit"}
+{"label":"CS_term","pattern":"bit rate r"}
+{"label":"CS_term","pattern":"bit rate r"}
+{"label":"CS_term","pattern":"rate r"}
+{"label":"CS_term","pattern":"blacklist"}
+{"label":"CS_term","pattern":"bmp file format"}
+{"label":"CS_term","pattern":"boolean datum type"}
+{"label":"CS_term","pattern":"boolean expression"}
+{"label":"CS_term","pattern":"boolean algebra"}
+{"label":"CS_term","pattern":"byte"}
+{"label":"CS_term","pattern":"boot"}
+{"label":"CS_term","pattern":"callback"}
+{"label":"CS_term","pattern":"central processing unit cpu"}
+{"label":"CS_term","pattern":"central processing unit cpu"}
+{"label":"CS_term","pattern":"central processing unit"}
+{"label":"CS_term","pattern":"character"}
+{"label":"CS_term","pattern":"cipher"}
+{"label":"CS_term","pattern":"class"}
+{"label":"CS_term","pattern":"class base programming"}
+{"label":"CS_term","pattern":"class base programming"}
+{"label":"CS_term","pattern":"client"}
+{"label":"CS_term","pattern":"cleanroom software engineering"}
+{"label":"CS_term","pattern":"closure"}
+{"label":"CS_term","pattern":"cloud computing"}
+{"label":"CS_term","pattern":"code library"}
+{"label":"CS_term","pattern":"code"}
+{"label":"CS_term","pattern":"code theory"}
+{"label":"CS_term","pattern":"cognitive science"}
+{"label":"CS_term","pattern":"collection"}
+{"label":"CS_term","pattern":"comma separate value csv"}
+{"label":"CS_term","pattern":"comma separate value csv"}
+{"label":"CS_term","pattern":"comma separate value csv"}
+{"label":"CS_term","pattern":"comma separate value csv"}
+{"label":"CS_term","pattern":"comma separate value"}
+{"label":"CS_term","pattern":"comma separate value"}
+{"label":"CS_term","pattern":"compiler"}
+{"label":"CS_term","pattern":"computability theory"}
+{"label":"CS_term","pattern":"computation"}
+{"label":"CS_term","pattern":"computational biology"}
+{"label":"CS_term","pattern":"computational chemistry"}
+{"label":"CS_term","pattern":"computational complexity theory"}
+{"label":"CS_term","pattern":"computational model"}
+{"label":"CS_term","pattern":"computational neuroscience"}
+{"label":"CS_term","pattern":"computational physics"}
+{"label":"CS_term","pattern":"computational science"}
+{"label":"CS_term","pattern":"computational steering"}
+{"label":"CS_term","pattern":"computer"}
+{"label":"CS_term","pattern":"computer architecture"}
+{"label":"CS_term","pattern":"computer datum storage"}
+{"label":"CS_term","pattern":"computer ethic"}
+{"label":"CS_term","pattern":"computer graphic"}
+{"label":"CS_term","pattern":"computer network"}
+{"label":"CS_term","pattern":"computer program"}
+{"label":"CS_term","pattern":"computer programming"}
+{"label":"CS_term","pattern":"computer science"}
+{"label":"CS_term","pattern":"computer scientist"}
+{"label":"CS_term","pattern":"computer security"}
+{"label":"CS_term","pattern":"computer vision"}
+{"label":"CS_term","pattern":"compute"}
+{"label":"CS_term","pattern":"concatenation"}
+{"label":"CS_term","pattern":"concurrency"}
+{"label":"CS_term","pattern":"conditional"}
+{"label":"CS_term","pattern":"container"}
+{"label":"CS_term","pattern":"continuation pass style cps"}
+{"label":"CS_term","pattern":"continuation pass style cps"}
+{"label":"CS_term","pattern":"continuation pass style cps"}
+{"label":"CS_term","pattern":"continuation pass style cps"}
+{"label":"CS_term","pattern":"continuation pass style"}
+{"label":"CS_term","pattern":"continuation pass style"}
+{"label":"CS_term","pattern":"control flow"}
+{"label":"CS_term","pattern":"creative commons cc"}
+{"label":"CS_term","pattern":"creative commons cc"}
+{"label":"CS_term","pattern":"creative commons"}
+{"label":"CS_term","pattern":"cryptography"}
+{"label":"CS_term","pattern":"csv"}
+{"label":"CS_term","pattern":"cyberbullye"}
+{"label":"CS_term","pattern":"cyberspace"}
+{"label":"CS_term","pattern":"daemon"}
+{"label":"CS_term","pattern":"datum center"}
+{"label":"CS_term","pattern":"database"}
+{"label":"CS_term","pattern":"datum mining"}
+{"label":"CS_term","pattern":"datum science"}
+{"label":"CS_term","pattern":"datum structure"}
+{"label":"CS_term","pattern":"datum type"}
+{"label":"CS_term","pattern":"debug"}
+{"label":"CS_term","pattern":"declaration"}
+{"label":"CS_term","pattern":"digital datum"}
+{"label":"CS_term","pattern":"digital signal processing dsp"}
+{"label":"CS_term","pattern":"digital signal process dsp"}
+{"label":"CS_term","pattern":"digital signal processing"}
+{"label":"CS_term","pattern":"discrete event simulation des"}
+{"label":"CS_term","pattern":"discrete event simulation des"}
+{"label":"CS_term","pattern":"discrete event simulation"}
+{"label":"CS_term","pattern":"disk storage"}
+{"label":"CS_term","pattern":"distribute computing"}
+{"label":"CS_term","pattern":"divide and conquer algorithm"}
+{"label":"CS_term","pattern":"dns"}
+{"label":"CS_term","pattern":"documentation"}
+{"label":"CS_term","pattern":"domain"}
+{"label":"CS_term","pattern":"domain name system dns"}
+{"label":"CS_term","pattern":"domain name system dns"}
+{"label":"CS_term","pattern":"domain name system"}
+{"label":"CS_term","pattern":"double precision float point format"}
+{"label":"CS_term","pattern":"double precision float point format"}
+{"label":"CS_term","pattern":"download"}
+{"label":"CS_term","pattern":"edge device"}
+{"label":"CS_term","pattern":"encryption"}
+{"label":"CS_term","pattern":"event"}
+{"label":"CS_term","pattern":"event drive programming"}
+{"label":"CS_term","pattern":"event drive programming"}
+{"label":"CS_term","pattern":"evolutionary computing"}
+{"label":"CS_term","pattern":"executable"}
+{"label":"CS_term","pattern":"executable module"}
+{"label":"CS_term","pattern":"execution"}
+{"label":"CS_term","pattern":"exception handling"}
+{"label":"CS_term","pattern":"existence detection"}
+{"label":"CS_term","pattern":"expression"}
+{"label":"CS_term","pattern":"external library"}
+{"label":"CS_term","pattern":"fault tolerant computer system"}
+{"label":"CS_term","pattern":"fault tolerant computer system"}
+{"label":"CS_term","pattern":"feasibility study"}
+{"label":"CS_term","pattern":"field"}
+{"label":"CS_term","pattern":"filename extension"}
+{"label":"CS_term","pattern":"filter software"}
+{"label":"CS_term","pattern":"filter software"}
+{"label":"CS_term","pattern":"filter software"}
+{"label":"CS_term","pattern":"float point arithmetic"}
+{"label":"CS_term","pattern":"for loop"}
+{"label":"CS_term","pattern":"formal method"}
+{"label":"CS_term","pattern":"formal verification"}
+{"label":"CS_term","pattern":"functional programming"}
+{"label":"CS_term","pattern":"game theory"}
+{"label":"CS_term","pattern":"garbage in garbage out gigo"}
+{"label":"CS_term","pattern":"garbage in garbage out gigo"}
+{"label":"CS_term","pattern":"garbage in garbage out"}
+{"label":"CS_term","pattern":"graphics interchange format"}
+{"label":"CS_term","pattern":"gigabyte"}
+{"label":"CS_term","pattern":"global variable"}
+{"label":"CS_term","pattern":"graph theory"}
+{"label":"CS_term","pattern":"handle"}
+{"label":"CS_term","pattern":"hard problem"}
+{"label":"CS_term","pattern":"hash function"}
+{"label":"CS_term","pattern":"hash table"}
+{"label":"CS_term","pattern":"heap"}
+{"label":"CS_term","pattern":"heapsort"}
+{"label":"CS_term","pattern":"human computer interaction hci"}
+{"label":"CS_term","pattern":"human computer interaction hci"}
+{"label":"CS_term","pattern":"human computer interaction hci"}
+{"label":"CS_term","pattern":"human computer interaction hci"}
+{"label":"CS_term","pattern":"human computer interaction"}
+{"label":"CS_term","pattern":"human computer interaction"}
+{"label":"CS_term","pattern":"identifi"}
+{"label":"CS_term","pattern":"ide"}
+{"label":"CS_term","pattern":"image processing"}
+{"label":"CS_term","pattern":"imperative programming"}
+{"label":"CS_term","pattern":"incremental build model"}
+{"label":"CS_term","pattern":"information space analysis"}
+{"label":"CS_term","pattern":"information visualization"}
+{"label":"CS_term","pattern":"inheritance"}
+{"label":"CS_term","pattern":"input output i o"}
+{"label":"CS_term","pattern":"input output i o"}
+{"label":"CS_term","pattern":"input output"}
+{"label":"CS_term","pattern":"insertion sort"}
+{"label":"CS_term","pattern":"instruction cycle"}
+{"label":"CS_term","pattern":"integer"}
+{"label":"CS_term","pattern":"integrate development environment ide"}
+{"label":"CS_term","pattern":"integrate development environment ide"}
+{"label":"CS_term","pattern":"integrate development environment"}
+{"label":"CS_term","pattern":"integration testing"}
+{"label":"CS_term","pattern":"intellectual property ip"}
+{"label":"CS_term","pattern":"intellectual property ip"}
+{"label":"CS_term","pattern":"intellectual property"}
+{"label":"CS_term","pattern":"intelligent agent"}
+{"label":"CS_term","pattern":"interface"}
+{"label":"CS_term","pattern":"internal documentation"}
+{"label":"CS_term","pattern":"internet"}
+{"label":"CS_term","pattern":"internet bot"}
+{"label":"CS_term","pattern":"interpreter"}
+{"label":"CS_term","pattern":"invariant"}
+{"label":"CS_term","pattern":"iteration"}
+{"label":"CS_term","pattern":"java"}
+{"label":"CS_term","pattern":"kernel"}
+{"label":"CS_term","pattern":"library computing"}
+{"label":"CS_term","pattern":"library computing"}
+{"label":"CS_term","pattern":"library computing"}
+{"label":"CS_term","pattern":"linear search"}
+{"label":"CS_term","pattern":"link list"}
+{"label":"CS_term","pattern":"linker"}
+{"label":"CS_term","pattern":"list"}
+{"label":"CS_term","pattern":"loader"}
+{"label":"CS_term","pattern":"logic error"}
+{"label":"CS_term","pattern":"logic programming"}
+{"label":"CS_term","pattern":"machine learning ml"}
+{"label":"CS_term","pattern":"machine learn ml"}
+{"label":"CS_term","pattern":"machine learning"}
+{"label":"CS_term","pattern":"machine vision mv"}
+{"label":"CS_term","pattern":"machine vision mv"}
+{"label":"CS_term","pattern":"machine vision mv"}
+{"label":"CS_term","pattern":"mathematical logic"}
+{"label":"CS_term","pattern":"matrix"}
+{"label":"CS_term","pattern":"memory"}
+{"label":"CS_term","pattern":"merge sort"}
+{"label":"CS_term","pattern":"method"}
+{"label":"CS_term","pattern":"methodology"}
+{"label":"CS_term","pattern":"modem"}
+{"label":"CS_term","pattern":"natural language processing nlp"}
+{"label":"CS_term","pattern":"natural language processing nlp"}
+{"label":"CS_term","pattern":"natural language processing"}
+{"label":"CS_term","pattern":"node"}
+{"label":"CS_term","pattern":"number theory"}
+{"label":"CS_term","pattern":"numerical analysis"}
+{"label":"CS_term","pattern":"numerical method"}
+{"label":"CS_term","pattern":"object"}
+{"label":"CS_term","pattern":"object code"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient analysis and design ooad"}
+{"label":"CS_term","pattern":"object orient programming oop"}
+{"label":"CS_term","pattern":"object orient programming oop"}
+{"label":"CS_term","pattern":"object orient programming oop"}
+{"label":"CS_term","pattern":"object orient programming oop"}
+{"label":"CS_term","pattern":"object orient programming"}
+{"label":"CS_term","pattern":"object orient programming"}
+{"label":"CS_term","pattern":"open source software oss"}
+{"label":"CS_term","pattern":"open source software oss"}
+{"label":"CS_term","pattern":"open source software oss"}
+{"label":"CS_term","pattern":"open source software oss"}
+{"label":"CS_term","pattern":"open source software"}
+{"label":"CS_term","pattern":"open source software"}
+{"label":"CS_term","pattern":"operate system os"}
+{"label":"CS_term","pattern":"operate system os"}
+{"label":"CS_term","pattern":"operate system"}
+{"label":"CS_term","pattern":"optical fiber"}
+{"label":"CS_term","pattern":"pair programming"}
+{"label":"CS_term","pattern":"parallel computing"}
+{"label":"CS_term","pattern":"parameter"}
+{"label":"CS_term","pattern":"peripheral"}
+{"label":"CS_term","pattern":"pointer"}
+{"label":"CS_term","pattern":"postcondition"}
+{"label":"CS_term","pattern":"precondition"}
+{"label":"CS_term","pattern":"primary storage"}
+{"label":"CS_term","pattern":"primitive datum type"}
+{"label":"CS_term","pattern":"priority queue"}
+{"label":"CS_term","pattern":"procedural programming"}
+{"label":"CS_term","pattern":"procedure"}
+{"label":"CS_term","pattern":"program lifecycle phase"}
+{"label":"CS_term","pattern":"programming language"}
+{"label":"CS_term","pattern":"programming language implementation"}
+{"label":"CS_term","pattern":"programming language theory"}
+{"label":"CS_term","pattern":"prolog"}
+{"label":"CS_term","pattern":"python"}
+{"label":"CS_term","pattern":"quantum computing"}
+{"label":"CS_term","pattern":"queue"}
+{"label":"CS_term","pattern":"quicksort"}
+{"label":"CS_term","pattern":"r programming language"}
+{"label":"CS_term","pattern":"radix"}
+{"label":"CS_term","pattern":"record"}
+{"label":"CS_term","pattern":"recursion"}
+{"label":"CS_term","pattern":"reference"}
+{"label":"CS_term","pattern":"reference counting"}
+{"label":"CS_term","pattern":"relational database"}
+{"label":"CS_term","pattern":"reliability engineering"}
+{"label":"CS_term","pattern":"regression testing"}
+{"label":"CS_term","pattern":"requirement analysis"}
+{"label":"CS_term","pattern":"robotic"}
+{"label":"CS_term","pattern":"round off error"}
+{"label":"CS_term","pattern":"round off error"}
+{"label":"CS_term","pattern":"router"}
+{"label":"CS_term","pattern":"route table"}
+{"label":"CS_term","pattern":"run time"}
+{"label":"CS_term","pattern":"run time error"}
+{"label":"CS_term","pattern":"search algorithm"}
+{"label":"CS_term","pattern":"secondary storage"}
+{"label":"CS_term","pattern":"selection sort"}
+{"label":"CS_term","pattern":"semantic"}
+{"label":"CS_term","pattern":"sequence"}
+{"label":"CS_term","pattern":"serializability"}
+{"label":"CS_term","pattern":"serialization"}
+{"label":"CS_term","pattern":"service level agreement"}
+{"label":"CS_term","pattern":"set"}
+{"label":"CS_term","pattern":"singleton variable"}
+{"label":"CS_term","pattern":"soft computing"}
+{"label":"CS_term","pattern":"software"}
+{"label":"CS_term","pattern":"software agent"}
+{"label":"CS_term","pattern":"software construction"}
+{"label":"CS_term","pattern":"software deployment"}
+{"label":"CS_term","pattern":"software design"}
+{"label":"CS_term","pattern":"software development"}
+{"label":"CS_term","pattern":"software development process"}
+{"label":"CS_term","pattern":"software engineering"}
+{"label":"CS_term","pattern":"software maintenance"}
+{"label":"CS_term","pattern":"software prototype"}
+{"label":"CS_term","pattern":"software requirement specification"}
+{"label":"CS_term","pattern":"software testing"}
+{"label":"CS_term","pattern":"sort algorithm"}
+{"label":"CS_term","pattern":"source code"}
+{"label":"CS_term","pattern":"spiral model"}
+{"label":"CS_term","pattern":"stack"}
+{"label":"CS_term","pattern":"state"}
+{"label":"CS_term","pattern":"statement"}
+{"label":"CS_term","pattern":"storage"}
+{"label":"CS_term","pattern":"stream"}
+{"label":"CS_term","pattern":"string"}
+{"label":"CS_term","pattern":"structured storage"}
+{"label":"CS_term","pattern":"subroutine"}
+{"label":"CS_term","pattern":"symbolic computation"}
+{"label":"CS_term","pattern":"syntax"}
+{"label":"CS_term","pattern":"syntax error"}
+{"label":"CS_term","pattern":"system console"}
+{"label":"CS_term","pattern":"technical documentation"}
+{"label":"CS_term","pattern":"third generation programming language"}
+{"label":"CS_term","pattern":"third generation programming language"}
+{"label":"CS_term","pattern":"top down and bottom up design"}
+{"label":"CS_term","pattern":"top down and bottom up design"}
+{"label":"CS_term","pattern":"tree"}
+{"label":"CS_term","pattern":"type theory"}
+{"label":"CS_term","pattern":"upload"}
+{"label":"CS_term","pattern":"uniform resource locator url"}
+{"label":"CS_term","pattern":"uniform resource locator url"}
+{"label":"CS_term","pattern":"uniform resource locator"}
+{"label":"CS_term","pattern":"user"}
+{"label":"CS_term","pattern":"user agent"}
+{"label":"CS_term","pattern":"user interface ui"}
+{"label":"CS_term","pattern":"user interface ui"}
+{"label":"CS_term","pattern":"user interface"}
+{"label":"CS_term","pattern":"user interface design"}
+{"label":"CS_term","pattern":"variable"}
+{"label":"CS_term","pattern":"virtual machine vm"}
+{"label":"CS_term","pattern":"virtual machine vm"}
+{"label":"CS_term","pattern":"virtual machine"}
+{"label":"CS_term","pattern":"v model"}
+{"label":"CS_term","pattern":"v model"}
+{"label":"CS_term","pattern":"waterfall model"}
+{"label":"CS_term","pattern":"waveform audio file format"}
+{"label":"CS_term","pattern":"web crawler"}
+{"label":"CS_term","pattern":"wi fi"}
+{"label":"CS_term","pattern":"wi fi"}
+{"label":"CS_term","pattern":"xhtml"}
+{"label":"CS_term","pattern":"abstract type"}
+{"label":"CS_term","pattern":"method"}
+{"label":"CS_term","pattern":"variable"}
+{"label":"CS_term","pattern":"override"}
+{"label":"CS_term","pattern":"overload"}
+{"label":"CS_term","pattern":"accessor method"}
+{"label":"CS_term","pattern":"mutator method"}
+{"label":"CS_term","pattern":"manager method"}
+{"label":"CS_term","pattern":"constructor"}
+{"label":"CS_term","pattern":"destructor"}
+{"label":"CS_term","pattern":"abstract method"}
+{"label":"CS_term","pattern":"class method"}
+{"label":"CS_term","pattern":"static method"}
+{"label":"CS_term","pattern":"access modifier"}
+{"label":"CS_term","pattern":"abstraction"}
+{"label":"CS_term","pattern":"datum abstraction"}
+{"label":"CS_term","pattern":"type conversion"}
+{"label":"CS_term","pattern":"type casting"}
+{"label":"CS_term","pattern":"type coercion"}
+{"label":"CS_term","pattern":"type juggling"}
+{"label":"CS_term","pattern":"implicit type conversion"}
+{"label":"CS_term","pattern":"type promotion"}
+{"label":"CS_term","pattern":"explicit type conversion"}
+{"label":"CS_term","pattern":"class"}
+{"label":"CS_term","pattern":"class interface"}
+{"label":"CS_term","pattern":"member accessibility"}
+{"label":"CS_term","pattern":"abstract class"}
+{"label":"CS_term","pattern":"abstract base class"}
+{"label":"CS_term","pattern":"concrete class"}
+{"label":"CS_term","pattern":"non subclassable class"}
+{"label":"CS_term","pattern":"uninstantiable class"}
+{"label":"CS_term","pattern":"partial class"}
+{"label":"CS_term","pattern":"open class"}
+{"label":"CS_term","pattern":"metaclasse"}
+{"label":"CS_term","pattern":"class private"}
+{"label":"CS_term","pattern":"class protect"}
+{"label":"CS_term","pattern":"public"}
+{"label":"CS_term","pattern":"subclass"}
+{"label":"CS_term","pattern":"superclass"}
+{"label":"CS_term","pattern":"inheritance"}
+{"label":"CS_term","pattern":"single inheritance"}
+{"label":"CS_term","pattern":"multiple inheritance"}
+{"label":"CS_term","pattern":"multilevel inheritance"}
+{"label":"CS_term","pattern":"hierarchical inheritance"}
+{"label":"CS_term","pattern":"subtype"}
+{"label":"CS_term","pattern":"object orient programming"}
+{"label":"CS_term","pattern":"object orient programming"}
+{"label":"CS_term","pattern":"immutable object"}
+{"label":"CS_term","pattern":"multiple dispatch"}
+{"label":"CS_term","pattern":"single dispatch"}
+{"label":"CS_term","pattern":"logical cohesion"}
+{"label":"CS_term","pattern":"temporal cohesion"}
+{"label":"CS_term","pattern":"coincidental cohesion"}
+{"label":"CS_term","pattern":"procedural cohesion"}
+{"label":"CS_term","pattern":"sequential cohesion"}
+{"label":"CS_term","pattern":"functional cohesion"}
+{"label":"CS_term","pattern":"perfect cohesion"}
+{"label":"CS_term","pattern":"cohesion"}
+{"label":"CS_term","pattern":"object composition"}
+{"label":"CS_term","pattern":"object aggregation"}
+{"label":"CS_term","pattern":"aggregation"}
+{"label":"CS_term","pattern":"composition"}
+{"label":"CS_term","pattern":"default constructor"}
+{"label":"CS_term","pattern":"parameterized constructor"}
+{"label":"CS_term","pattern":"copy constructor"}
+{"label":"CS_term","pattern":"conversion constructor"}
+{"label":"CS_term","pattern":"move constructor"}
+{"label":"CS_term","pattern":"couple"}
+{"label":"CS_term","pattern":"content couple"}
+{"label":"CS_term","pattern":"common coupling"}
+{"label":"CS_term","pattern":"external coupling"}
+{"label":"CS_term","pattern":"control coupling"}
+{"label":"CS_term","pattern":"stamp coupling"}
+{"label":"CS_term","pattern":"datum coupling"}
+{"label":"CS_term","pattern":"subclass coupling"}
+{"label":"CS_term","pattern":"temporal coupling"}
+{"label":"CS_term","pattern":"dynamic coupling"}
+{"label":"CS_term","pattern":"semantic coupling"}
+{"label":"CS_term","pattern":"logical coupling"}
+{"label":"CS_term","pattern":"tight coupling"}
+{"label":"CS_term","pattern":"destructor"}
+{"label":"CS_term","pattern":"dynamic dispatch"}
+{"label":"CS_term","pattern":"encapsulation"}
+{"label":"CS_term","pattern":"information hiding"}
+{"label":"CS_term","pattern":"exception handling"}
+{"label":"CS_term","pattern":"immutable variable"}
+{"label":"CS_term","pattern":"weak immutability"}
+{"label":"CS_term","pattern":"strong immutability"}
+{"label":"CS_term","pattern":"reference"}
+{"label":"CS_term","pattern":"instance"}
+{"label":"CS_term","pattern":"instance variable"}
+{"label":"CS_term","pattern":"interface"}
+{"label":"CS_term","pattern":"diamond problem"}
+{"label":"CS_term","pattern":"multiple inheritance"}
+{"label":"CS_term","pattern":"box"}
+{"label":"CS_term","pattern":"autoboxe"}
+{"label":"CS_term","pattern":"wrap"}
+{"label":"CS_term","pattern":"automatic unbox"}
+{"label":"CS_term","pattern":"unbox"}
+{"label":"CS_term","pattern":"primitive datum type"}
+{"label":"CS_term","pattern":"integer"}
+{"label":"CS_term","pattern":"float point number"}
+{"label":"CS_term","pattern":"boolean"}
+{"label":"CS_term","pattern":"scope"}
+{"label":"CS_term","pattern":"dynamic scope"}
+{"label":"CS_term","pattern":"lexical scope"}
+{"label":"CS_term","pattern":"expression scope"}
+{"label":"CS_term","pattern":"block scope"}
+{"label":"CS_term","pattern":"function scope"}
+{"label":"CS_term","pattern":"file scope"}
+{"label":"CS_term","pattern":"module scope"}
+{"label":"CS_term","pattern":"global scope"}
+{"label":"CS_term","pattern":"ad hoc polymorphism"}
+{"label":"CS_term","pattern":"subtype"}
+{"label":"CS_term","pattern":"dynamic polymorphism"}
+{"label":"CS_term","pattern":"static polymorphism"}
+{"label":"CS_term","pattern":"polymorphism"}
+{"label":"CS_term","pattern":"type system"}
+{"label":"CS_term","pattern":"static type checking"}
+{"label":"CS_term","pattern":"type checking"}
+{"label":"CS_term","pattern":"dynamic type checking"}
+{"label":"CS_term","pattern":"weak type system"}
+{"label":"CS_term","pattern":"strong type system"}
+{"label":"CS_term","pattern":"implicit declaration"}
+{"label":"CS_term","pattern":"explicit declaration"}
+{"label":"CS_term","pattern":"unify type system"}
+{"label":"CS_term","pattern":"object"}

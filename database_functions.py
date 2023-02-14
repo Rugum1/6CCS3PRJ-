@@ -40,7 +40,6 @@ class DbFunctions:
         print("Table created succesfully")
 
 
-
     def select_term_from_db(self,sql,name):
 
         connection = self.connect_to_the_database('database.sqlite3')

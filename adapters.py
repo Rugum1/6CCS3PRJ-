@@ -16,8 +16,7 @@ class CSTermsAdapter(LogicAdapter):
 
     def can_process(self, statement):
         spell = CSTermsSpellChecker()
-        # text_input = spell.check_spelling(statement.text)
-        nlp = spacy.load("NER_models/cs_ner_4")
+        nlp = spacy.load("NER_models/cs_ner_5(lemmatized)")
         doc = nlp(statement.text)
         if len(doc.ents)  > 0:
             return True
@@ -29,14 +28,7 @@ class CSTermsAdapter(LogicAdapter):
         nlp = spacy.load("NER_models/cs_ner_3")
         doc = nlp(input_statement.text)
         ent = doc.ents
-        # db = DbFunctions()
-
-        # print(self.answer_processor.get_answer(input_statement.text))
-
-        # sql = "SELECT DESCRIPTION FROM " + ent[0].label_ + " WHERE name=?"
-
-        # response = db.select_term_from_db(sql,ent[0].text)
-
+       
         selected_statement = Statement(text = self.answer_processor.get_answer(input_statement.text))
 
         selected_statement.confidence = confidence
