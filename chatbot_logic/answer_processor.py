@@ -1,15 +1,16 @@
 from transformers import BertForQuestionAnswering
 from transformers import AutoTokenizer
 from transformers import pipeline
-import helpers
+from chatbot_website.chatbot_logic import helpers
 import spacy
 
 class AnswerProcessor():
 
     model = BertForQuestionAnswering.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
     tokenizer = AutoTokenizer.from_pretrained('deepset/bert-large-uncased-whole-word-masking-squad2')
-    bm25_model = helpers.load_bm25_model("BM25/model7(lematized).pkl")
-    corpus = helpers.load_corpus("./data2/concatenated_data_2.csv")
+    bm25_model = helpers.load_bm25_model("chatbot_website/chatbot_logic/BM25/model7(lematized).pkl")
+    corpus = helpers.load_corpus("chatbot_website/chatbot_logic/data2/concatenated_data_2.csv")
+
 
 
     def get_answer(self,query):
@@ -18,7 +19,7 @@ class AnswerProcessor():
         tokenized_query = helpers.tokenize_text(query)
 
         context = self.get_context(tokenized_query)
-        print(context)
+        # print(context)
 
         nlp2 = pipeline('question-answering', model = self.model, tokenizer = self.tokenizer)
 
