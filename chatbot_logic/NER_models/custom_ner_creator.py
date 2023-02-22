@@ -32,7 +32,6 @@ class NERCreator:
         return (patterns)
 
 
-    #This method was taken from Python tutorials for digital humanities
     def generate_rules(self,patterns,ner_name):
         nlp = English()
         ruler = nlp.add_pipe("entity_ruler")

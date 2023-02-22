@@ -1,9 +1,6 @@
-from chatterbot import ChatBot
 from chatterbot.conversation import Statement
+from chatterbot import ChatBot
 import spacy
-
-
-
 
 
 class ChatBotStudentAid(ChatBot): 
@@ -11,6 +8,7 @@ class ChatBotStudentAid(ChatBot):
     def __init__(self): 
         "create class"
         self.bot  = self.create_bot() 
+        
 
     #Create a new instance of a ChatBot
     def create_bot(self): 
