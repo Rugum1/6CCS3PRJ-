@@ -3,7 +3,7 @@ from chatterbot.conversation import Statement
 from transformers import BertForQuestionAnswering
 from transformers import AutoTokenizer
 from transformers import pipeline
-import helpers
+import helpers as helpers 
 import spacy
 
 class CSTermsAdapter(LogicAdapter):
@@ -63,3 +63,8 @@ class CSTermsAdapter(LogicAdapter):
             combined_paragraphs += "\n" + answer
             
         return combined_paragraphs
+    
+
+   
+ 
+

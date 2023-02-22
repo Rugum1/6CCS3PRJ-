@@ -5,7 +5,8 @@ import spacy
 
 
 
-class ChatBotStudentAid(): 
+
+class ChatBotStudentAid(ChatBot): 
 
     def __init__(self): 
         "create class"

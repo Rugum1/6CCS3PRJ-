@@ -60,3 +60,20 @@ def tokenize_text(text):
                     word_list.append(doc[i].lemma_.strip())
     
     return word_list
+
+
+def get_context_without_tokenized_query(query): 
+        
+        model = load_bm25_model("BM25/model7(lematized).pkl")
+
+        combined_paragraphs =""
+        
+        tokenized_query = tokenize_text(query)
+
+        answer_list = model.get_top_n(tokenized_query,load_corpus("data2/concatenated_data_2.csv"),n=10)
+    
+        for answer in answer_list:
+           combined_paragraphs += "\n" + answer
+        
+        return combined_paragraphs
+
