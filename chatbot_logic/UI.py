@@ -122,7 +122,7 @@ class App(customtkinter.CTk):
 
     
     def populate_terms_text_box(self): 
-        with open("data2/terms_covered_concat.json" , "r", encoding ="utf-8") as f:
+        with open("data/terms_covered_concat.json" , "r", encoding ="utf-8") as f:
             data = json.load(f)
 
             for term in data: 

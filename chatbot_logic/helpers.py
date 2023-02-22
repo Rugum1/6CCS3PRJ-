@@ -70,7 +70,7 @@ def get_context_without_tokenized_query(query):
         
         tokenized_query = tokenize_text(query)
 
-        answer_list = model.get_top_n(tokenized_query,load_corpus("data2/concatenated_data_2.csv"),n=10)
+        answer_list = model.get_top_n(tokenized_query,load_corpus("data/concatenated_data.csv"),n=10)
     
         for answer in answer_list:
            combined_paragraphs += "\n" + answer

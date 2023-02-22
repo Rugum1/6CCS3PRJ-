@@ -12,7 +12,7 @@ class CSTermsAdapter(LogicAdapter):
     model = BertForQuestionAnswering.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
     tokenizer = AutoTokenizer.from_pretrained('deepset/bert-large-uncased-whole-word-masking-squad2')
     bm25_model = helpers.load_bm25_model("BM25/model7(lematized).pkl")
-    corpus = helpers.load_corpus("data2/concatenated_data_2.csv")
+    corpus = helpers.load_corpus("data/concatenated_data.csv")
 
 
 
@@ -29,11 +29,7 @@ class CSTermsAdapter(LogicAdapter):
 
     def process(self, input_statement, additional_response_selection_parameters):
         confidence = 1
-
-        nlp = spacy.load("NER_models/cs_ner_3")
-        doc = nlp(input_statement.text)
-        ent = doc.ents
-       
+        
         selected_statement = Statement(text = self.get_answer(input_statement.text))
 
         selected_statement.confidence = confidence
