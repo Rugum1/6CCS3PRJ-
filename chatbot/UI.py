@@ -89,6 +89,7 @@ class App(customtkinter.CTk):
         bot_answer =  self.bot.get_answer(user_query)
 
         self.textbox.insert(END, bot_answer.text + '\n')
+        self.textbox.insert(END, " " + '\n')
         self.textbox.configure(state= 'disabled')
         self.context_textbox.configure(state = 'disabled')
     
