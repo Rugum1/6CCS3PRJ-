@@ -3,7 +3,7 @@ import json
 from spacy.lang.en import English
 from spacy.pipeline import EntityRuler
 
-
+#The code was taken from https://github.com/wjbmattingly/ner_youtube/blob/main/lessons/04_01_customizing_spacy.py, and adapted to the project. 
 class NERCreator:
 
     file_dict = None
@@ -18,7 +18,7 @@ class NERCreator:
             data = json.load(f)
         return(data)
 
-    def create_training_data(self,file_dict):
+    def create_pattern_data(self,file_dict):
         patterns = []
         for file in file_dict:
             type = file_dict[file]
@@ -31,7 +31,6 @@ class NERCreator:
                 patterns.append(pattern)
         return (patterns)
 
-
     def generate_rules(self,patterns,ner_name):
         nlp = English()
         ruler = nlp.add_pipe("entity_ruler")
@@ -42,7 +41,7 @@ class NERCreator:
         nlp.to_disk(ner_name)
 
     def create_custom_NER_model(self):
-        patterns = self.create_training_data(self.file_dict)
+        patterns = self.create_pattern_data(self.file_dict)
         nlp = self.generate_rules(patterns,self.ner_name)
         self.save_ner(nlp,self.ner_name)
         print("The NER model has been created succesfully")

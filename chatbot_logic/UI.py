@@ -4,19 +4,15 @@ import customtkinter
 import helpers 
 import chatbot
 
+#This class was taken from https://github.com/TomSchimansky/CustomTkinter and adapted to the project.
 
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
-
-
-
-
 
 class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
         
-
         # #create chatbot 
         self.bot = chatbot.ChatBotStudentAid()
        
@@ -56,7 +52,6 @@ class App(customtkinter.CTk):
                                                                command=self.change_scaling_event)
         self.scaling_optionemenu.grid(row=8, column=0, padx=20, pady=(10, 20))
         
-      
         # create main entry and button
         self.entry = customtkinter.CTkEntry(self, placeholder_text="Type a question")
         self.entry.grid(row=3, column=1, columnspan=2, padx=(20, 0), pady=(20, 20), sticky="nsew")
@@ -79,8 +74,6 @@ class App(customtkinter.CTk):
         self.appearance_mode_optionemenu.set("Dark")
         self.scaling_optionemenu.set("100%")
         
-        
-    
     def input_button_event(self):
         self.textbox.configure(state= 'normal')
         self.context_textbox.configure(state = "normal")
@@ -95,13 +88,10 @@ class App(customtkinter.CTk):
         
         bot_answer =  self.bot.get_answer(user_query)
 
-        
-       
         self.textbox.insert(END, bot_answer.text + '\n')
         self.textbox.configure(state= 'disabled')
         self.context_textbox.configure(state = 'disabled')
     
-
     def clear_chat_log(self): 
         self.textbox.configure(state= 'normal')
         self.context_textbox.configure(state = 'normal')
@@ -120,7 +110,6 @@ class App(customtkinter.CTk):
         new_scaling_float = int(new_scaling.replace("%", "")) / 100
         customtkinter.set_widget_scaling(new_scaling_float)
 
-    
     def populate_terms_text_box(self): 
         with open("data/terms_covered_concat.json" , "r", encoding ="utf-8") as f:
             data = json.load(f)
@@ -129,8 +118,6 @@ class App(customtkinter.CTk):
                 self.terms_covered_text_box.insert(END, term + '\n')
             
             self.terms_covered_text_box.configure(state = 'disabled')
-
-
 
 if __name__ == "__main__":
     app = App()

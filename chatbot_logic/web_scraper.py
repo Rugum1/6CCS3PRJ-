@@ -4,13 +4,9 @@ from selenium.webdriver.support.wait import WebDriverWait
 import pandas as pd
 import csv
 
-
 class Web_Scraper(): 
 
-    
-
     def scrape_data(self,url_file,output_file,xPath): 
-
         driver = webdriver.Safari()
         df = pd.read_csv(url_file)
         paragraph_list = []
@@ -27,10 +23,7 @@ class Web_Scraper():
 
         print("All paragraphs scraped")
         
-
-    
     def save_file(self,file,paragraph_list): 
-
         header=["paragraph"]
 
         with open(file,'w',encoding ="utf-8", newline ='') as f:

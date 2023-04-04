@@ -23,7 +23,6 @@ class BM25Creator:
   
        self.save_BM25_model(model_name,bm25)
     
-    
     """This method converts the pandas dataframe in a list of tokens that are needed 
        for the creation of the BM25 model"""
     def convert_dataframe_to_list(self,output_file):
@@ -38,7 +37,6 @@ class BM25Creator:
         
         return tokenized_corpus
     
-
     """This method tokenizes the corpus by using a spacy model.The entities that are part of the NER model are not 
         going to be tokenized  """
     def tokenize_text(self,row): 
@@ -64,7 +62,6 @@ class BM25Creator:
         
         return word_list
     
-    
     def pre_process(self,doc): 
         processed_paragraph = ""
         for tok in doc: 
@@ -74,7 +71,6 @@ class BM25Creator:
         
         return processed_paragraph.strip()
     
-
     def save_BM25_model(self,file_name,bm25):
         with open(file_name, 'wb') as file:
             pickle.dump(bm25, file)

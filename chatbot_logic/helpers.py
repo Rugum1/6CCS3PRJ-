@@ -11,15 +11,12 @@ def load_bm25_model(file_name):
         model = pickle.load(file)
     return model
 
-
 def load_corpus(file_name):
     df = pd.read_csv(file_name)
     corpus = df['paragraph'].astype(str).values.tolist()
     return corpus
 
-
 def load_nlp(): 
-
     nlp = spacy.load("en_core_web_sm")
     nlp.remove_pipe("ner")
     nlp.add_pipe("entity_ruler", source=spacy.load("./NER_models/cs_ner_5(lematized)"))
@@ -36,9 +33,7 @@ def pre_process(doc):
     
     return processed_paragraph.strip()
 
-
 def tokenize_text(text): 
-    
     nlp = load_nlp()
     raw_doc = nlp(text)
     doc = nlp(pre_process(raw_doc))
@@ -48,11 +43,8 @@ def tokenize_text(text):
         j = i
         if i < len(doc):
             if doc[j].ent_iob_ == "B":
-
                 while j<len(doc) and doc[j].ent_iob_ != "O": 
-
                     j+= 1 
-
                 word_list.append(doc[i:j].lemma_.strip())
                 i = j 
             elif doc[i].ent_iob_ != "I": 
@@ -61,15 +53,10 @@ def tokenize_text(text):
     
     return word_list
 
-
 def get_context_without_tokenized_query(query): 
-        
         model = load_bm25_model("BM25/model7(lematized).pkl")
-
         combined_paragraphs =""
-        
         tokenized_query = tokenize_text(query)
-
         answer_list = model.get_top_n(tokenized_query,load_corpus("data/concatenated_data.csv"),n=10)
     
         for answer in answer_list:
