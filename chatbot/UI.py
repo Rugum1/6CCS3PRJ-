@@ -4,7 +4,7 @@ import customtkinter
 import helpers 
 import chatbot
 
-#This class was taken from https://github.com/TomSchimansky/CustomTkinter and adapted to the project.
+#This class was taken from https://github.com/TomSchimansky/CustomTkinter/blob/master/examples/complex_example.py and adapted to the project.
 
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
